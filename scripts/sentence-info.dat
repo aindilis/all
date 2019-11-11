@@ -1,0 +1,6026 @@
+$VAR1 = {
+  'The hundred high-born youths I gave, The chosen sons of the chieftains brave Of
+the warriors Dalcassian ? "' => {
+    'L2' => '0.11698116555957',
+    'Unknowns' => [
+      'Dalcassian'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'high-born',
+      'gave,',
+      '?',
+      '"'
+    ],
+    'L1' => '0.000912306206378365'
+  }
+};
+$VAR1 = {
+  'The clangour of conflict o\'erburthens the breeze
+From the stormy Sliabh Bloom to the stately Galtees ;' => {
+    'L2' => '0.11548120761631',
+    'Unknowns' => [
+      'clangour',
+      'Sliabh',
+      'Galtees'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'o\'erburthens',
+      ';'
+    ],
+    'L1' => '0.000889060620834746'
+  }
+};
+$VAR1 = {
+  'Blazes like a Viking beacon, guiding them from out the land— Till the last of
+all the pirates to their galleys shall have fled, Shuddering at the dire
+gall-tromba as the trumpet of the dead.' => {
+    'L2' => '0.144356465422931',
+    'Unknowns' => [],
+    'Min' => '5.4717604086836e-07',
+    'Unaccepted' => [
+      'beacon,',
+      'land—',
+      'fled,',
+      'gall-tromba',
+      'dead.'
+    ],
+    'L1' => '0.000694626303646729'
+  }
+};
+$VAR1 = {
+  'Lay your hands on its folds, lift your gaze to the sky,
+And swear that you\'ll bear it triumphant or die.
+And shout to the clans scattered far o\'er the earth,
+To join in the march to the land of their birth;
+And wherever the exiles, \'neath heaven\'s broad dome,
+Have been fated to suffer, to sorrow, and roam;
+They\'ll bound on the sea, and away o\'er the foam
+They\'ll sail to the music of " Home, Sweet Home ! "' => {
+    'L2' => '0.194741208504521',
+    'Unknowns' => [],
+    'Min' => '1.53209291443141e-06',
+    'Unaccepted' => [
+      'folds,',
+      'sky,',
+      'you\'ll',
+      'die.',
+      'o\'er',
+      'earth,',
+      'birth;',
+      'exiles,',
+      '\'neath',
+      'heaven\'s',
+      'dome,',
+      'suffer,',
+      'sorrow,',
+      'roam;',
+      'They\'ll',
+      'sea,',
+      'o\'er',
+      'They\'ll',
+      '"',
+      'Home,',
+      '!',
+      '"'
+    ],
+    'L1' => '0.000642782004911885'
+  }
+};
+$VAR1 = {
+  'Can the depths of the ocean afford you not graves
+That you come thus to perish afar o\'er the waves —
+To redden and swell the wild torrents that flow
+Through the valley of vengeance, the dark Aherlow ?' => {
+    'L2' => '0.149730702536645',
+    'Unknowns' => [
+      'Aherlow'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'o\'er',
+      '—',
+      'vengeance,',
+      '?'
+    ],
+    'L1' => '0.000640550950917633'
+  }
+};
+$VAR1 = {
+  'Ay ! the foemen are flying, but vainly they fly—
+Revenge with the fleetness of lightning can vie,
+And the septs of the mountains spring up from each rock,
+And rush down the ravines like wild wolves on the flock.' => {
+    'L2' => '0.145671457729347',
+    'Unknowns' => [
+      'foemen',
+      'septs'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '!',
+      'flying,',
+      'fly—',
+      'vie,',
+      'rock,',
+      'flock.'
+    ],
+    'L1' => '0.000624122752852731'
+  }
+};
+$VAR1 = {
+  '\'Twas twilight in Downpatrick town, the pilgrim in the porch Sat, faint with
+fasting and with prayer before the darkened' => {
+    'L2' => '0.102908677936858',
+    'Unknowns' => [
+      'Downpatrick'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '\'Twas',
+      'town,',
+      'Sat,'
+    ],
+    'L1' => '0.000622952705571289'
+  }
+};
+$VAR1 = {
+  'Bound to the mast of a Danish ship, the pirate Northman\'s slave. Dundalk, thy
+shores have often heard the roar of the boiling sea, But wilder far is the
+maddening shout that now is heard by' => {
+    'L2' => '0.137150519864852',
+    'Unknowns' => [],
+    'Min' => '1.20378728991039e-06',
+    'Unaccepted' => [
+      'ship,',
+      'Northman\'s',
+      'slave.',
+      'Dundalk,',
+      'sea,'
+    ],
+    'L1' => '0.000606782745135454'
+  }
+};
+$VAR1 = {
+  'For the arrows of vengeance are showering like rain,
+And choke the strong rivers with islands of slain,
+Till thy waves, lordly Shannon, all crimsonly flow
+Like the billows of hell, with the blood of the foe.' => {
+    'L2' => '0.136317578974997',
+    'Unknowns' => [
+      'crimsonly',
+      'billows'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'rain,',
+      'slain,',
+      'waves,',
+      'Shannon,',
+      'hell,',
+      'foe.'
+    ],
+    'L1' => '0.000599434914116274'
+  }
+};
+$VAR1 = {
+  'But slowly at last o\'er heaps of slain the Irish yield apace, The many have the
+few o\'ercome—defeat is no disgrace.' => {
+    'L2' => '0.100764497621636',
+    'Unknowns' => [],
+    'Min' => '1.31322249808406e-06',
+    'Unaccepted' => [
+      'o\'er',
+      'apace,',
+      'o\'ercome—defeat',
+      'disgrace.'
+    ],
+    'L1' => '0.000597263763584747'
+  }
+};
+$VAR1 = {
+  'He reeled out of the stifling den, and sat down on a stone, And in the shadows
+of the night \'twas thus he made his' => {
+    'L2' => '0.114399358549744',
+    'Unknowns' => [],
+    'Min' => '7.66046457215703e-07',
+    'Unaccepted' => [
+      'den,',
+      'stone,',
+      '\'twas'
+    ],
+    'L1' => '0.000594873328936036'
+  }
+};
+$VAR1 = {
+  'The rest in panic terror ran to horse and fled away,
+And left the Knight De Courcy at the bloody cross to pray.' => {
+    'L2' => '0.110866680868108',
+    'Unknowns' => [
+      'Courcy'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'away,',
+      'pray.'
+    ],
+    'L1' => '0.000585305758414806'
+  }
+};
+$VAR1 = {
+  'But the cold thin wave that the swan flocks sip Was the only wine that Brian\'s
+lips For a year, and more, had tasted.' => {
+    'L2' => '0.106600179758523',
+    'Unknowns' => [],
+    'Min' => '9.84916873563047e-07',
+    'Unaccepted' => [
+      'Brian\'s',
+      'year,',
+      'more,',
+      'tasted.'
+    ],
+    'L1' => '0.00056817991622747'
+  }
+};
+$VAR1 = {
+  'He plucked the tall cross from the root, and, waving it around, He dashed the
+master murd\'rer stark and lifeless to the ground. As, row on row, they pressed
+within the deadly ring he made, Twelve of the score in their own gore within
+his reach he' => {
+    'L2' => '0.144868565136929',
+    'Unknowns' => [],
+    'Min' => '1.53209291443141e-06',
+    'Unaccepted' => [
+      'root,',
+      'and,',
+      'around,',
+      'murd\'rer',
+      'ground.',
+      'As,',
+      'row,',
+      'made,'
+    ],
+    'L1' => '0.000538125670893143'
+  }
+};
+$VAR1 = {
+  'Keating appropriately initiated the fight against the Anglicising methods of
+Elizabeth\'s stronghold of Ascendancy, as MacHale initiated the campaign against
+a later and equally' => {
+    'L2' => '0.108803121285888',
+    'Unknowns' => [
+      'Anglicising',
+      'MacHale'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Elizabeth\'s',
+      'Ascendancy,'
+    ],
+    'L1' => '0.000538096327343253'
+  }
+};
+$VAR1 = {
+  '" The master was a rogue, his name was Darby Coggage,
+He ate the mate himself, we only got the cabbage ;
+The mistress, too, was sly, which no one ever doubted,
+She was mighty fond of wine, and left the sick without it."' => {
+    'L2' => '0.132330468980485',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      '"',
+      'rogue,',
+      'Coggage,',
+      'himself,',
+      ';',
+      'mistress,',
+      'too,',
+      'sly,',
+      'doubted,',
+      'wine,',
+      'it."'
+    ],
+    'L1' => '0.000530647061230157'
+  }
+};
+$VAR1 = {
+  'Man will bid thee speed —
+God will aid thee in thy need ;
+The Time, the Hour, the Power are near —' => {
+    'L2' => '0.0971821109053197',
+    'Unknowns' => [],
+    'Min' => '1.53209291443141e-06',
+    'Unaccepted' => [
+      '—',
+      ';',
+      'Time,',
+      'Hour,',
+      '—'
+    ],
+    'L1' => '0.000524686815556325'
+  }
+};
+$VAR1 = {
+  'Such the national prospect in the period of Keating\'s boyhood. He had scarcely
+reached man\'s estate before Trinity College was founded as a first step, Lord
+Bacon said, " towards the recovery of the hearts of the people." Recovery,
+|:oipiop ! The next step was the preparation of "versions of Bibles and
+Catechisms and other works of Instruction in the Irish language." Trinity\'s
+subsequent propagandism need not be discussed here; directly or indirectly it
+constitutes the burthen of a big proportion of our modern literature.' => {
+    'L2' => '0.190515934007351',
+    'Unknowns' => [
+      'Catechisms',
+      'propagandism',
+      'burthen'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Keating\'s',
+      'boyhood.',
+      'man\'s',
+      'step,',
+      'said,',
+      '"',
+      'people."',
+      'Recovery,',
+      '|:oipiop',
+      '!',
+      '"versions',
+      'language."',
+      'Trinity\'s',
+      'here;',
+      'literature.'
+    ],
+    'L1' => '0.000518518873009907'
+  }
+};
+$VAR1 = {
+  'The King is won ; but the lion heart that sets his master free
+Is deeply pierced—as he cuts the cord his life-blood dyes the sea.
+Brave Fionn\'s head is held on high, the Irish to appal,
+But they rush more fiercely to the fight, led on by young' => {
+    'L2' => '0.145150378250161',
+    'Unknowns' => [],
+    'Min' => '9.84916873563047e-07',
+    'Unaccepted' => [
+      ';',
+      'pierced—as',
+      'life-blood',
+      'sea.',
+      'Fionn\'s',
+      'high,',
+      'appal,',
+      'fight,'
+    ],
+    'L1' => '0.000513869080638164'
+  }
+};
+$VAR1 = {
+  'And now upon his homeward way he crossed the Collon high,
+And over bush and bank and brae he sent abroad his eye ;
+And all was darkening peacefully in grey and purple haze,
+The thrush was silent in the banks, the lark upon the braes—
+When suddenly shot up a blaze, from the cave\'s mouth it came,
+And troopers\' steeds and troopers\' caps are glancing in the
+same !' => {
+    'L2' => '0.172640700518643',
+    'Unknowns' => [
+      'Collon'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'high,',
+      ';',
+      'haze,',
+      'banks,',
+      'braes—',
+      'blaze,',
+      'cave\'s',
+      'came,',
+      'troopers\'',
+      'troopers\'',
+      '!'
+    ],
+    'L1' => '0.000505166296196065'
+  }
+};
+$VAR1 = {
+  'While ocean waves roll, or the mountains shall stand,
+Still hearts that are bravest and best of the nations,
+Shall glory and live in the songs of our land."' => {
+    'L2' => '0.112326709609783',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      'roll,',
+      'stand,',
+      'nations,',
+      'land."'
+    ],
+    'L1' => '0.000504691587670421'
+  }
+};
+$VAR1 = {
+  'They came with high boasting to bind us as slaves;
+But the glen and the torrent have yawned for their graves ;
+From the gloomy Ard Fionain to wild Teampoll Mor—
+From the Suir to the Shannon—is red with their gore.' => {
+    'L2' => '0.134689936053905',
+    'Unknowns' => [
+      'Ard',
+      'Fionain',
+      'Teampoll',
+      'Suir'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'slaves;',
+      ';',
+      'Mor—',
+      'Shannon—is',
+      'gore.'
+    ],
+    'L1' => '0.000503927190950142'
+  }
+};
+$VAR1 = {
+  'The Gaelic Journal, jMinne An tAe, An CtAit)eAifi Sotuif, t)AiibA, and the
+"Ballad History of Ireland" which has been such an interesting feature of the
+"United Irishman" have also been referred to with advantage. Some of the above
+are now out of print. Particulars regarding the others can be obtained in the
+Catalogues issued by M. H. Gill & Son, Limited.' => {
+    'L2' => '0.150307463378226',
+    'Unknowns' => [
+      'jMinne'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Journal,',
+      'tAe,',
+      'CtAit)eAifi',
+      'Sotuif,',
+      't)AiibA,',
+      '"Ballad',
+      'Ireland"',
+      '"United',
+      'Irishman"',
+      'advantage.',
+      'print.',
+      'M.',
+      'H.',
+      '&',
+      'Son,',
+      'Limited.'
+    ],
+    'L1' => '0.000502051856604371'
+  }
+};
+$VAR1 = {
+  'Let the trumpets ring triumph ! the tyrant is slain !
+He reels o\'er his charger, deep-pierced through the brain.
+And his myriads are flying like leaves on the gale—
+But who shall escape from our hills with the tale ?' => {
+    'L2' => '0.12854055537206',
+    'Unknowns' => [
+      'myriads'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '!',
+      '!',
+      'o\'er',
+      'charger,',
+      'deep-pierced',
+      'brain.',
+      'gale—',
+      '?'
+    ],
+    'L1' => '0.000500687102283562'
+  }
+};
+$VAR1 = {
+  'Since the inception about a decade ago of the active campaign of the Gaelic
+League the need for a collection of popular pieces suitable for recitation
+before Irish audiences is daily becoming more and more felt not only in the
+schools and colleges of Ireland but also in its class-rooms, concert halls,
+libraries, and elsewhere. Miscellaneous collections of the .gems of Ireland\'s
+modern literature we have had in comparative abundance, with the happy result
+that, at present, the difficulty of the editor of a popular " Reciter" is less
+in' => {
+    'L2' => '0.197779875698404',
+    'Unknowns' => [],
+    'Min' => '5.4717604086836e-07',
+    'Unaccepted' => [
+      'class-rooms,',
+      'halls,',
+      'libraries,',
+      'elsewhere.',
+      '.gems',
+      'Ireland\'s',
+      'abundance,',
+      'that,',
+      'present,',
+      '"',
+      'Reciter"'
+    ],
+    'L1' => '0.000495150370016155'
+  }
+};
+$VAR1 = {
+  'A sail—a sail is seen away where the skies the waters bound. There\'s a pause
+anew—each searching eye is on that sail afar ; Again the cheer ing\'s loud and
+high—\'tis Mononia\'s ships' => {
+    'L2' => '0.111202936077456',
+    'Unknowns' => [],
+    'Min' => '2.07926895529977e-06',
+    'Unaccepted' => [
+      'sail—a',
+      'bound.',
+      'There\'s',
+      'anew—each',
+      ';',
+      'ing\'s',
+      'high—\'tis',
+      'Mononia\'s'
+    ],
+    'L1' => '0.000494643719689874'
+  }
+};
+$VAR1 = {
+  'Traced in song his lineage long to the time of ancient story, And praised the
+powers of Kennedy\'s sons and counted their' => {
+    'L2' => '0.0993649660508053',
+    'Unknowns' => [],
+    'Min' => '2.07926895529977e-06',
+    'Unaccepted' => [
+      'story,',
+      'Kennedy\'s'
+    ],
+    'L1' => '0.000493669823913885'
+  }
+};
+$VAR1 = {
+  '" A hundred more of the brave Dal Cais
+To follow me over plain and pass,
+And die as fitteth the Clann Dal Cais,
+At war with the outland races."' => {
+    'L2' => '0.112802310818915',
+    'Unknowns' => [
+      'Cais',
+      'fitteth',
+      'Clann',
+      'outland'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '"',
+      'pass,',
+      'Cais,',
+      'races."'
+    ],
+    'L1' => '0.00048939851254181'
+  }
+};
+$VAR1 = {
+  'Again he makes the turrets grey stand out before the hill; Constant as their
+foundation rock, there is the bonnet still! And now the gates are opened, and
+forth in gallant show, Pricked jeering grooms, and burghers blythe, and
+troopers' => {
+    'L2' => '0.127068132465027',
+    'Unknowns' => [
+      'Pricked'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'hill;',
+      'rock,',
+      'still!',
+      'opened,',
+      'show,',
+      'grooms,',
+      'blythe,'
+    ],
+    'L1' => '0.000489282129943931'
+  }
+};
+$VAR1 = {
+  'He\'d made a vow, for his past sins, a pilgrimage to pay,
+At Patrick\'s tomb, and there to bide a fortnight and a day;
+And now, amid the cloisters, the giant disarmed walks,
+And with the brown beads in his hand from cross to cross
+he stalks.' => {
+    'L2' => '0.132518680722121',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      'He\'d',
+      'vow,',
+      'sins,',
+      'pay,',
+      'Patrick\'s',
+      'tomb,',
+      'day;',
+      'now,',
+      'cloisters,',
+      'walks,',
+      'stalks.'
+    ],
+    'L1' => '0.000487811131675874'
+  }
+};
+$VAR1 = {
+  'And lights the ruthless knaves on both, our kinsmen to despoil; And you the
+hope, voice, battle-axe, the shield of us and ours, A
+murdered,trunkless,blinding sight above these Dublin towers. Thy face is paler
+than the moon ; my heart is paler still— My heart! I had no heart—\'twas
+yours—\'twas yours! to' => {
+    'L2' => '0.135686526289814',
+    'Unknowns' => [
+      'kinsmen'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'both,',
+      'despoil;',
+      'hope,',
+      'voice,',
+      'battle-axe,',
+      'ours,',
+      'murdered,trunkless,blinding',
+      'towers.',
+      ';',
+      'still—',
+      'heart!',
+      'heart—\'twas',
+      'yours—\'twas',
+      'yours!'
+    ],
+    'L1' => '0.00048449561622622'
+  }
+};
+$VAR1 = {
+  'News came to Hugo Lacy of the penance of the Knight,
+And he rose and sent his murd\'rers from Durrogh forth by' => {
+    'L2' => '0.0979737809356168',
+    'Unknowns' => [
+      'Durrogh'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Knight,',
+      'murd\'rers'
+    ],
+    'L1' => '0.000479943087541012'
+  }
+};
+$VAR1 = {
+  'The following references are given to complete versions of the abridged pieces
+appearing in this Volume : —' => {
+    'L2' => '0.087579454653245',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      ':',
+      '—'
+    ],
+    'L1' => '0.000479385054834987'
+  }
+};
+$VAR1 = {
+  'Poems and Ballads, William Rooney.
+The Poems of R. D. Williams.
+Poems from the Works of Aubrey De Vere.
+Songs and Poems, T. D. Sullivan.
+Select Poems of J. C. Mangan.
+Select Poems of Gerald Griffin.
+The Four Winds of Erin, Anna MacManus.
+Ballads of a Country Boy, Seamus MacManus.
+Lays of the Western Gael, Sir Samuel Ferguson.
+A Treasury of Irish Poetry, Brooke-Rolleston.
+Irish Readings, Sullivan.
+Speeches from the Dock, Sullivan.
+Life of T. F. Meagher, Capt. Lyons.
+Ballads of Ireland, Hayes, 2 vols.
+Songs and Ballads of Young Ireland, M-Dermott.
+Poems of Rev. A. J. Ryan.
+Poems of John Boyle O\'Reilly.
+The Harp of Erin Song Book, Ralph Varian.
+Bards of the Gael and Gall, Sigerson.
+Poets and Poetry of Munster, Mangan.
+Irish Language Miscellany, O\'Daly.' => {
+    'L2' => '0.191008298249592',
+    'Unknowns' => [
+      'Bards',
+      'Gael'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Ballads,',
+      'Rooney.',
+      'R.',
+      'D.',
+      'Williams.',
+      'Vere.',
+      'Poems,',
+      'T.',
+      'D.',
+      'Sullivan.',
+      'J.',
+      'C.',
+      'Mangan.',
+      'Griffin.',
+      'Erin,',
+      'MacManus.',
+      'Boy,',
+      'MacManus.',
+      'Gael,',
+      'Ferguson.',
+      'Poetry,',
+      'Brooke-Rolleston.',
+      'Readings,',
+      'Sullivan.',
+      'Dock,',
+      'Sullivan.',
+      'T.',
+      'F.',
+      'Meagher,',
+      'Capt.',
+      'Lyons.',
+      'Ireland,',
+      'Hayes,',
+      'vols.',
+      'Ireland,',
+      'M-Dermott.',
+      'Rev.',
+      'A.',
+      'J.',
+      'Ryan.',
+      'O\'Reilly.',
+      'Book,',
+      'Varian.',
+      'Gall,',
+      'Sigerson.',
+      'Munster,',
+      'Mangan.',
+      'Miscellany,',
+      'O\'Daly.'
+    ],
+    'L1' => '0.000467745769233397'
+  }
+};
+$VAR1 = {
+  'insidious scheme. Fr. Daniel O\'Sullivan, in his Cornp Aii Cat)s Aguf A
+TilAtAijs blew a leg from the proselytisers\' flesh-pot the moment that oily
+instrument of civilisation was brought to the aid of Trinity :' => {
+    'L2' => '0.11421452846102',
+    'Unknowns' => [
+      'Cornp',
+      'Aii',
+      'Aguf',
+      'TilAtAijs'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'scheme.',
+      'Fr.',
+      'O\'Sullivan,',
+      'Cat)s',
+      'proselytisers\'',
+      'flesh-pot',
+      ':'
+    ],
+    'L1' => '0.000465891375413324'
+  }
+};
+$VAR1 = {
+  'Newfoundland, furnishes a case in point. Here is the concluding stanza, and a
+veritable sugar-coated pill it is :' => {
+    'L2' => '0.0806913473327574',
+    'Unknowns' => [],
+    'Min' => '2.18870416347344e-07',
+    'Unaccepted' => [
+      'Newfoundland,',
+      'point.',
+      'stanza,',
+      'sugar-coated',
+      ':'
+    ],
+    'L1' => '0.000465078109598264'
+  }
+};
+$VAR1 = {
+  'Lift it up ! wave it high! \' tis as bright as of old!
+Not a stain on its green, not a blot on its gold;
+Though the woes and the wrongs of three hundred long years
+Have drenched Erin\'s Sunburst with blood and with tears !
+Though the clouds of oppression enshroud it in gloom,
+And around it the thunders of tyranny boom.
+Look aloft! look aloft! lo! the clouds drifting by,
+There\'s a gleam through the gloom, there\'s a light in the sky,
+\'Tis the Sunburst resplendent—far, flashing on high!
+Erin\'s dark night is waning, her day-dawn is nigh!' => {
+    'L2' => '0.186082206235765',
+    'Unknowns' => [
+      'enshroud'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '!',
+      'high!',
+      '\'',
+      'old!',
+      'green,',
+      'gold;',
+      'Erin\'s',
+      '!',
+      'gloom,',
+      'boom.',
+      'aloft!',
+      'aloft!',
+      'lo!',
+      'by,',
+      'There\'s',
+      'gloom,',
+      'there\'s',
+      'sky,',
+      '\'Tis',
+      'resplendent—far,',
+      'high!',
+      'Erin\'s',
+      'waning,',
+      'day-dawn',
+      'nigh!'
+    ],
+    'L1' => '0.000455612993125919'
+  }
+};
+$VAR1 = {
+  'Lift it up ! lift it up! the old banner of green!
+The blood of its sons has but brightened its sheen;
+What though the tyrant has trampled it down,
+Are its folds not emblazoned with deeds of renown ?
+What though for ages it droops in the dust,
+Shall it droop thus for ever ? No ! no ! God is just!
+Take it up ! take it up from the tyrant\'s foul tread,
+Let him tear the Green flag—we will snatch its last shred,
+And beneath it will bleed as our forefathers bled,
+And we\'ll vow by the dust in the graves of our dead,
+And we\'ll swear by the blood which the Briton has shed,
+And we\'ll vow by the wrecks which through Erin he spread,
+And we\'ll swear by the thousands who, famished, unfed,
+Died down in the ditches wild-howling for bread;
+And we\'ll vow by our heroes, whose spirits have fled,
+And we\'ll swear by the bones in each coffinless bed,
+That we\'ll battle the Briton through danger and dread;
+That we\'ll cling to the cause which we glory to wed,
+Till the gleam of our steel and the shock of our lead
+Shall prove to our foe that we meant what we said—
+That we\'ll lift up the Green, and we\'ll tear down the Red!' => {
+    'L2' => '0.282093531247205',
+    'Unknowns' => [
+      'droops',
+      'coffinless'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '!',
+      'up!',
+      'green!',
+      'sheen;',
+      'down,',
+      '?',
+      'dust,',
+      '?',
+      '!',
+      '!',
+      'just!',
+      '!',
+      'tyrant\'s',
+      'tread,',
+      'flag—we',
+      'shred,',
+      'bled,',
+      'we\'ll',
+      'dead,',
+      'we\'ll',
+      'shed,',
+      'we\'ll',
+      'spread,',
+      'we\'ll',
+      'who,',
+      'famished,',
+      'unfed,',
+      'wild-howling',
+      'bread;',
+      'we\'ll',
+      'heroes,',
+      'fled,',
+      'we\'ll',
+      'bed,',
+      'we\'ll',
+      'dread;',
+      'we\'ll',
+      'wed,',
+      'said—',
+      'we\'ll',
+      'Green,',
+      'we\'ll',
+      'Red!'
+    ],
+    'L1' => '0.00044706045152538'
+  }
+};
+$VAR1 = {
+  '" My bonny mare I\'ve ridden you when Claver\'se rode behind, And from the
+thumbscrew and the boot you bore me like' => {
+    'L2' => '0.0893499702360291',
+    'Unknowns' => [
+      'thumbscrew'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '"',
+      'I\'ve',
+      'Claver\'se',
+      'behind,'
+    ],
+    'L1' => '0.000443523176732183'
+  }
+};
+$VAR1 = {
+  'The peif, which fortunately is fast becoming one of the great rallying
+institutions of the country, will do much within the next few years to restore
+and popularise and develop Irish elocution, and for the present the best course
+obviously is to give what survives of the traditional principle of recitation
+free play. As to the recitation of pieces written in English it will here
+suffice to repeat Cathal MacGarvey\'s simple guiding precept : " Always be
+distinct, but, above all, be natural. Use Art cautiously to assist Nature, so
+to speak."' => {
+    'L2' => '0.186933421523187',
+    'Unknowns' => [
+      'popularise',
+      'Cathal'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'peif,',
+      'country,',
+      'elocution,',
+      'play.',
+      'MacGarvey\'s',
+      ':',
+      '"',
+      'distinct,',
+      'but,',
+      'all,',
+      'natural.',
+      'Nature,',
+      'speak."'
+    ],
+    'L1' => '0.000442330431422349'
+  }
+};
+$VAR1 = {
+  'The sun shines bright on Carrick wall and Carrick Castle grey,
+And up thine aisle, St. Nicholas, has ta\'en his morning way,
+And to the North Gate sentinel displayeth far and near,
+Sea, hill, and tower, and all thereon, in dewy freshness clear,
+Save where, behind a ruined wall, himself alone to view,
+Is peering from the ivy green a bonnet of the blue.' => {
+    'L2' => '0.144990634007472',
+    'Unknowns' => [
+      'thine',
+      'displayeth'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'grey,',
+      'aisle,',
+      'St.',
+      'Nicholas,',
+      'ta\'en',
+      'way,',
+      'near,',
+      'Sea,',
+      'hill,',
+      'tower,',
+      'thereon,',
+      'clear,',
+      'where,',
+      'wall,',
+      'view,',
+      'blue.'
+    ],
+    'L1' => '0.000437964248956017'
+  }
+};
+$VAR1 = {
+  'Some liberty has been taken in this volume with unduly long pieces both in
+Irish and in English. Stanzas not essential to the effective rendering or the
+sequence of the pieces have been omitted, but the omissions are in all such
+cases shown and references given to complete copies of all poems thus
+interfered with. English pieces which, through a false sense of humour, have
+obtained some vogue in Ireland are rigidly excluded. CeA-o moUvo te -OiA that
+the time has come when Irish readers, and juvenile readers particularly, need
+no longer depend on collections misnamed " Irish " in which " The Homeward
+Bound," the " Death of King Conor MacNessa," and " Dear Erin " are found almost
+bracketed with abominations like the "Kerry Recruit," the " Battle of
+Limerick," the " Irish Fire Brigade," and the " Shillelagh Shindy." This
+collection harbours none of the insult, veiled and unveiled, which scoffers and
+cynics pretend to accept as humour. The volume is in the main a record of the
+souls\' outpourings of Erin\'s most gifted sons and daughters :' => {
+    'L2' => '0.252224249024862',
+    'Unknowns' => [
+      'moUvo',
+      'abominations',
+      'Shillelagh',
+      'harbours'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'English.',
+      'omitted,',
+      'with.',
+      'which,',
+      'humour,',
+      'excluded.',
+      'CeA-o',
+      '-OiA',
+      'readers,',
+      'particularly,',
+      '"',
+      '"',
+      '"',
+      'Bound,"',
+      '"',
+      'MacNessa,"',
+      '"',
+      '"',
+      '"Kerry',
+      'Recruit,"',
+      '"',
+      'Limerick,"',
+      '"',
+      'Brigade,"',
+      '"',
+      'Shindy."',
+      'insult,',
+      'unveiled,',
+      'humour.',
+      'souls\'',
+      'Erin\'s',
+      ':'
+    ],
+    'L1' => '0.000426960213397016'
+  }
+};
+$VAR1 = {
+  '" I\'m weary of your elegies, your keening, and complaints,
+We\'ve heard no strain this blessed night but histories of saints ;
+Sing us some deed of daring—of the living or the dead! "
+So Earl Gerald, in Maynooth, to the Bard Neelan, said.' => {
+    'L2' => '0.113013435895492',
+    'Unknowns' => [],
+    'Min' => '1.31322249808406e-06',
+    'Unaccepted' => [
+      '"',
+      'I\'m',
+      'elegies,',
+      'keening,',
+      'complaints,',
+      'We\'ve',
+      ';',
+      'daring—of',
+      'dead!',
+      '"',
+      'Gerald,',
+      'Maynooth,',
+      'Neelan,',
+      'said.'
+    ],
+    'L1' => '0.000425734556430149'
+  }
+};
+$VAR1 = {
+  'Though Keating will probably be best remembered for his monumental p0pAf FeAfA
+he has also left among many other works a goodly volume of poetry, founded
+principally on the events of his time. The more remarkable of the poets who
+succeeded him, while fond of legendary and mythological allusions, limited
+their range of subjects, except in so far as they were of a religious
+character, to the great incidents of their respective periods. O\'Bruadair,
+O\'Neachtain, Ferriter, Ward, O\'Donoghue, O\'Rahilly, M-Donnell, Eoghan Ruadh,
+Ca-os gAe-oeAtAc, O\'Longain, and their brethren have left us a faithful picture
+of the troubled era intervening between the advent of modern Irish and the
+inception of the more modern Anglo-Irish literature. But beyond these limits
+they rarely take us. Notwithstanding the illustrious record of the early Irish
+on the Continent, it really was not until the brilliant intellect of " Young
+Ireland" applied itself with a purpose to a systematic study of the available
+materials of Irish history that our ancient glories began to be reflected, as
+on a revolving mirror, before the gaze of the modern world.' => {
+    'L2' => '0.254475466733313',
+    'Unknowns' => [
+      'FeAfA',
+      'Eoghan'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'p0pAf',
+      'poetry,',
+      'time.',
+      'him,',
+      'allusions,',
+      'subjects,',
+      'character,',
+      'periods.',
+      'O\'Bruadair,',
+      'O\'Neachtain,',
+      'Ferriter,',
+      'Ward,',
+      'O\'Donoghue,',
+      'O\'Rahilly,',
+      'M-Donnell,',
+      'Ruadh,',
+      'Ca-os',
+      'gAe-oeAtAc,',
+      'O\'Longain,',
+      'Anglo-Irish',
+      'literature.',
+      'us.',
+      'Continent,',
+      '"',
+      'Ireland"',
+      'reflected,',
+      'mirror,',
+      'world.'
+    ],
+    'L1' => '0.000423253354046649'
+  }
+};
+$VAR1 = {
+  'It has, of course, to be borne in mind that an efficient printing- press,
+greater facilities for travel and for the circulation of their work, and the
+vastly wider auditory ensured by the language which they adopted, gave the
+Anglo-Irish writers of the nineteenth century immense advantages over the
+vernacular poets who preceded them, and the incentive thus provided resulted in
+the production of volume upon volume of popular ballads. Accordingly, while it
+is comparatively easy to cull from the best Anglo-Irish literature of the last
+century a most dramatic ballad history of our country, the available modern
+Irish poetry, with such notable exceptions as "tdoi Oifin," takes us back only
+to the period of the Four Masters. Not that the very cream of Irish literature
+was not produced anterior to their time. The translations by Ferguson and
+Sigerson and Hyde and O\'Flannghaile, by Walsh and Mangan and Callanan and
+Guinee, though no other evidence were forthcoming, bear abundant testimony to
+the excellence of Irish poetry in all its stages of development. But Irish
+literature produced before the age of Keating would manifestly be now
+unsuitable in a popular volume, and it has therefore been considered desirable
+to include a few modern prose pieces having reference to subjects which do not
+seem to have received specific attention from the writers of the past.' => {
+    'L2' => '0.290631684161397',
+    'Unknowns' => [
+      'cull',
+      'Sigerson',
+      'Mangan'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'has,',
+      'course,',
+      'printing-',
+      'press,',
+      'work,',
+      'adopted,',
+      'Anglo-Irish',
+      'them,',
+      'ballads.',
+      'Accordingly,',
+      'Anglo-Irish',
+      'country,',
+      'poetry,',
+      '"tdoi',
+      'Oifin,"',
+      'Masters.',
+      'time.',
+      'O\'Flannghaile,',
+      'Guinee,',
+      'forthcoming,',
+      'development.',
+      'volume,',
+      'past.'
+    ],
+    'L1' => '0.00042233387919245'
+  }
+};
+$VAR1 = {
+  'Of course it is not pretended that these are the only sources from which the
+pieces referred to may be obtained.' => {
+    'L2' => '0.0913116655897803',
+    'Unknowns' => [],
+    'Min' => '2.07926895529977e-06',
+    'Unaccepted' => [
+      'obtained.'
+    ],
+    'L1' => '0.000416891013638993'
+  }
+};
+$VAR1 = {
+  'Subjects that should, and doubtless soon will, afford fitting themes to writers
+of Irish are Brigid addressing the Young Women of Ireland, Colm Cille entering
+a plea for the Irish Bards, Colonel John O\'Mahony urging the possible potency
+of the Irish language to restore the ancient martial spirit of the Gael, Fr.
+O\'Growney fighting the martyr\'s fight for the preservation and cultivation of
+the language, and so on. It has not been found possible to provide such
+original pieces for this volume, however. Accordingly it is not claimed that a
+thorough historical narrative is presented. Nor is rigid chronological sequence
+claimed for the arrangement of the work. Least of all is it pretended, as is
+done in other " Irish " collections, that all the pieces in our whole
+literature most suitable for recitation are included. Readers will almost
+instantly miss such stirring poems as Davis\'s " Lament for^Eoghan Ruadh
+O\'Neill; " Seamus MacManus\'s " Shane O\'Neill," and "Coming of Eoghan Ruadh;"
+William Rooney\'s " CeAnn DuO -Oitif; " Mangan\'s " Cathal M6r of the Wine-red
+Hand ; " D\'Arcy M-Gee\'s " Connacht Chief\'s Farewell;" Patrick Archer\'s "Dying
+in Exile;" Lady Dufferin\'s " Lament of the Irish Emigrant; " John Keegan\'s
+"HollyTand Ivy Girl," and numbers of others. Their exclusion has been
+determined partly by a desire not to include more than a couple of pieces from
+any writer, and partly through many of them being so accessible elsewhere; but
+principally because many of the most dramatic pieces in Anglo-Irish literature
+are, like the Aifting of the Irish poets, written with a great sameness of
+metre, and rightly breathe a spirit of vehement patriotism. The elocutionist,
+however, will have variety in subject as well as in metre, and every reasonable
+effort has been made to ensure the desired variety. It goes almost without
+saying, indeed, that this variety is obtained with the minimum of difficulty
+because of the hosts of writers who have written on most of our popular themes.
+The Rev. Dr. Murray, CA-og gAet)eAtAC 0 SuitteAjWin, and Fanny Forrester are
+among the great writers who have written of " The Sister of Mercy;" "The Sister
+of Charity" has been sung of with becoming reverence by Gerald Griffin, D\'Alton
+Williams, Fisher Murray, and others; "The Christian Brothers" by John
+Fitzgerald and DoifmAt t 0 toingfig. While Gavan Duffy puts stern words of
+counsel into the mouth of St. Laurence O\'Toole, the dauntless Archbishop of
+Dublin, the Most Rev. Dr. Healy, Archbishop of Tuam, taking the eve of the
+Battle of the Curlieus for his text, puts an irresistible appeal to arms into
+the mouth of Red Hugh O\'Donnell. John Boyle O\'Reilly, on the threshold of our
+own time, appeals to the patriotism of "The Priests of \'Seventy-three," as Fr.
+Furlong tells us with pardonable pride of the valour and fidelity of "The
+Priests of \'Ninety-eight." Of the other memorable incidents of \'Ninety-eight
+hosts of writers both Irish and Anglo-Irish have written almost lavishly. By
+their timely ballads Kevin T. Buggy and C. J. Kickham, to name no others,
+preached an anti-recruiting crusade from a million throats in a past
+generation, and Fr. Tormey, Keneally, Starkey, and ever so many besides, raised
+prophetic voices against the evils inseparable from emigration. The day-dreams
+of the Irish exile are vividly presented to us by Geoffrey Keating, -OonncA-o
+KuAt), eogxin Tluxyo, Andrew Orr, James Orr, M-Gee, M-Carthy, M-Dermott; and
+for a foretaste and an appreciation of the joy of returning to Ireland it is
+difficult to say whether to turn to the " Old Man\'s Prayer," by Helena
+Callanan; the " Dawn off the Irish Coast," by John Locke; the " Homeward
+Bound," by D\'Arcy M-Gee; " The Return," by George A. Greene, or " The Returned
+Exile," by B. Simmons. " The Holy Wells " have been fairly immortalised by
+Frazer, and the modest " Sulmalla," while Moore, Callanan, Griffin, M-Carthy,
+t)piAn ITlAc gi Otta mei-ope, and Fr. Dinneen are, relatively, but a few of
+those who have depicted Ireland\'s scenery in all its glistening tints and
+glowing splendour.' => {
+    'L2' => '0.46003481463488',
+    'Unknowns' => [
+      'Cille',
+      'Ruadh',
+      'Eoghan',
+      'CeAnn',
+      'DuO',
+      'Cathal',
+      'Aifting',
+      'DoifmAt',
+      'Gavan',
+      'Curlieus',
+      'eogxin',
+      'immortalised',
+      'ITlAc',
+      'Otta',
+      'Dinneen'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'should,',
+      'will,',
+      'Ireland,',
+      'Bards,',
+      'O\'Mahony',
+      'Gael,',
+      'Fr.',
+      'O\'Growney',
+      'martyr\'s',
+      'language,',
+      'on.',
+      'volume,',
+      'however.',
+      'presented.',
+      'work.',
+      'pretended,',
+      '"',
+      '"',
+      'collections,',
+      'included.',
+      'Davis\'s',
+      '"',
+      'for^Eoghan',
+      'O\'Neill;',
+      '"',
+      'MacManus\'s',
+      '"',
+      'O\'Neill,"',
+      '"Coming',
+      'Ruadh;"',
+      'Rooney\'s',
+      '"',
+      '-Oitif;',
+      '"',
+      'Mangan\'s',
+      '"',
+      'M6r',
+      'Wine-red',
+      ';',
+      '"',
+      'D\'Arcy',
+      'M-Gee\'s',
+      '"',
+      'Chief\'s',
+      'Farewell;"',
+      'Archer\'s',
+      '"Dying',
+      'Exile;"',
+      'Dufferin\'s',
+      '"',
+      'Emigrant;',
+      '"',
+      'Keegan\'s',
+      '"HollyTand',
+      'Girl,"',
+      'others.',
+      'writer,',
+      'elsewhere;',
+      'Anglo-Irish',
+      'are,',
+      'poets,',
+      'metre,',
+      'patriotism.',
+      'elocutionist,',
+      'however,',
+      'metre,',
+      'variety.',
+      'saying,',
+      'indeed,',
+      'themes.',
+      'Rev.',
+      'Dr.',
+      'Murray,',
+      'CA-og',
+      'gAet)eAtAC',
+      'SuitteAjWin,',
+      '"',
+      'Mercy;"',
+      '"The',
+      'Charity"',
+      'Griffin,',
+      'D\'Alton',
+      'Williams,',
+      'Murray,',
+      'others;',
+      '"The',
+      'Brothers"',
+      'toingfig.',
+      'St.',
+      'O\'Toole,',
+      'Dublin,',
+      'Rev.',
+      'Dr.',
+      'Healy,',
+      'Tuam,',
+      'text,',
+      'O\'Donnell.',
+      'O\'Reilly,',
+      'time,',
+      '"The',
+      '\'Seventy-three,"',
+      'Fr.',
+      '"The',
+      '\'Ninety-eight."',
+      '\'Ninety-eight',
+      'Anglo-Irish',
+      'lavishly.',
+      'T.',
+      'C.',
+      'J.',
+      'Kickham,',
+      'others,',
+      'anti-recruiting',
+      'generation,',
+      'Fr.',
+      'Tormey,',
+      'Keneally,',
+      'Starkey,',
+      'besides,',
+      'emigration.',
+      'day-dreams',
+      'Keating,',
+      '-OonncA-o',
+      'KuAt),',
+      'Tluxyo,',
+      'Orr,',
+      'Orr,',
+      'M-Gee,',
+      'M-Carthy,',
+      'M-Dermott;',
+      '"',
+      'Man\'s',
+      'Prayer,"',
+      'Callanan;',
+      '"',
+      'Coast,"',
+      'Locke;',
+      '"',
+      'Bound,"',
+      'D\'Arcy',
+      'M-Gee;',
+      '"',
+      'Return,"',
+      'A.',
+      'Greene,',
+      '"',
+      'Exile,"',
+      'B.',
+      'Simmons.',
+      '"',
+      '"',
+      'Frazer,',
+      '"',
+      'Sulmalla,"',
+      'Moore,',
+      'Callanan,',
+      'Griffin,',
+      'M-Carthy,',
+      't)piAn',
+      'mei-ope,',
+      'Fr.',
+      'are,',
+      'relatively,',
+      'Ireland\'s',
+      'splendour.'
+    ],
+    'L1' => '0.000414964766031664'
+  }
+};
+$VAR1 = {
+  'This poetry may be said to have begun with Keating, the father, by universal
+consent, of modern Irish. So, too, the Irish selections presented in this
+volume practically commence with Keating. Only one poem written anterior to his
+period is included. This is a spirited appeal to the people of the historic
+O\'Byrne country to unite in face of the English enemy. It was written in 1580
+by Aonguf ITUc -Ooigpe Hi t)AUMg. A very fine translation of the piece will be
+found in Ferguson\'s " Lays of the Western Gael," where, not inappropriately, it
+follows the " Downfall of the Gael," the original of which was written also in
+1580 by O\'Gnive, Bard of O\'Neill. O\'Gnive\'s poem, like O\'Daly\'s, is in its
+essence a rallying-cry, and reaches a high dramatic level, as will be inferred
+from the concluding stanzas even in their cold and foreign English dress :' => {
+    'L2' => '0.22241611165996',
+    'Unknowns' => [
+      'Aonguf',
+      'ITUc'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Keating,',
+      'father,',
+      'consent,',
+      'Irish.',
+      'So,',
+      'too,',
+      'Keating.',
+      'included.',
+      'O\'Byrne',
+      'enemy.',
+      '-Ooigpe',
+      't)AUMg.',
+      'Ferguson\'s',
+      '"',
+      'Gael,"',
+      'where,',
+      'inappropriately,',
+      '"',
+      'Gael,"',
+      'O\'Gnive,',
+      'O\'Neill.',
+      'O\'Gnive\'s',
+      'poem,',
+      'O\'Daly\'s,',
+      'rallying-cry,',
+      'level,',
+      ':'
+    ],
+    'L1' => '0.000412241056049464'
+  }
+};
+$VAR1 = {
+  'More recently, the Rev. author of " Cpeit)eArh in the CAoine which he ascribes
+to poor Caic Hi has given us a luminous example of the contempt in which " the
+Spirit of Souperism " was held even by children gasping of thirst and hunger on
+their bed of death :' => {
+    'L2' => '0.134650008238399',
+    'Unknowns' => [
+      'CAoine',
+      'Caic',
+      'Souperism'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'recently,',
+      'Rev.',
+      '"',
+      'Cpeit)eArh',
+      '"',
+      '"',
+      ':'
+    ],
+    'L1' => '0.000412059652695473'
+  }
+};
+$VAR1 = {
+  'The riderless war-steed careers o\'er the plain
+With a shaft in his flank and a blood-dripping mane—
+His gallant breast labours, and glare his wild eyes !
+He plunges in torture—falls—shivers—and dies.' => {
+    'L2' => '0.0991858380581548',
+    'Unknowns' => [
+      'riderless'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'war-steed',
+      'o\'er',
+      'blood-dripping',
+      'mane—',
+      'labours,',
+      '!',
+      'torture—falls—shivers—and',
+      'dies.'
+    ],
+    'L1' => '0.000409909602970771'
+  }
+};
+$VAR1 = {
+  'That tongue, whose Ulster accent woke the ghost of Colm Cille, Whose warrior
+words fenced round with spears the oaks of' => {
+    'L2' => '0.0872597022229033',
+    'Unknowns' => [],
+    'Min' => '2.18870416347344e-07',
+    'Unaccepted' => [
+      'tongue,',
+      'Cille,'
+    ],
+    'L1' => '0.000400750296422619'
+  }
+};
+$VAR1 = {
+  'In conACtonn, it will be noted, each stanza commences with the last word or
+words in the preceding stanza. Thus, jvAnn after junn, the reciter gets a cue
+to his lines just as an actor does from the prompter behind the scenes. Poems
+of this kind once committed to memory are scarcely ever forgotten.' => {
+    'L2' => '0.136986025321732',
+    'Unknowns' => [
+      'jvAnn',
+      'reciter',
+      'prompter'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'conACtonn,',
+      'noted,',
+      'stanza.',
+      'Thus,',
+      'junn,',
+      'scenes.',
+      'forgotten.'
+    ],
+    'L1' => '0.000399258960286087'
+  }
+};
+$VAR1 = {
+  'The limber top he cast away, with all its gear abroad,
+But, grasping the thick hickory butt, with spike of iron shod,
+He ground the sharp spear to a point, then pulled his bonnet' => {
+    'L2' => '0.105696928255806',
+    'Unknowns' => [
+      'limber'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'away,',
+      'abroad,',
+      'But,',
+      'butt,',
+      'shod,',
+      'point,'
+    ],
+    'L1' => '0.000398994308668319'
+  }
+};
+$VAR1 = {
+  'The King—the King—to free the King bold Fionn hews his way,
+And woe to him who meets his sword on this eventful day.' => {
+    'L2' => '0.0870200779231614',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'King—the',
+      'King—to',
+      'way,',
+      'day.'
+    ],
+    'L1' => '0.000398552313776478'
+  }
+};
+$VAR1 = {
+  'God\'s wrath upon the Saxon ! may they never know the pride
+Of dying on the battle-field their broken spear beside ;
+When victory gilds the gory shroud of every fallen brave,
+Or death no tales of conquered clans can whisper to his grave.
+May every light from Cross of Christ, that saves the heart of' => {
+    'L2' => '0.138957784588841',
+    'Unknowns' => [],
+    'Min' => '2.18870416347344e-07',
+    'Unaccepted' => [
+      'God\'s',
+      '!',
+      'battle-field',
+      ';',
+      'brave,',
+      'grave.',
+      'Christ,'
+    ],
+    'L1' => '0.000394066650976301'
+  }
+};
+$VAR1 = {
+  'Down comes her master with a roar, her rider with a groan,
+The iron and the hickory are through and through him gone !
+He lies a corpse ; and where he sat, the outlaw sits again,
+And once more to his bonny mare he gives the spur and rein ;
+Then some with sword, and some with gun, they ride and' => {
+    'L2' => '0.144499218247317',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      'roar,',
+      'groan,',
+      '!',
+      ';',
+      'sat,',
+      'again,',
+      ';',
+      'sword,',
+      'gun,'
+    ],
+    'L1' => '0.000393962718378976'
+  }
+};
+$VAR1 = {
+  'All that is attempted in this volume, therefore, is to present suitable
+material. The SeAn-tAoi, SeAn-t)An, prose pieces grave and gay, pieces suitable
+for CorhfAt) competitions and for Irish entertainments, will be found in the
+volume in some variety, and generally such readings, Irish and Anglo-Irish, as
+are best calculated to give the youth of Ireland an acquaintance with the great
+events of their history, and imbue them with a lasting love of those who
+hazarded all for their sireland, and a longing, rooted in conviction, to follow
+in the footsteps of the faithful and the brave. Why should we not ever love the
+fearless and devoted singers of our race ; who, rather, could deny them the
+most intense and steadfast love ? Keating, one of the most notable of them,
+compiled his history of Ireland in a cavern in Tipperary whither he was obliged
+to fly for his life by the " civilising " Saxon ; Colonel John O\'Mahony
+translated it in America where he toiled and died in exile. Pierce Ferriter was
+murdered by the English in the streets of Killarney ; Ward fled with the Earls
+to Rome. Meagher of the Sword, Boyle O\'Reilly, D\' Alton Williams ended their
+days in enforced exile ; the same might, in fact, be said of the whole band.
+For they all idolised fair " Banba of the Streams," as Mitchel happily styled
+our sainted sireland, and would have lived for her and died within her shores
+had Right prevailed. Examples of devotion have, indeed, never been wanting in
+Ireland. And however we may regret the premature calling away of the specially
+gifted we have a right to be proud of the devotion to motherland which in our
+own day has fairly won the martyr\'s goal for Fr. O\'Growney and Anna MacManus,
+for William Rooney, Denis Fleming, Patrick O\'Leary, and many others. Ap -oeif
+T)6 g0 A n-AnAmnA g0' => {
+    'L2' => '0.321174184427656',
+    'Unknowns' => [
+      'hazarded',
+      'civilising',
+      'Ferriter',
+      'Killarney',
+      'idolised',
+      'Banba'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'volume,',
+      'therefore,',
+      'material.',
+      'SeAn-tAoi,',
+      'SeAn-t)An,',
+      'gay,',
+      'CorhfAt)',
+      'entertainments,',
+      'variety,',
+      'readings,',
+      'Anglo-Irish,',
+      'history,',
+      'sireland,',
+      'longing,',
+      'conviction,',
+      'brave.',
+      ';',
+      'who,',
+      'rather,',
+      '?',
+      'Keating,',
+      'them,',
+      '"',
+      '"',
+      ';',
+      'O\'Mahony',
+      'exile.',
+      ';',
+      'Rome.',
+      'Sword,',
+      'O\'Reilly,',
+      'D\'',
+      ';',
+      'might,',
+      'fact,',
+      'band.',
+      '"',
+      'Streams,"',
+      'sireland,',
+      'prevailed.',
+      'have,',
+      'indeed,',
+      'Ireland.',
+      'martyr\'s',
+      'Fr.',
+      'O\'Growney',
+      'MacManus,',
+      'Rooney,',
+      'Fleming,',
+      'O\'Leary,',
+      'others.',
+      '-oeif',
+      'T)6',
+      'g0',
+      'n-AnAmnA',
+      'g0'
+    ],
+    'L1' => '0.000392216185333727'
+  }
+};
+$VAR1 = {
+  'The hilts of their falchions were crusted with gold,
+And the gems of their helmets were bright to behold ;
+By St. Bride of Kildare ! but they moved in fair show —
+To gorge the young eagles of dark Aherlow !' => {
+    'L2' => '0.118631254062179',
+    'Unknowns' => [
+      'hilts',
+      'falchions',
+      'Aherlow'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'gold,',
+      ';',
+      'St.',
+      '!',
+      '—',
+      '!'
+    ],
+    'L1' => '0.000390927067787921'
+  }
+};
+$VAR1 = {
+  'In vain to fly his enemies he fled his native land;
+Hot persecution waited him upon the Carrick strand;
+His name was on the Carrick cross, a price was on his head.
+A fortune to the man that brings him in alive or dead !
+And so on moor and mountain from the Lagan to the Bann,
+From house to house, and hill to hill, he lurked an outlawed
+man.' => {
+    'L2' => '0.15328777507069',
+    'Unknowns' => [
+      'Lagan'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'land;',
+      'strand;',
+      'cross,',
+      'head.',
+      '!',
+      'Bann,',
+      'house,',
+      'hill,',
+      'man.'
+    ],
+    'L1' => '0.000385199048952828'
+  }
+};
+$VAR1 = {
+  'When suddenly he heard a sound upon the stony street, A sound, familiar to his
+ears, of battle horses\' feet.' => {
+    'L2' => '0.0757288070627459',
+    'Unknowns' => [],
+    'Min' => '2.29813937164711e-06',
+    'Unaccepted' => [
+      'street,',
+      'sound,',
+      'ears,',
+      'horses\'',
+      'feet.'
+    ],
+    'L1' => '0.00038232348127644'
+  }
+};
+$VAR1 = {
+  'Who giveth victory when and where He listeth, Thou yet shalt wake, and shake
+the nations of the world. For this dull world still slumbers' => {
+    'L2' => '0.0916988534582824',
+    'Unknowns' => [
+      'slumbers'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'listeth,',
+      'wake,',
+      'world.'
+    ],
+    'L1' => '0.000382212714798343'
+  }
+};
+$VAR1 = {
+  'He felt the spirit swell within his undefended breast,
+And his courage rose the faster that his sin had been contest.' => {
+    'L2' => '0.0851196654532915',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'breast,',
+      'contest.'
+    ],
+    'L1' => '0.000381334602467383'
+  }
+};
+$VAR1 = {
+  'Come, tell us the count of thy prey of deer and what cattle- herds thou hast
+harried ; Where is thy mantle of silken fold and the jewelled brooch' => {
+    'L2' => '0.0993952364022863',
+    'Unknowns' => [
+      'jewelled'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Come,',
+      'cattle-',
+      ';'
+    ],
+    'L1' => '0.00037997742382563'
+  }
+};
+$VAR1 = {
+  'And hunted hordes of Saxons into holy Irish graves.
+The Scotch marauders whitened when his war-cry met their ears,
+And the death-bird, like a vengeance, poised above his stormy' => {
+    'L2' => '0.0950529652888241',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'graves.',
+      'war-cry',
+      'ears,',
+      'death-bird,',
+      'vengeance,'
+    ],
+    'L1' => '0.0003764610920916'
+  }
+};
+$VAR1 = {
+  '(Sir John De Courcy was, under Henry II., the principal conqueror of Ulster.
+Having declared, later, that the deaih of Prince Arthur, rightful heir to the
+English Crown, was effected through the commands of King John, the King, on
+hearing it, directed Sir Walter and Sir Hugh De Lacy to arrest De Courcy and
+have him conveyed to England to be hanged. But in a battle which ensued De
+Courey was victorious. The incident described in this ballad is a popular theme
+in many an Ulster home.)' => {
+    'L2' => '0.165724556792508',
+    'Unknowns' => [
+      'Courcy',
+      'deaih',
+      'Courcy',
+      'Courey'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '(Sir',
+      'was,',
+      'II.,',
+      'Ulster.',
+      'declared,',
+      'later,',
+      'Arthur,',
+      'Crown,',
+      'John,',
+      'King,',
+      'it,',
+      'hanged.',
+      'victorious.',
+      'home.)'
+    ],
+    'L1' => '0.000376227790740729'
+  }
+};
+$VAR1 = {
+  'For permission heartily given to use the pieces here appearing over their names
+special thanks are due by the Editor and gratefully tendered to His Grace the
+Archbishop of Tuam, to the Rev. P. S. Dinneen, M.A.; Miss Alice Milligan, Dr.
+Sigerson, Dr. Douglas Hyde, Messrs. T. D. Sullivan, Seamus MacManus, Patrick
+Archer, Brian O\'Higgins, Cathal O\'Byrne, Cathal MacGarvey, An t)uACAittin t)
+uit)e, and Cat)j 0 -OonncA-OA. Mr. Seamus MacManus also readily consented to
+the inclusion of "Brian Boy Magee," from the pen of " Ethna Carbery," A$ t)eif
+t)6 g0 pAi» A MAnAm! The kind indulgence of other proprietors of copyright
+matter is sought if any pieces subject to such rights have been introduced
+without express permission, niop' => {
+    'L2' => '0.17408674549823',
+    'Unknowns' => [
+      'Cathal',
+      'Cathal',
+      'Ethna',
+      'niop'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Tuam,',
+      'Rev.',
+      'P.',
+      'S.',
+      'Dinneen,',
+      'M.A.;',
+      'Milligan,',
+      'Dr.',
+      'Sigerson,',
+      'Dr.',
+      'Hyde,',
+      'Messrs.',
+      'T.',
+      'D.',
+      'Sullivan,',
+      'MacManus,',
+      'Archer,',
+      'O\'Higgins,',
+      'O\'Byrne,',
+      'MacGarvey,',
+      't)uACAittin',
+      't)',
+      'uit)e,',
+      'Cat)j',
+      '-OonncA-OA.',
+      'Mr.',
+      '"Brian',
+      'Magee,"',
+      '"',
+      'Carbery,"',
+      'A$',
+      't)eif',
+      't)6',
+      'g0',
+      'pAi»',
+      'MAnAm!',
+      'permission,'
+    ],
+    'L1' => '0.000374150555039079'
+  }
+};
+$VAR1 = {
+  'Frantic feuds and broken pactions, selfish ends and sordid lust, And, the
+blackest vice of vices, treason to our sacred trust!' => {
+    'L2' => '0.0767535452068305',
+    'Unknowns' => [],
+    'Min' => '6.56611249042032e-07',
+    'Unaccepted' => [
+      'pactions,',
+      'lust,',
+      'And,',
+      'vices,',
+      'trust!'
+    ],
+    'L1' => '0.000368194168863561'
+  }
+};
+$VAR1 = {
+  '(Supposed to have been delivered to the native Irish Pr>nces about 1171 A.d. on
+the landing on our shores of the second gang of English adventurers St.
+Laurence O\'Toole, who was Archbishop of Dublin at the period, was in due time
+chosen as its patron Saint. Ireland has produced no more faithful son.)' => {
+    'L2' => '0.125883162762629',
+    'Unknowns' => [],
+    'Min' => '7.66046457215703e-07',
+    'Unaccepted' => [
+      '(Supposed',
+      'Pr>nces',
+      'A.d.',
+      'St.',
+      'O\'Toole,',
+      'period,',
+      'Saint.',
+      'son.)'
+    ],
+    'L1' => '0.000360149333343694'
+  }
+};
+$VAR1 = {
+  'His sceptre ne\'er a tyrant\'s rod, nor his rule a tyrant\'s chain. And onwards
+towards the foe they steer—a sight sublimely' => {
+    'L2' => '0.0729349949030462',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'ne\'er',
+      'tyrant\'s',
+      'rod,',
+      'tyrant\'s',
+      'chain.',
+      'steer—a'
+    ],
+    'L1' => '0.000354634232100492'
+  }
+};
+$VAR1 = {
+  'He stepped forth to a hillock, where an open cross it stood, And, looking
+forth, he leaned upon the monumental wood. " Tis he, \'tis he ! " the foremost
+cried, " \'tis well you came' => {
+    'L2' => '0.088683306419627',
+    'Unknowns' => [],
+    'Min' => '7.66046457215703e-07',
+    'Unaccepted' => [
+      'hillock,',
+      'stood,',
+      'And,',
+      'forth,',
+      'wood.',
+      '"',
+      'he,',
+      '\'tis',
+      '!',
+      '"',
+      'cried,',
+      '"',
+      '\'tis'
+    ],
+    'L1' => '0.000341944732065976'
+  }
+};
+$VAR1 = {
+  'He plunged into the smoking hole ; no bonny beast was there ; He groped beneath
+his burning bed (it burn\'d him to the' => {
+    'L2' => '0.082556520699155',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      ';',
+      ';',
+      '(it',
+      'burn\'d'
+    ],
+    'L1' => '0.0003407789554975'
+  }
+};
+$VAR1 = {
+  'So has the struggle been maintained for upwards of three centuries. No need to
+say how fares to-day the fight virtually initiated by Ireland\'s greatest
+historian.' => {
+    'L2' => '0.086052574929773',
+    'Unknowns' => [],
+    'Min' => '9.84916873563047e-07',
+    'Unaccepted' => [
+      'centuries.',
+      'to-day',
+      'Ireland\'s',
+      'historian.'
+    ],
+    'L1' => '0.000336592984183827'
+  }
+};
+$VAR1 = {
+  'The sunburst that slumbered, embalmed in our tears,
+Tipperary ! shall wave o\'er thy tall mountaineers;
+And the dark hills shall bristle with sabre and spear,
+While one tyrant remains to forge manacles here.' => {
+    'L2' => '0.0947492238864791',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'slumbered,',
+      'tears,',
+      '!',
+      'o\'er',
+      'mountaineers;',
+      'spear,',
+      'here.'
+    ],
+    'L1' => '0.000332496867670005'
+  }
+};
+$VAR1 = {
+  'A score of mighty Methian men, proof guarded for the strife, And he has sworn
+them, man by man, to take De Courcy\'s' => {
+    'L2' => '0.0768985215774033',
+    'Unknowns' => [
+      'Methian'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'men,',
+      'strife,',
+      'them,',
+      'man,',
+      'Courcy\'s'
+    ],
+    'L1' => '0.000328521256710576'
+  }
+};
+$VAR1 = {
+  '" Our modern minstrelsy loses much by its recent origin," wrote Edward Hayes
+exactly half-a-century ago in a scholarly preface to his - Ballads of Ireland.\'
+..." The sonorous melody of the Celtic tongue would be preferable," he went on,
+" though the wish to return to it now might be considered impracticable. It has
+been well said that we can be thoroughly Irish in thought arid feeling although
+we are English in expression." The future of our national speech must then have
+seemed very unenviable, and the general national outlook all but hopeless
+indeed. But half-a-century brings many a change; and though prominent writers
+of to-day are wont to refer to Moore as " our National poet," there are growing
+hosts who rightly prefer to associate the distinction with the name of one or
+other of the native singers who contributed to our literature the deathless
+vernacular poetry of the last three centuries.' => {
+    'L2' => '0.210514042758815',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      '"',
+      'origin,"',
+      'half-a-century',
+      '-',
+      'Ireland.\'',
+      '..."',
+      'preferable,"',
+      'on,',
+      '"',
+      'impracticable.',
+      'expression."',
+      'unenviable,',
+      'indeed.',
+      'half-a-century',
+      'change;',
+      'to-day',
+      '"',
+      'poet,"',
+      'centuries.'
+    ],
+    'L1' => '0.000328267868138224'
+  }
+};
+$VAR1 = {
+  'Once the iron tribe of Odin did not blush to bear your thrall—. Once the proud
+Iberian boasted how your royal race begun ; But your glory hath gone from you,
+swiftly as the setting sun.' => {
+    'L2' => '0.102354682845061',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'thrall—.',
+      ';',
+      'you,',
+      'sun.'
+    ],
+    'L1' => '0.000327390034384785'
+  }
+};
+$VAR1 = {
+  'It must always be remembered that the great bulk of our modern Irish poetry was
+wedded to popular and sometimes very intricate Irish airs, and has continued to
+this hour to be rather sung than recited. Such pieces would therefore not be
+the most suitable for this collection. The same applies to the CAoine, or
+Lament, and though " CAoine Ainc tH LAogAij\\e" gets a ready place in the volume
+it can hardly be hoped that it will ever again be rendered with the earnestness
+that its character demands, or that the CAoine as a form of recitation will
+ever be studied or developed in the schools. This is especially applicable to
+pieces intended for the female voice. In the case of male voices it may be
+somewhat different. A male voice might, without producing a very depressing
+effect, recite Pierce Ferriter\'s "Lament for Maurice FitzGerald," which
+Mangan\'s abridged translation has made familiar to many. So might Dr.
+Sigerson\'s beautiful translation of the Elegy on Francis Sigerson. This elegy,
+and all pieces in the same peculiar metre, seem indeed specially adapted to
+recitation, the chain verse or conActonn ensuring a sequence throughout which
+could not otherwise be maintained or even obtained,' => {
+    'L2' => '0.240021206407367',
+    'Unknowns' => [
+      'CAoine',
+      'Ainc',
+      'CAoine',
+      'conActonn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'airs,',
+      'recited.',
+      'collection.',
+      'CAoine,',
+      'Lament,',
+      '"',
+      'LAogAij\\e"',
+      'demands,',
+      'schools.',
+      'voice.',
+      'different.',
+      'might,',
+      'effect,',
+      'Ferriter\'s',
+      '"Lament',
+      'FitzGerald,"',
+      'Mangan\'s',
+      'many.',
+      'Dr.',
+      'Sigerson\'s',
+      'Sigerson.',
+      'elegy,',
+      'metre,',
+      'recitation,',
+      'obtained,'
+    ],
+    'L1' => '0.000327330565484364'
+  }
+};
+$VAR1 = {
+  'and " Gaccpa SeAmuif $jvde," are also popular, and the t)eAjaA bjufce, or the
+as the case may be, seldom fails to amuse an Irish audience. It is, in fact, to
+be observed that the fluent Irish speaker is rarely in happier mood than when
+an opportunity is afforded him of jauntily using an English word or clause
+without premeditation. He seems to say : Seat), Ca An meit) fin' => {
+    'L2' => '0.135408588243847',
+    'Unknowns' => [
+      'Gaccpa',
+      'SeAmuif'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '"',
+      '$jvde,"',
+      'popular,',
+      't)eAjaA',
+      'bjufce,',
+      'be,',
+      'audience.',
+      'is,',
+      'fact,',
+      'premeditation.',
+      ':',
+      'Seat),',
+      'meit)'
+    ],
+    'L1' => '0.000321675188950733'
+  }
+};
+$VAR1 = {
+  '" I am no dog to perish thus! no deer to couch at bay! Assassins! \'ware, the
+life you seek, and stand not in my' => {
+    'L2' => '0.0778345367973617',
+    'Unknowns' => [],
+    'Min' => '1.42265770625774e-06',
+    'Unaccepted' => [
+      '"',
+      'thus!',
+      'bay!',
+      'Assassins!',
+      '\'ware,',
+      'seek,'
+    ],
+    'L1' => '0.000318853427287361'
+  }
+};
+$VAR1 = {
+  'And must he go ? Shall Mononia\'s king serve in a hostile land ? Oh, for one
+ship ! with Irish hearts to crash that Danish band ! But hark ! a cheer—and the
+listening hills give back the' => {
+    'L2' => '0.0986181551197951',
+    'Unknowns' => [],
+    'Min' => '6.56611249042032e-07',
+    'Unaccepted' => [
+      '?',
+      'Mononia\'s',
+      '?',
+      'Oh,',
+      '!',
+      '!',
+      '!',
+      'cheer—and'
+    ],
+    'L1' => '0.000313727113523612'
+  }
+};
+$VAR1 = {
+  'May gaze and gloat with pleasure without measure
+Upon the lustrous beauty of that wonder-stone.
+So is it with a nation' => {
+    'L2' => '0.0782586672603282',
+    'Unknowns' => [],
+    'Min' => '4.37740832694688e-07',
+    'Unaccepted' => [
+      'wonder-stone.'
+    ],
+    'L1' => '0.000306220950068138'
+  }
+};
+$VAR1 = {
+  'The nineteenth century was singularly prolific in Anglo- Irish poetry of an
+intensely national character. The seventeenth and eighteenth centuries have
+left us in our native tongue volumes of prose and verse which for patriotic and
+religious fervour are likely to remain unsurpassed in the literature of our
+land. One of the aims in this work is to present a fairly consecutive summary
+of the events that have illumined our chequered story. With such -persistency
+and fidelity have these events been chosen as the subject matter of stirring
+ballads by those of our race who wrote in an alien tongue that it would,
+perhaps, be as easy now to produce from their work a metrical history of
+Ireland as it was for Keating in his day to verify and embellish his Irish
+history by a judicious use of the poetry of the bards who preceded him. Nor has
+there been any lack, on the contrary, there has been a very profusion of
+contemporary Irish poetry from Keating\'s time until our own. Thus, despite
+penal laws, bitter persecution, enforced illiteracy, incessant emigration,
+outlawry, exile, and all, we are to-day in the peculiar position of possessing
+the materials from which to compile complete and reliable metrical histories of
+our country in either of two languages.' => {
+    'L2' => '0.241803483438107',
+    'Unknowns' => [
+      'fervour',
+      'chequered',
+      'metrical',
+      'bards',
+      'metrical'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Anglo-',
+      'character.',
+      'land.',
+      'story.',
+      '-persistency',
+      'would,',
+      'perhaps,',
+      'him.',
+      'lack,',
+      'contrary,',
+      'Keating\'s',
+      'own.',
+      'Thus,',
+      'laws,',
+      'persecution,',
+      'illiteracy,',
+      'emigration,',
+      'outlawry,',
+      'exile,',
+      'all,',
+      'to-day',
+      'languages.'
+    ],
+    'L1' => '0.000306120024098443'
+  }
+};
+$VAR1 = {
+  'Answered the Bard Neelan—" Oh, Earl, I will obey;
+And I will show you that you have no cause for what you say;
+A warrior may be valiant, and love holiness also,
+As did the Norman Courcy in this country long ago."' => {
+    'L2' => '0.101998391799708',
+    'Unknowns' => [
+      'Courcy'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Neelan—"',
+      'Oh,',
+      'Earl,',
+      'obey;',
+      'say;',
+      'valiant,',
+      'also,',
+      'ago."'
+    ],
+    'L1' => '0.000305990350874319'
+  }
+};
+$VAR1 = {
+  'But ere the song of mirth went round or toast in hut or hall,
+A tear was shed, and a prayer was said for Fionn and Fingall.' => {
+    'L2' => '0.0850939376876959',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'hall,',
+      'shed,',
+      'Fingall.'
+    ],
+    'L1' => '0.000301707426299895'
+  }
+};
+$VAR1 = {
+  'Irish Readings for \'-\' St. Lorcdn\'s Address " and " The Priests of
+\'Ninety-Eight " ; Irish Language Miscellany for " AijneAf Ati peACAij teif An
+mbAf " and "SiofmA An AnmA teif An 5CotAinn " ; Irish Minstrelsy for " The
+Winding Banks of Erne " ; Lays Of The Western Gael for "Willie Gilliland " ;
+Treasury Of Irish Poetry for " The Good Ship Castle Down " ; Speeches From The
+Dock for Emmet\'s Speech ; Life Of Thomas Francis Meagher for " A National Flag
+" ; Fr. Dinneen\'s Lectures for " The Living Irish Speech " ; Ferriter\'s Poems
+(Fr. Dinneen) for " mo tyAocA\'b if mo Saoc t\\em\' to Cu 1 " ; Tadhg
+Gaedhealach\'s Poems (Fr. Dinneen) for "An pAi-Djiin pAijiceAC"; Keating\'s Poems
+(Fr. MacErlean) for " pAi-o-bj\\eA5AC An SAOjAt fo " ; Patrick O\'Brien\'s Edition
+of the Poem for "Cuijic An lfleAtion Onice"; and for " CAOineAt) Aijic ui " see
+note at page 122.' => {
+    'L2' => '0.172072278713522',
+    'Unknowns' => [
+      'AijneAf',
+      'peACAij',
+      'teif',
+      'mbAf',
+      'AnmA',
+      'teif',
+      'Erne',
+      'Gael',
+      'Gilliland',
+      'Saoc',
+      'Cu',
+      'Tadhg',
+      'SAOjAt',
+      'lfleAtion',
+      'Aijic'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '\'-\'',
+      'St.',
+      'Lorcdn\'s',
+      '"',
+      '"',
+      '\'Ninety-Eight',
+      '"',
+      ';',
+      '"',
+      '"',
+      '"SiofmA',
+      '5CotAinn',
+      '"',
+      ';',
+      '"',
+      '"',
+      ';',
+      '"Willie',
+      '"',
+      ';',
+      '"',
+      '"',
+      ';',
+      'Emmet\'s',
+      ';',
+      '"',
+      '"',
+      ';',
+      'Fr.',
+      'Dinneen\'s',
+      '"',
+      '"',
+      ';',
+      'Ferriter\'s',
+      '(Fr.',
+      'Dinneen)',
+      '"',
+      'tyAocA\'b',
+      't\\em\'',
+      '"',
+      ';',
+      'Gaedhealach\'s',
+      '(Fr.',
+      'Dinneen)',
+      '"An',
+      'pAi-Djiin',
+      'pAijiceAC";',
+      'Keating\'s',
+      '(Fr.',
+      'MacErlean)',
+      '"',
+      'pAi-o-bj\\eA5AC',
+      '"',
+      ';',
+      'O\'Brien\'s',
+      '"Cuijic',
+      'Onice";',
+      '"',
+      'CAOineAt)',
+      '"',
+      '122.'
+    ],
+    'L1' => '0.000293157119818457'
+  }
+};
+$VAR1 = {
+  'Shelter when he came an exile—succour when he came in need ; When he came a
+student, learning and the right of book' => {
+    'L2' => '0.0749919237482787',
+    'Unknowns' => [],
+    'Min' => '1.63058460178771e-05',
+    'Unaccepted' => [
+      'exile—succour',
+      ';',
+      'student,'
+    ],
+    'L1' => '0.000281189431373383'
+  }
+};
+$VAR1 = {
+  'War\'s stern array hath there an awe it never knows on land. Soon many a sword
+salutes the sun, drawn in that deadly strife, From many a heart that bounded
+high soon flows the tide' => {
+    'L2' => '0.0933182434404443',
+    'Unknowns' => [],
+    'Min' => '1.31322249808406e-06',
+    'Unaccepted' => [
+      'War\'s',
+      'land.',
+      'sun,',
+      'strife,'
+    ],
+    'L1' => '0.000280912727703549'
+  }
+};
+$VAR1 = {
+  'It will therefore be seen that we have quite a profusion of poems on almost
+every conceivable popular subject; and, space being a serious consideration,
+many magnificent pieces have necessarily had to be omitted from this
+collection. Still it is confidently hoped the book is as representative of
+Ireland\'s popular literature as its limits and the special purpose for which it
+is intended will permit. Irish and Anglo-Irish poetry naturally constitutes the
+greater part of it. Prose in both languages is introduced somewhat sparingly,
+and a few pieces in which English and Irish are pretty deftly interwoven are
+also given. The facility with which som-e of the Irish poets interwove and
+wielded the two languages—often more than two, indeed—must have given them
+immeasurable advantages over would-be rivals who had to rely entirely on a
+stunted English vocabulary, and it would seem that they rarely neglected
+turning these advantages to account. The extempore song sung a century and
+a-half ago by -OonncA-o ftuAt) rriAcConm.ApA for a mixed party of English and
+Irish sailors in St. John\'s,' => {
+    'L2' => '0.203892304769232',
+    'Unknowns' => [
+      'interwove',
+      'extempore'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'subject;',
+      'and,',
+      'consideration,',
+      'collection.',
+      'Ireland\'s',
+      'permit.',
+      'Anglo-Irish',
+      'it.',
+      'sparingly,',
+      'given.',
+      'som-e',
+      'languages—often',
+      'two,',
+      'indeed—must',
+      'would-be',
+      'vocabulary,',
+      'account.',
+      'a-half',
+      '-OonncA-o',
+      'ftuAt)',
+      'rriAcConm.ApA',
+      'St.',
+      'John\'s,'
+    ],
+    'L1' => '0.000273500473316508'
+  }
+};
+$VAR1 = {
+  'And I see you burn to grapple all the ills we bore so long , And you\'ll league
+like royal brothers, till from joyful shore' => {
+    'L2' => '0.0766229040063014',
+    'Unknowns' => [],
+    'Min' => '9.84916873563047e-07',
+    'Unaccepted' => [
+      ',',
+      'you\'ll',
+      'brothers,'
+    ],
+    'L1' => '0.000266866791743586'
+  }
+};
+$VAR1 = {
+  'collecting ample matter for a comprehensive volume than in selecting from an
+almost inexhaustible mass a limited number of the more dramatic and acceptable
+pieces.' => {
+    'L2' => '0.079321011290041',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      'pieces.'
+    ],
+    'L1' => '0.000262159284669784'
+  }
+};
+$VAR1 = {
+  'It was a summer evening, and, mellowing and still,
+Glenwhirry to the setting sun lay bare from hill to hill;
+For all that valley pastoral held neither house nor tree,
+But spread abroad and open all, a full fair sight to see,
+From Sliabh Mis foot to Collon top lay one unbroken green,
+Save where in many a silver coil the river glanced between.' => {
+    'L2' => '0.115600063191645',
+    'Unknowns' => [
+      'Glenwhirry',
+      'Sliabh',
+      'Collon'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'evening,',
+      'and,',
+      'still,',
+      'hill;',
+      'tree,',
+      'all,',
+      'see,',
+      'green,',
+      'between.'
+    ],
+    'L1' => '0.000242970447452952'
+  }
+};
+$VAR1 = {
+  'His fishing-rod, with both his hands he gripped it as he spoke, And, where the
+butt and top were spliced, in pieces twain' => {
+    'L2' => '0.0673576806438578',
+    'Unknowns' => [],
+    'Min' => '1.53209291443141e-06',
+    'Unaccepted' => [
+      'fishing-rod,',
+      'spoke,',
+      'And,',
+      'spliced,'
+    ],
+    'L1' => '0.000238792481143155'
+  }
+};
+$VAR1 = {
+  'It does seem at the same time that the only traditional forms of recitation now
+surviving to any appreciable extent are such semi-religious pieces as Patrick
+Denn\'s " An \'peACAig teif An mtUf," and humorous pieces like " - t)e t)Apjw Ah
+tong T)6ipce." Light pieces, such as "' => {
+    'L2' => '0.0937791938218691',
+    'Unknowns' => [
+      'teif'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'semi-religious',
+      'Denn\'s',
+      '"',
+      '\'peACAig',
+      'mtUf,"',
+      '"',
+      '-',
+      't)e',
+      't)Apjw',
+      'T)6ipce."',
+      'pieces,',
+      '"'
+    ],
+    'L1' => '0.000237690194429181'
+  }
+};
+$VAR1 = {
+  'Like a healing incense burning all infectious sin away ; There it flourished
+till the spoiler, Christless more than' => {
+    'L2' => '0.0631092323187633',
+    'Unknowns' => [
+      'Christless'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      ';',
+      'spoiler,'
+    ],
+    'L1' => '0.00023428089434492'
+  }
+};
+$VAR1 = {
+  'Then sudden, as if by frenzy sped, two Irish chiefs as brave, The king\'s two
+brothers as quickly seized, and dashed into' => {
+    'L2' => '0.0628195418074725',
+    'Unknowns' => [],
+    'Min' => '2.07926895529977e-06',
+    'Unaccepted' => [
+      'sudden,',
+      'sped,',
+      'brave,',
+      'king\'s',
+      'seized,'
+    ],
+    'L1' => '0.000232134990170634'
+  }
+};
+$VAR1 = {
+  'Thy wrathful lips, like sentinels, by foulest treachery stung; Look rage upon
+the world of wrong, but chain thy fiery' => {
+    'L2' => '0.0608353716802218',
+    'Unknowns' => [
+      'foulest'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'lips,',
+      'sentinels,',
+      'stung;',
+      'wrong,'
+    ],
+    'L1' => '0.00023130890296692'
+  }
+};
+$VAR1 = {
+  'And the bursting yell of pale despair when hope itself is dead ; Then o\'er that
+warrior-band in wrath a death-like silence passed As they gazed where Sitric\'s
+sails unfurled swelled proudly' => {
+    'L2' => '0.0789952465550951',
+    'Unknowns' => [],
+    'Min' => '6.56611249042032e-07',
+    'Unaccepted' => [
+      ';',
+      'o\'er',
+      'warrior-band',
+      'death-like',
+      'Sitric\'s'
+    ],
+    'L1' => '0.00023112033252964'
+  }
+};
+$VAR1 = {
+  'Must flower in living might, must broadly blossom The hopes that shall be born
+ere Freedom\'s Tree can blow.' => {
+    'L2' => '0.0607181249820081',
+    'Unknowns' => [],
+    'Min' => '2.18870416347344e-07',
+    'Unaccepted' => [
+      'might,',
+      'Freedom\'s',
+      'blow.'
+    ],
+    'L1' => '0.000230418168833172'
+  }
+};
+$VAR1 = {
+  'Be sure thou soon shall form the vanguard
+Of that illustrious band, whom Heaven and Man guard ;
+And these words come from one whom men have called a seer !' => {
+    'L2' => '0.0798719197896778',
+    'Unknowns' => [],
+    'Min' => '4.37740832694688e-07',
+    'Unaccepted' => [
+      'band,',
+      ';',
+      '!'
+    ],
+    'L1' => '0.00022784012753174'
+  }
+};
+$VAR1 = {
+  'But one has little care for jest so hard bested is he,
+To ride the outlaw\'s bonny mare, for this at least is she !' => {
+    'L2' => '0.0679485239892529',
+    'Unknowns' => [],
+    'Min' => '3.28305624521016e-07',
+    'Unaccepted' => [
+      'he,',
+      'outlaw\'s',
+      'mare,',
+      '!'
+    ],
+    'L1' => '0.000219857233919908'
+  }
+};
+$VAR1 = {
+  'Be hid in clouds of blood before it reach the Saxon clan ;
+For sure, O God !—and You know all, Whose thought for all' => {
+    'L2' => '0.0672219980124011',
+    'Unknowns' => [],
+    'Min' => '2.18870416347344e-06',
+    'Unaccepted' => [
+      ';',
+      'sure,',
+      '!—and',
+      'all,'
+    ],
+    'L1' => '0.000215180810322822'
+  }
+};
+$VAR1 = {
+  'But who had right of these, if not our Ulster\'s Chief, O\'Neill/ Who reared
+aloft the " Bloody Hand " until it paled the sun, And shed such glory on Tir
+Eoghain as Chief had never done ? He was " turbulent " with traitors ; he was "
+haughty "' => {
+    'L2' => '0.090069051255605',
+    'Unknowns' => [
+      'Tir',
+      'Eoghain'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'these,',
+      'Ulster\'s',
+      'Chief,',
+      'O\'Neill/',
+      '"',
+      '"',
+      'sun,',
+      '?',
+      '"',
+      '"',
+      ';',
+      '"',
+      '"'
+    ],
+    'L1' => '0.000213485105107495'
+  }
+};
+$VAR1 = {
+  'Gyves and fetters from the donjons of his own begotten race ! Scorn this
+slavish scheme to mesh you in a net of idle words ; Thank him as his sons have
+thanked him—thank him with' => {
+    'L2' => '0.0838956245068761',
+    'Unknowns' => [
+      'Gyves',
+      'donjons',
+      'begotten'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '!',
+      ';',
+      'him—thank'
+    ],
+    'L1' => '0.000213287145799962'
+  }
+};
+$VAR1 = {
+  'He couched among the heather, and he saw them, as he lay, With three long yells
+at parting, ride lightly east away; Then down with heavy heart he came, to
+sorry cheer came he, For ashes black were crackling where the green whins used' => {
+    'L2' => '0.0884020874331111',
+    'Unknowns' => [
+      'whins'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'heather,',
+      'them,',
+      'lay,',
+      'parting,',
+      'away;',
+      'came,',
+      'he,'
+    ],
+    'L1' => '0.000211214298987336'
+  }
+};
+$VAR1 = {
+  'Scene—BeJore Dublin Castle. Night. A clansman of Sean O\'Neill\'s discovers his
+Chief\'s head on a pole.' => {
+    'L2' => '0.0457283005695305',
+    'Unknowns' => [
+      'clansman'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Scene—BeJore',
+      'Castle.',
+      'Night.',
+      'O\'Neill\'s',
+      'Chief\'s',
+      'pole.'
+    ],
+    'L1' => '0.000209107747297732'
+  }
+};
+$VAR1 = {
+  'Drag them to the carnal tyrant as he swoops upon your shore— Meekly you must do
+his pleasure, nor deny him evermore.' => {
+    'L2' => '0.0624982526050821',
+    'Unknowns' => [],
+    'Min' => '2.18870416347344e-07',
+    'Unaccepted' => [
+      'shore—',
+      'pleasure,',
+      'evermore.'
+    ],
+    'L1' => '0.000205580609404666'
+  }
+};
+$VAR1 = {
+  'He\'s truly dead! he must be dead! nor is his ghost about— And yet no tomb could
+hold his spirit tame to such a shout; The pale face droopeth northward—ah! his
+soul must loom' => {
+    'L2' => '0.0750165701776537',
+    'Unknowns' => [
+      'droopeth'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'He\'s',
+      'dead!',
+      'dead!',
+      'about—',
+      'shout;',
+      'northward—ah!'
+    ],
+    'L1' => '0.000200981635757816'
+  }
+};
+$VAR1 = {
+  't)o tAirh-fe 1r6in, A finn, 1f eAgAt tinn g0 nt)eApnAif An c6 As A t)c6idm
+poirhe A teif feAdc Jcata \'-f' => {
+    'L2' => '0.0465198279308809',
+    'Unknowns' => [
+      'eAgAt',
+      'tinn',
+      'poirhe',
+      'teif',
+      'feAdc',
+      'Jcata'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)o',
+      'tAirh-fe',
+      '1r6in,',
+      'finn,',
+      '1f',
+      'g0',
+      'nt)eApnAif',
+      'c6',
+      't)c6idm',
+      '\'-f'
+    ],
+    'L1' => '0.000196735853701706'
+  }
+};
+$VAR1 = {
+  'Few men could match De Courcy on saddle or on sward,
+The ponderous mace he valued more than any Spanish sword ;
+On many a field of slaughter scores of men lay smashed and' => {
+    'L2' => '0.0773130575290762',
+    'Unknowns' => [
+      'Courcy'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'sward,',
+      ';'
+    ],
+    'L1' => '0.000186790902015445'
+  }
+};
+$VAR1 = {
+  'And, while I have the life you saved, on your sleek flajik I swear
+Episcopalian rowel shall never ruffle hair !
+Though sword to wield they\'ve left me none—yet Wallace' => {
+    'L2' => '0.0682179016491927',
+    'Unknowns' => [
+      'flajik',
+      'rowel'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'And,',
+      'saved,',
+      '!',
+      'they\'ve',
+      'none—yet'
+    ],
+    'L1' => '0.000186147284216757'
+  }
+};
+$VAR1 = {
+  'De Lacy was his deadly foe, through envy of his fame,
+He laid foul ambush for his life, and stigmatized his name;
+But the gallant John De Courcy kept still his mace at hand,
+And rode, unfearing feint or force, across his rival\'s land.' => {
+    'L2' => '0.074536289793124',
+    'Unknowns' => [
+      'Courcy',
+      'unfearing'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'foe,',
+      'fame,',
+      'life,',
+      'name;',
+      'hand,',
+      'rode,',
+      'force,',
+      'rival\'s',
+      'land.'
+    ],
+    'L1' => '0.000158733099889273'
+  }
+};
+$VAR1 = {
+  'So he must fly his father\'s land, or he must die the death ; For comely
+Claverhouse has come along with grim Dalzelle, And his smoking roof-tree
+tesIifies they\'ve done their errand' => {
+    'L2' => '0.0638347246422873',
+    'Unknowns' => [
+      'Claverhouse',
+      'tesIifies'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'father\'s',
+      'land,',
+      ';',
+      'Dalzelle,',
+      'roof-tree',
+      'they\'ve'
+    ],
+    'L1' => '0.000156725848852179'
+  }
+};
+$VAR1 = {
+  'At last, when in false company he might no longer bide,
+He stayed his houseless wanderings upon the Collon side,
+There in a cave all underground he laired his heathy den,
+Ah, many a gentleman was fain to earth like hill fox then !
+With hound and fishing-rod he lived on hill and stream by day ;
+At night, betwixt his greyhound fleet and his bonny mare
+he lay.' => {
+    'L2' => '0.0927682502724844',
+    'Unknowns' => [
+      'houseless',
+      'Collon',
+      'laired',
+      'heathy',
+      'betwixt'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'last,',
+      'bide,',
+      'side,',
+      'den,',
+      'Ah,',
+      '!',
+      'fishing-rod',
+      ';',
+      'night,',
+      'lay.'
+    ],
+    'L1' => '0.00014586352980709'
+  }
+};
+$VAR1 = {
+  'Come and lead to newer slaughter all your sacrilegious brood ; Come in
+triumph—here are bishops, worn to stone wiIh' => {
+    'L2' => '0.0495707806152426',
+    'Unknowns' => [
+      'wiIh'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      ';',
+      'triumph—here',
+      'bishops,'
+    ],
+    'L1' => '0.00014454484063556'
+  }
+};
+$VAR1 = {
+  'And some by hunger, and some by thirst,
+Until all were gone, but they slaughtered first
+Their tenfold more of their foemen."' => {
+    'L2' => '0.0488899397005761',
+    'Unknowns' => [],
+    'Min' => '9.84916873563047e-07',
+    'Unaccepted' => [
+      'hunger,',
+      'thirst,',
+      'gone,',
+      'foemen."'
+    ],
+    'L1' => '0.000132790344662554'
+  }
+};
+$VAR1 = {
+  'Ha SAfAnAig OoccA gup Ag motAii "Royal George" A tri T)onncAii. tliop tuigeAt)A
+p gup tug fe A nAp teigi-o T)iA gupAt) AriitAit) A Oeit) ! i ntn<M-D Jac AbApcA
+t)e\'n' => {
+    'L2' => '0.0499938448754828',
+    'Unknowns' => [
+      'SAfAnAig',
+      'OoccA',
+      'gup',
+      'motAii',
+      'tliop',
+      'gup',
+      'fe',
+      'Jac',
+      'AbApcA'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '"Royal',
+      'George"',
+      'T)onncAii.',
+      'tuigeAt)A',
+      'teigi-o',
+      'T)iA',
+      'gupAt)',
+      'AriitAit)',
+      'Oeit)',
+      '!',
+      'ntn<M-D',
+      't)e\'n'
+    ],
+    'L1' => '0.000131546553970202'
+  }
+};
+$VAR1 = {
+  'Ancient! yet for ever young !
+Thou our mother, home, and sireland—
+Thou at length hast found a tongue.' => {
+    'L2' => '0.0401228965229328',
+    'Unknowns' => [],
+    'Min' => '1.09435208173672e-07',
+    'Unaccepted' => [
+      'Ancient!',
+      '!',
+      'mother,',
+      'home,',
+      'sireland—',
+      'tongue.'
+    ],
+    'L1' => '0.000123834371183844'
+  }
+};
+$VAR1 = {
+  '£6it, A t)Aif ! cAOAip cAiptie An tAe feo
+g0 nt)6AnpAt) m\'ut)ACc mAp if t)uAt A t)eAnArh,
+Cum nA beit) buAt)Aipc i meAfc mo
+mo' => {
+    'L2' => '0.0425604642210938',
+    'Unknowns' => [
+      'cAOAip',
+      'cAiptie',
+      'feo',
+      'meAfc'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '£6it,',
+      't)Aif',
+      '!',
+      'g0',
+      'nt)6AnpAt)',
+      'm\'ut)ACc',
+      't)uAt',
+      't)eAnArh,',
+      'beit)',
+      'buAt)Aipc'
+    ],
+    'L1' => '0.000120759540981001'
+  }
+};
+$VAR1 = {
+  '-OAttAt) gAn teigeAf opc, A CtAt)Aipe
+A feAn-ouine CAm if A Chaihica f Aogalca :
+11i tuigip g0 mb\'feApp iloiO CAipt)eAf t)6
+HA ctAnn if conAWA<i if btAt beAg' => {
+    'L2' => '0.0463316058006648',
+    'Unknowns' => [
+      'gAn',
+      'teigeAf',
+      'Chaihica',
+      'Aogalca',
+      'tuigip',
+      'iloiO',
+      'ctAnn',
+      'btAt',
+      'beAg'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '-OAttAt)',
+      'opc,',
+      'CtAt)Aipe',
+      'feAn-ouine',
+      ':',
+      '11i',
+      'g0',
+      'mb\'feApp',
+      'CAipt)eAf',
+      't)6',
+      'conAWA<i'
+    ],
+    'L1' => '0.000119256538670455'
+  }
+};
+$VAR1 = {
+  'Ah! little thought Willie Gilliland when he on Skerry\'s side Drew bridle first,
+and wiped his brow, after that weary ride, That where he lay like hunted brute,
+a caverned outlaw lone, Broad lands and yeoman tenantry should yet be there his
+own ; Yet so it was; and still from him descendants not a few Draw birth and
+lands, and, let me trust, draw love of Freedom too.' => {
+    'L2' => '0.0802000201510959',
+    'Unknowns' => [
+      'Gilliland',
+      'caverned',
+      'tenantry'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Ah!',
+      'Skerry\'s',
+      'first,',
+      'brow,',
+      'ride,',
+      'brute,',
+      'lone,',
+      ';',
+      'was;',
+      'lands,',
+      'and,',
+      'trust,',
+      'too.'
+    ],
+    'L1' => '0.000114857914861361'
+  }
+};
+$VAR1 = {
+  ', A fpAt)Aipe, ni inAit tiom no
+tAitneArh Leac piAifi piA^Ait nA nAoifi
+iiiAit teAc, pein, t)o CtAnn A »eit nAorhtA,' => {
+    'L2' => '0.0376807932713455',
+    'Unknowns' => [
+      'inAit',
+      'tiom',
+      'tAitneArh',
+      'Leac',
+      'piAifi',
+      'nAoifi',
+      'iiiAit',
+      'CtAnn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      ',',
+      'fpAt)Aipe,',
+      'piA^Ait',
+      'teAc,',
+      'pein,',
+      't)o',
+      '»eit',
+      'nAorhtA,'
+    ],
+    'L1' => '0.000109218629350606'
+  }
+};
+$VAR1 = {
+  't)o b\'peApp tii nA A tAn Aca T)a bpeACAcAf pof,
+A fBAbAiij Atuinn t)O tAini5 6 Si5eAjifon rh
+Hi pAib cAim opc 6-D\' mAtAi p -D\'^uit
+A jidbAij\\e An AtAif -Do CjionnA* Ah c-6p.' => {
+    'L2' => '0.046213419402291',
+    'Unknowns' => [
+      'tii',
+      'bpeACAcAf',
+      'fBAbAiij',
+      'Atuinn',
+      'rh',
+      'pAib',
+      'cAim',
+      'opc',
+      'mAtAi',
+      'AtAif'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)o',
+      'b\'peApp',
+      'T)a',
+      'pof,',
+      't)O',
+      'tAini5',
+      'Si5eAjifon',
+      '6-D\'',
+      '-D\'^uit',
+      'jidbAij\\e',
+      '-Do',
+      'CjionnA*',
+      'c-6p.'
+    ],
+    'L1' => '0.000106784006642602'
+  }
+};
+$VAR1 = {
+  'Yet proudly he entered among them all For this was his brother\'s Banquet Hall,
+And he was a prince Dalcassian.' => {
+    'L2' => '0.0422552577577354',
+    'Unknowns' => [],
+    'Min' => '3.17362103703649e-06',
+    'Unaccepted' => [
+      'brother\'s',
+      'Hall,',
+      'Dalcassian.'
+    ],
+    'L1' => '0.000105029812245451'
+  }
+};
+$VAR1 = {
+  'He was " merciless as fire "—ah, ye kindled him—he blazed ! He was " proud
+"—yes, proud of birthright, and because he' => {
+    'L2' => '0.0407013448506929',
+    'Unknowns' => [],
+    'Min' => '2.18870416347344e-07',
+    'Unaccepted' => [
+      '"',
+      '"—ah,',
+      'him—he',
+      '!',
+      '"',
+      '"—yes,',
+      'birthright,'
+    ],
+    'L1' => '0.000103537467040939'
+  }
+};
+$VAR1 = {
+  '\'S6 An Cuif i n-A t)ciocpAit!) Ah cine boCc t)AonnA
+go gteAnn mof 16fopnAic Ta nA nt)A
+Cum iomAt) A gcoptA t)o nodcAt) t)o\'n
+g0 OpeicpeAt) Jag nt)uine Aca toccunie A' => {
+    'L2' => '0.0424908384322774',
+    'Unknowns' => [
+      'Cuif',
+      'cine',
+      'boCc',
+      'gteAnn',
+      'mof',
+      'gcoptA',
+      'toccunie'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '\'S6',
+      'n-A',
+      't)ciocpAit!)',
+      't)AonnA',
+      '16fopnAic',
+      'nt)A',
+      'iomAt)',
+      't)o',
+      'nodcAt)',
+      't)o\'n',
+      'g0',
+      'OpeicpeAt)',
+      'nt)uine'
+    ],
+    'L1' => '0.00010030396392655'
+  }
+};
+$VAR1 = {
+  'eif nA c6A-OcAiO ceAnn AcA CAitce pe ! if iomt)A tlot)tAig A CAiteAf pe
+fuAirhneAf, t)A Opi5 feo cionnur- A tiocpAt) nA cuigpinn g0 cpuinn An' => {
+    'L2' => '0.0378884802194148',
+    'Unknowns' => [
+      'eif',
+      'ceAnn',
+      'CAitce',
+      'CAiteAf',
+      'feo',
+      'cuigpinn',
+      'cpuinn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'c6A-OcAiO',
+      '!',
+      'iomt)A',
+      'tlot)tAig',
+      'fuAirhneAf,',
+      't)A',
+      'Opi5',
+      'cionnur-',
+      'tiocpAt)',
+      'g0'
+    ],
+    'L1' => '8.97210583335619e-05'
+  }
+};
+$VAR1 = {
+  'All, all is done that valour can, give way, and be resigned ! Swiftly he
+rushed, as one possessed, \'mid all that hostile train, Seizing their king, with
+one wild bound, plunged both into' => {
+    'L2' => '0.0442007809947881',
+    'Unknowns' => [],
+    'Min' => '7.66046457215703e-07',
+    'Unaccepted' => [
+      'All,',
+      'can,',
+      'way,',
+      '!',
+      'rushed,',
+      'possessed,',
+      '\'mid',
+      'train,',
+      'king,',
+      'bound,'
+    ],
+    'L1' => '8.14045433562174e-05'
+  }
+};
+$VAR1 = {
+  '1f Cujac A cAngA, A peACAig cpionnA,
+te ri6jVousA-6 tAitnp cu Opeit t)e\'n fAoigeAt fo,
+Jo OcAOAppA cunncAf it)\' t)poi<l-gniorhAptAiO
+-Oo\'n Tlig puAip bAf Ap An gCpoif T)ia' => {
+    'L2' => '0.0377867978313208',
+    'Unknowns' => [
+      'Cujac',
+      'peACAig',
+      'tAitnp',
+      'cu',
+      'Opeit',
+      'fAoigeAt',
+      'OcAOAppA',
+      'cunncAf',
+      'Tlig',
+      'puAip',
+      'bAf',
+      'gCpoif'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '1f',
+      'cAngA,',
+      'cpionnA,',
+      'ri6jVousA-6',
+      't)e\'n',
+      'fo,',
+      'it)\'',
+      't)poi<l-gniorhAptAiO',
+      '-Oo\'n',
+      'T)ia'
+    ],
+    'L1' => '7.93245605747283e-05'
+  }
+};
+$VAR1 = {
+  'Never Norman forged a cuirass could resist an Irish axe ; And be sure your
+fearless clansmen soon shall scorn their' => {
+    'L2' => '0.0395101329113058',
+    'Unknowns' => [
+      'cuirass',
+      'clansmen'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      ';'
+    ],
+    'L1' => '7.80525301334525e-05'
+  }
+};
+$VAR1 = {
+  'Art truly dead and cold ? O Chief! art thou to Ulster lost ? " Dost hear, dost
+hear ? By Randolph led, Ihe troops Ihe' => {
+    'L2' => '0.0381765530481215',
+    'Unknowns' => [
+      'Ihe',
+      'Ihe'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '?',
+      'Chief!',
+      '?',
+      '"',
+      'hear,',
+      '?',
+      'led,'
+    ],
+    'L1' => '7.67078527703175e-05'
+  }
+};
+$VAR1 = {
+  'Have my eyes been lit by Heaven but to guide me to defeat ?
+Have / no chief, or you no clan, to give us both defence,
+Or must I, too, be statued here with thy cold eloquence ?' => {
+    'L2' => '0.0480367969592168',
+    'Unknowns' => [
+      'statued'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '?',
+      '/',
+      'chief,',
+      'clan,',
+      'defence,',
+      'I,',
+      'too,',
+      '?'
+    ],
+    'L1' => '7.4436576196807e-05'
+  }
+};
+$VAR1 = {
+  'tiig An fc6it i n-iomUin nit) nAf O\'iongnAt). Prince Charles Edward Stuart A
+b\'eA-o " An ITlAc fo A$ fAn uAinn tAtt \'' => {
+    'L2' => '0.0332873919055699',
+    'Unknowns' => [
+      'tiig',
+      'nAf',
+      'ITlAc',
+      'uAinn',
+      'tAtt'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'fc6it',
+      'n-iomUin',
+      'nit)',
+      'O\'iongnAt).',
+      'b\'eA-o',
+      '"',
+      'A$',
+      '\''
+    ],
+    'L1' => '7.38700306583335e-05'
+  }
+};
+$VAR1 = {
+  'Thy ghastly head grins scorn upon old Dublin\'s Castle-tower, Thy shaggy hair is
+wind-tossed, and thy brow seems rough' => {
+    'L2' => '0.0342311513962452',
+    'Unknowns' => [],
+    'Min' => '5.4717604086836e-07',
+    'Unaccepted' => [
+      'Dublin\'s',
+      'Castle-tower,',
+      'wind-tossed,'
+    ],
+    'L1' => '7.32357328695414e-05'
+  }
+};
+$VAR1 = {
+  'Jac mAigt)eAn gtAn woO t)\'fAn 1f gite Oeit) fi nA gAt nA gpeme, tli Oeit) 6inne
+i bpApHAtAf \'Coin cAitneAm-Aii t6ite nA n-AingeAt, i ngpAOAm \'f i penii teo.' => {
+    'L2' => '0.0335792602763423',
+    'Unknowns' => [
+      'Jac',
+      'gtAn',
+      'gite',
+      'tli',
+      'bpApHAtAf',
+      'ngpAOAm',
+      'penii'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'mAigt)eAn',
+      't)\'fAn',
+      '1f',
+      'Oeit)',
+      'gpeme,',
+      'Oeit)',
+      '6inne',
+      '\'Coin',
+      'cAitneAm-Aii',
+      't6ite',
+      'n-AingeAt,',
+      '\'f',
+      'teo.'
+    ],
+    'L1' => '7.04729200441462e-05'
+  }
+};
+$VAR1 = {
+  'Have I not shown you had no cause for what I heard you say ?" " Faith, Neelan,"
+answered Gerald, " your holy man, Sir' => {
+    'L2' => '0.0355877651945253',
+    'Unknowns' => [],
+    'Min' => '1.65247164342245e-05',
+    'Unaccepted' => [
+      '?"',
+      '"',
+      'Faith,',
+      'Neelan,"',
+      'Gerald,',
+      '"',
+      'man,'
+    ],
+    'L1' => '7.03605017522593e-05'
+  }
+};
+$VAR1 = {
+  'A feAnt)uine,
+Hi ri6 An c-Am ceApc Ca
+t)\'unjvAr6 Ah ttiA, \'f cu piArh t)A
+Jo jiuAip An OAif if cO i mbeApnAin Oaogait.' => {
+    'L2' => '0.0334028777592772',
+    'Unknowns' => [
+      'ceApc',
+      'cu',
+      'piArh',
+      'jiuAip',
+      'OAif',
+      'mbeApnAin'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'feAnt)uine,',
+      'ri6',
+      'c-Am',
+      't)\'unjvAr6',
+      'ttiA,',
+      '\'f',
+      't)A',
+      'Oaogait.'
+    ],
+    'L1' => '6.97345151625761e-05'
+  }
+};
+$VAR1 = {
+  '1f pAt)A 6 Ag poit)ne 1eAc, A
+1f cO tAn t)e tAit)Ofe if t)o OtAt)mAnn
+T)o fAoitif 6 rheAttAt) tet)\' OUvOAp \'f teo\'
+ACc Anoif iMpip gAC gniorii t)e\'o\'' => {
+    'L2' => '0.0267495375897634',
+    'Unknowns' => [
+      'fAoitif',
+      'OUvOAp',
+      'Anoif',
+      'iMpip',
+      'gAC',
+      'gniorii'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '1f',
+      'pAt)A',
+      'poit)ne',
+      '1eAc,',
+      '1f',
+      't)e',
+      'tAit)Ofe',
+      't)o',
+      'OtAt)mAnn',
+      'T)o',
+      'rheAttAt)',
+      'tet)\'',
+      '\'f',
+      'teo\'',
+      't)e\'o\''
+    ],
+    'L1' => '5.96281467721806e-05'
+  }
+};
+$VAR1 = {
+  'pug lDoinne Aonguif 6ig xNg peACAinc uAim if Ag t)eAnAifi Aifcit)e, \'S ni pAiO
+A cuAipifc fiof nA fuAf, i As gtuAifeACc cpe nA' => {
+    'L2' => '0.0334634545830974',
+    'Unknowns' => [
+      'lDoinne',
+      'Aonguif',
+      'xNg',
+      'peACAinc',
+      'uAim',
+      'pAiO',
+      'cuAipifc',
+      'fiof',
+      'gtuAifeACc',
+      'cpe'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '6ig',
+      't)eAnAifi',
+      'Aifcit)e,',
+      '\'S',
+      'fuAf,'
+    ],
+    'L1' => '5.8936989086054e-05'
+  }
+};
+$VAR1 = {
+  'Oit) Tf6 ceo gAn Opig Sac t6
+£6 Cuing An Op6i n A$ Ha gAttAi-6e :
+iomt)6 mAC t)itif t)ibeAptA uAim
+\' S, A Cpiofc, nAC Chuasj me \'ha n-eAfbAit).' => {
+    'L2' => '0.0268627055532393',
+    'Unknowns' => [
+      'gAn',
+      'Opig',
+      'Cuing',
+      'uAim',
+      'Chuasj'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Oit)',
+      'Tf6',
+      't6',
+      '£6',
+      'Op6i',
+      'A$',
+      'gAttAi-6e',
+      ':',
+      'iomt)6',
+      't)itif',
+      't)ibeAptA',
+      '\'',
+      'S,',
+      'Cpiofc,',
+      '\'ha',
+      'n-eAfbAit).'
+    ],
+    'L1' => '5.15432106885737e-05'
+  }
+};
+$VAR1 = {
+  ', A t)Aif ! Caoaip CAipt)e pof tiom, t1A t)ei n me cpeACAt) \'f nA mAipO g0 poit
+me, go rnJeAnf\'At) Aitpige im\' peACAi 1f g0 ntnogAtpAt) m\'fiACA te Uig nA' => {
+    'L2' => '0.0266676976688896',
+    'Unknowns' => [
+      'Caoaip',
+      'pof',
+      'mAipO',
+      'Aitpige',
+      'peACAi',
+      'Uig'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      ',',
+      't)Aif',
+      '!',
+      'CAipt)e',
+      'tiom,',
+      't1A',
+      't)ei',
+      'cpeACAt)',
+      '\'f',
+      'g0',
+      'me,',
+      'rnJeAnf\'At)',
+      'im\'',
+      '1f',
+      'g0',
+      'ntnogAtpAt)',
+      'm\'fiACA'
+    ],
+    'L1' => '5.07975784970927e-05'
+  }
+};
+$VAR1 = {
+  'tAigeAt) nA ntiAoine Oeni fAop \'fAn cfAogAt fo
+ITlAp g0 Opuitit) «ite gAn cuigfinc
+gAn fc6irh A teAfA Cum Aitpige t)o' => {
+    'L2' => '0.0266051219218252',
+    'Unknowns' => [
+      'ntiAoine',
+      'Oeni',
+      'fAop',
+      'cfAogAt',
+      'ITlAp',
+      'gAn',
+      'cuigfinc',
+      'gAn',
+      'teAfA',
+      'Aitpige'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'tAigeAt)',
+      '\'fAn',
+      'g0',
+      'Opuitit)',
+      '«ite',
+      'fc6irh',
+      't)o'
+    ],
+    'L1' => '5.05594651767989e-05'
+  }
+};
+$VAR1 = {
+  'An t)peAm t)uO gAttt)A peArhAp Ha m6p-topc
+AcA t)eAgAitce o t)iA, teif An nT)iAOAl t)o geoftAni
+1f An t)peAm e& Oat T if nA gtAcpA-o c6rhAipte
+t)eit) \'nA t)ceAnncA pA fCAnnpAt) A nt)6tAin.' => {
+    'L2' => '0.0274254002578777',
+    'Unknowns' => [
+      'peArhAp',
+      'teif',
+      'geoftAni'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)peAm',
+      't)uO',
+      'gAttt)A',
+      'm6p-topc',
+      't)eAgAitce',
+      't)iA,',
+      'nT)iAOAl',
+      't)o',
+      '1f',
+      't)peAm',
+      'e&',
+      'gtAcpA-o',
+      'c6rhAipte',
+      't)eit)',
+      '\'nA',
+      't)ceAnncA',
+      'fCAnnpAt)',
+      'nt)6tAin.'
+    ],
+    'L1' => '5.01435052869866e-05'
+  }
+};
+$VAR1 = {
+  'itn Aniof Apif t)e
+o Sit) CpuAdnd, g0 Sni SeAnO,
+Sit) Cnuic AOiOinn pipinn fuAip
+A mbiot) An ftuAg te cAoiO Ha' => {
+    'L2' => '0.0268337715305078',
+    'Unknowns' => [
+      'itn',
+      'Aniof',
+      'Apif',
+      'Sni',
+      'Cnuic',
+      'AOiOinn',
+      'pipinn',
+      'fuAip',
+      'ftuAg',
+      'cAoiO'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)e',
+      'Sit)',
+      'CpuAdnd,',
+      'g0',
+      'SeAnO,',
+      'Sit)',
+      'mbiot)'
+    ],
+    'L1' => '4.8003419636766e-05'
+  }
+};
+$VAR1 = {
+  'Ha W meAttcA A CtAmpAipe
+ni OpAgAip Aon tuACc cp6t)\' rii6p-Cuit) t)AonnACc\'
+g0 pAOAif WApO \'f*n t)peACA JAC cp6irhfe
+An CApcAnnACc, \'f gAn Eajta T)6 ope.' => {
+    'L2' => '0.02683369458395',
+    'Unknowns' => [
+      'meAttcA',
+      'CtAmpAipe',
+      'OpAgAip',
+      'tuACc',
+      'pAOAif',
+      'JAC',
+      'gAn',
+      'Eajta'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'cp6t)\'',
+      'rii6p-Cuit)',
+      't)AonnACc\'',
+      'g0',
+      '\'f*n',
+      't)peACA',
+      'cp6irhfe',
+      'CApcAnnACc,',
+      '\'f',
+      'T)6',
+      'ope.'
+    ],
+    'L1' => '4.80031443349807e-05'
+  }
+};
+$VAR1 = {
+  'An t)Af Aca tAn t)e
+t)o teAg Ajl Tajl ctAnn ^t)Aiifi g0
+VeAgpAt) cuf A Anoif mAp Aon teo,
+1f beAppAt) ot)\' rhAOin gAn »j"g pe Cp6 cu.' => {
+    'L2' => '0.026833002311411',
+    'Unknowns' => [
+      'teAg',
+      'Ajl',
+      'Tajl',
+      'ctAnn',
+      'cuf',
+      'Anoif',
+      'rhAOin',
+      'gAn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)Af',
+      't)e',
+      't)o',
+      '^t)Aiifi',
+      'g0',
+      'VeAgpAt)',
+      'teo,',
+      '1f',
+      'beAppAt)',
+      'ot)\'',
+      '»j"g',
+      'Cp6',
+      'cu.'
+    ],
+    'L1' => '4.80006675362793e-05'
+  }
+};
+$VAR1 = {
+  'teig Oot)\' feAnCuf, A feAntnnne CnAonine,
+Ho fAitpeAt) An biop fo cp6 tAp t)o Cpoit)e \'
+1f cAOAppAit) Aon jtlAC lTlmpe bpeit
+Ap c\'AnAm Anoif, if g0 mppeAnn fiof' => {
+    'L2' => '0.0269760007482774',
+    'Unknowns' => [
+      'teig',
+      'feAntnnne',
+      'biop',
+      'jtlAC',
+      'lTlmpe',
+      'bpeit',
+      'mppeAnn',
+      'fiof'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Oot)\'',
+      'feAnCuf,',
+      'CnAonine,',
+      'fAitpeAt)',
+      'cp6',
+      't)o',
+      'Cpoit)e',
+      '\'',
+      '1f',
+      'cAOAppAit)',
+      'c\'AnAm',
+      'Anoif,',
+      'g0'
+    ],
+    'L1' => '4.54815385231914e-05'
+  }
+};
+$VAR1 = {
+  'Which would win for its rich dower
+That bright pearl, Self-Liberation —
+It must labour hour by hour.' => {
+    'L2' => '0.0250516262710837',
+    'Unknowns' => [
+      'dower'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'pearl,',
+      'Self-Liberation',
+      '—',
+      'hour.'
+    ],
+    'L1' => '4.48274270590037e-05'
+  }
+};
+$VAR1 = {
+  'Aguf SpiopAit) nA jlot)tAg Ag cAifceAt p6m\' no -ft6 Oiof i mbeAt ftAif Aguf
+ceApAt Hot)tAig g0 bpAt Apif opm. ACc feo p6f Annf o me, te t)1A, Aguf m& 
+uttArh Ap An eAgc6ij\\ A t)eineAt) opm t)o rhAiteAt) Agur- An fUAirhneAf t)o
+pAinig -6om -o\'At)ifiAit. Cat) if piu tlot)tAi3 no -06 no CAiteArh pe\'n Aint)
+eife i' => {
+    'L2' => '0.0387831828319142',
+    'Unknowns' => [
+      'Aguf',
+      'cAifceAt',
+      'Oiof',
+      'mbeAt',
+      'ftAif',
+      'Aguf',
+      'ceApAt',
+      'bpAt',
+      'Apif',
+      'feo',
+      'Annf',
+      'Aguf',
+      'uttArh',
+      'opm',
+      'fUAirhneAf',
+      'pAinig',
+      'piu',
+      'CAiteArh',
+      'eife'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'SpiopAit)',
+      'jlot)tAg',
+      'p6m\'',
+      '-ft6',
+      'Hot)tAig',
+      'g0',
+      'opm.',
+      'p6f',
+      'me,',
+      't)1A,',
+      'm&',
+      'eAgc6ij\\',
+      't)eineAt)',
+      't)o',
+      'rhAiteAt)',
+      'Agur-',
+      't)o',
+      '-6om',
+      '-o\'At)ifiAit.',
+      'Cat)',
+      'tlot)tAi3',
+      '-06',
+      'pe\'n',
+      'Aint)'
+    ],
+    'L1' => '4.42392726639319e-05'
+  }
+};
+$VAR1 = {
+  'TilA Oionn An meit) fin g0 t6ip 0i0f t CAittce,
+Aguf fCAptA g0 fiop 6 Cpiofc gA
+1f beAg A pACAit) p6 gI\\At)Am g0 meAt)j
+go cOipc nA OptAiteAf \'meAfc AingeAt' => {
+    'L2' => '0.0268669311819152',
+    'Unknowns' => [
+      'TilA',
+      'Oionn',
+      'Aguf',
+      'fCAptA',
+      'fiop',
+      'Cpiofc',
+      'beAg',
+      'cOipc',
+      'OptAiteAf',
+      'AingeAt'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'meit)',
+      'g0',
+      't6ip',
+      '0i0f',
+      'CAittce,',
+      'g0',
+      '1f',
+      'pACAit)',
+      'p6',
+      'gI\\At)Am',
+      'g0',
+      'meAt)j',
+      '\'meAfc'
+    ],
+    'L1' => '4.24607053608099e-05'
+  }
+};
+$VAR1 = {
+  'WAn i t)ceAf nA t)ceinceAt),
+iAt) gAn fcAt) Ap Ioca,
+T)ia gAn geAn Ag t)Aoim0
+6\'f Ia-q t)o cpeAC &$ muinnceAH.' => {
+    'L2' => '0.0193869951537042',
+    'Unknowns' => [
+      'gAn',
+      'gAn',
+      'cpeAC'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)ceAf',
+      't)ceinceAt),',
+      'iAt)',
+      'fcAt)',
+      'Ioca,',
+      'T)ia',
+      't)Aoim0',
+      '6\'f',
+      'Ia-q',
+      't)o',
+      '&$',
+      'muinnceAH.'
+    ],
+    'L1' => '4.17617312321943e-05'
+  }
+};
+$VAR1 = {
+  '1f Ta Tia bpeite As t)eipeAt) Am cfAogAit feo,
+fof A Cp iof c Apif Sa1i OpeAg
+On fuit)pit) Aj\\ ifiAoit An
+OpeiteArh CorhACcAC Cum cuife t)\'6ifceACc.' => {
+    'L2' => '0.0282739692857593',
+    'Unknowns' => [
+      'bpeite',
+      'cfAogAit',
+      'fof',
+      'iof',
+      'Apif',
+      'OpeAg',
+      'ifiAoit',
+      'OpeiteArh',
+      'CorhACcAC',
+      'cuife'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '1f',
+      't)eipeAt)',
+      'feo,',
+      'Sa1i',
+      'fuit)pit)',
+      'Aj\\',
+      't)\'6ifceACc.'
+    ],
+    'L1' => '3.99708669586031e-05'
+  }
+};
+$VAR1 = {
+  't)eApcA fuitc AH rheAmpAm if p6it) t)o peAnn, t)om gAn rheApAtAt, n& ctAon it)\'
+An -pAt)A OeAm i n-AnACput p6 p6im 1ia n' => {
+    'L2' => '0.0198930509661614',
+    'Unknowns' => [
+      'fuitc',
+      'rheAmpAm',
+      'gAn',
+      'ctAon',
+      'OeAm'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)eApcA',
+      'p6it)',
+      't)o',
+      'peAnn,',
+      't)om',
+      'rheApAtAt,',
+      'n&',
+      'it)\'',
+      '-pAt)A',
+      'n-AnACput',
+      'p6',
+      'p6im',
+      '1ia'
+    ],
+    'L1' => '3.95733476742294e-05'
+  }
+};
+$VAR1 = {
+  'Not for Desmond, not for Uladh, not for Ir or Eoghan\'s seed, But for
+ocean-girded Iran must our kingly chieftains bleed.' => {
+    'L2' => '0.0240874048190087',
+    'Unknowns' => [
+      'kingly'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Desmond,',
+      'Uladh,',
+      'Eoghan\'s',
+      'seed,',
+      'ocean-girded',
+      'bleed.'
+    ],
+    'L1' => '3.86802047276537e-05'
+  }
+};
+$VAR1 = {
+  'An pA-OA Oeit) Tia gAttApuic Oah nt)AOpAt ) i OpeAtt,
+An pAt)A Oeit) i mt)AitciO puipc nA ngAeiieAt g0 ceAnn,
+An pAt)A OeAm Ag gtApApnAig te t)eAptA gAtt,
+An pA-OA OeAm Ag AgAttArh \'f gAn 6ipeACc Ann ?' => {
+    'L2' => '0.0282916863994963',
+    'Unknowns' => [
+      'gAttApuic',
+      'Oah',
+      'puipc',
+      'ngAeiieAt',
+      'OeAm',
+      'gtApApnAig',
+      'OeAm',
+      'AgAttArh',
+      'gAn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'pA-OA',
+      'Oeit)',
+      'nt)AOpAt',
+      ')',
+      'OpeAtt,',
+      'pAt)A',
+      'Oeit)',
+      'mt)AitciO',
+      'g0',
+      'ceAnn,',
+      'pAt)A',
+      't)eAptA',
+      'gAtt,',
+      'pA-OA',
+      '\'f',
+      '6ipeACc',
+      '?'
+    ],
+    'L1' => '3.81152152060689e-05'
+  }
+};
+$VAR1 = {
+  'A nt)eip cu g0 mbeA-o-fA
+Ap fon nA gcop t)o \'nifip To\' fceAt 0om,
+1f 6 mo tuigfin gup beAg \'fAn cfAogAt fo
+gAn Oeit Coifi t)onA tiom inf An m6it) fin.' => {
+    'L2' => '0.0268329953852168',
+    'Unknowns' => [
+      'cu',
+      'gcop',
+      'fceAt',
+      'tuigfin',
+      'gup',
+      'beAg',
+      'cfAogAt',
+      'gAn',
+      'Oeit',
+      'Coifi',
+      'tiom'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'nt)eip',
+      'g0',
+      'mbeA-o-fA',
+      't)o',
+      '\'nifip',
+      'To\'',
+      '0om,',
+      '1f',
+      '\'fAn',
+      't)onA',
+      'm6it)',
+      'fin.'
+    ],
+    'L1' => '3.7895244281214e-05'
+  }
+};
+$VAR1 = {
+  'buit)eACAif -o& StAnuigteoip mAp bA c6ip pe cutAit teACcA t)\'oippeA-6 oo
+TleArh, mA\'f ceAt)tA oom fAn A wife, — mife, g0 Opuit mo ctuAf if mo fuit t)
+ijvigte Ap An uppAim if An meAf AcA Ag lAfC if eAn if Ainrhit)e, gAn bAC i
+n-Aon Cop teif An nt)AonnAi-oe Ap t)iAilAdc nA Tlot)tAg 6 A gCput6pA. T)iA-oACc
+if t)AonnACc i- if fuAimneAf if fiotCAin, Aitne if nA tlot)tAS, Cia f6A-OirAii
+cup fiof optA g0 cpuinn ? Ag fmAoineAm optA te pAt)A, Aguf Aj pAipe te tinn mo
+f AogAit, teif, optA ; AJuf ni\'t te HAt) AgAm pe mAp A CuAtA Aguf mAp At)uOApc
+g0 minie go mbA coit T)6 fuAirrmeAf if fuAipceAf if Hot)tAg -oo Oelt As cAc t)o
+p6ip mAp tuatceAp, Ag pAOA g0 OpuAfCt6CAni S6 m6 pei n Aguf mo ctdnn o nirhe An
+eAccpAnnAig i gCumA if g0 gcAifrpimit) tA A Oeipte pe fAoipe Aguf pe fAoipfe g0
+tA An LuAin !' => {
+    'L2' => '0.0613089595449396',
+    'Unknowns' => [
+      'StAnuigteoip',
+      'cutAit',
+      'teACcA',
+      'oom',
+      'Opuit',
+      'ctuAf',
+      'fuit',
+      'ijvigte',
+      'uppAim',
+      'meAf',
+      'lAfC',
+      'gAn',
+      'bAC',
+      'teif',
+      'fuAimneAf',
+      'Aitne',
+      'fiof',
+      'optA',
+      'cpuinn',
+      'fmAoineAm',
+      'optA',
+      'Aguf',
+      'pAipe',
+      'tinn',
+      'optA',
+      'AJuf',
+      'AgAm',
+      'CuAtA',
+      'Aguf',
+      'minie',
+      'fuAirrmeAf',
+      'fuAipceAf',
+      'Oelt',
+      'pAOA',
+      'Aguf',
+      'ctdnn',
+      'nirhe',
+      'eAccpAnnAig',
+      'gCumA',
+      'Oeipte',
+      'fAoipe',
+      'Aguf',
+      'fAoipfe',
+      'LuAin'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'buit)eACAif',
+      '-o&',
+      'c6ip',
+      't)\'oippeA-6',
+      'TleArh,',
+      'mA\'f',
+      'ceAt)tA',
+      'wife,',
+      '—',
+      'mife,',
+      'g0',
+      't)',
+      'Ainrhit)e,',
+      'n-Aon',
+      'nt)AonnAi-oe',
+      't)iAilAdc',
+      'Tlot)tAg',
+      'gCput6pA.',
+      'T)iA-oACc',
+      't)AonnACc',
+      'i-',
+      'fiotCAin,',
+      'tlot)tAS,',
+      'f6A-OirAii',
+      'g0',
+      '?',
+      'pAt)A,',
+      'AogAit,',
+      'teif,',
+      ';',
+      'ni\'t',
+      'HAt)',
+      'At)uOApc',
+      'g0',
+      'T)6',
+      'Hot)tAg',
+      '-oo',
+      't)o',
+      'p6ip',
+      'tuatceAp,',
+      'g0',
+      'OpuAfCt6CAni',
+      'S6',
+      'm6',
+      'g0',
+      'gcAifrpimit)',
+      'g0',
+      '!'
+    ],
+    'L1' => '3.480359741188e-05'
+  }
+};
+$VAR1 = {
+  'gAipit) g0 iubei-6ip i n-ippeAnn fiof uAim ;
+nA pinnif Aitpige n)\' peACAiO tiontfiAp\'
+t)& Cup Ap CAifoe gAC 14, g0 t)ci fo.' => {
+    'L2' => '0.019387085860453',
+    'Unknowns' => [
+      'fiof',
+      'uAim',
+      'pinnif',
+      'Aitpige',
+      'peACAiO',
+      'CAifoe',
+      'gAC'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'gAipit)',
+      'g0',
+      'iubei-6ip',
+      'n-ippeAnn',
+      ';',
+      'n)\'',
+      'tiontfiAp\'',
+      't)&',
+      '14,',
+      'g0',
+      't)ci',
+      'fo.'
+    ],
+    'L1' => '3.41690089236886e-05'
+  }
+};
+$VAR1 = {
+  'if AifiHAn ifceAC inf An teAOAp gAn ceAt) -D\'fAg if gilAt, uAtA fo gup teo
+Iat). m& . Ca nnite Ann gAn A gceAt)-fo if ArhtATO t)o teip gtAn opAinn Iat) -' => {
+    'L2' => '0.027259761619077',
+    'Unknowns' => [
+      'AifiHAn',
+      'ifceAC',
+      'teAOAp',
+      'gAn',
+      'uAtA',
+      'gup',
+      'teo',
+      'nnite',
+      'gAn',
+      'ArhtATO',
+      'teip',
+      'gtAn',
+      'opAinn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'ceAt)',
+      '-D\'fAg',
+      'gilAt,',
+      'Iat).',
+      'm&',
+      '.',
+      'gceAt)-fo',
+      't)o',
+      'Iat)',
+      '-'
+    ],
+    'L1' => '3.37770274331319e-05'
+  }
+};
+$VAR1 = {
+  't)eit) pigce if ppionnfAit)e if iAptAit>e
+5Aifcit)ig uAiOpeACA Com mop te
+AnnfCiT) i n-A feAfArh, te 1ieAgtA \'g
+Gaii cei-oeAt, gAn ifieAj- \'nA ineAfc 50 t6ip' => {
+    'L2' => '0.0197799235964362',
+    'Unknowns' => [
+      'pigce',
+      'uAiOpeACA',
+      'Gaii',
+      'gAn',
+      'ineAfc'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)eit)',
+      'ppionnfAit)e',
+      'iAptAit>e',
+      '5Aifcit)ig',
+      'AnnfCiT)',
+      'n-A',
+      'feAfArh,',
+      '1ieAgtA',
+      '\'g',
+      'cei-oeAt,',
+      'ifieAj-',
+      '\'nA',
+      't6ip'
+    ],
+    'L1' => '3.26037814567377e-05'
+  }
+};
+$VAR1 = {
+  'CAiteAifi nA jlot)tAg Anoif te mite g0 teit btiAt)An m6p. 1f ioimiA crieAO if
+t)utAig cpeAfCAptA te tinn nA fin. 1f iomt)A piogACc A Oi g0 coifiACcAC mite g0
+teit btiAttAn 6 foi n Aca g0 meAtce pAontAg cinn int)iu, AgUf if iomt)A ciH A
+Oi gAn CorhACc An uAirt fin Aca g0 cpeAn 6ipeACcAC netfifpteAt)Ad inwu. CAm-fe
+Aj pAipe g0 t6iri, Aj pAipe Ah -orioC-obAip Aguf Atx t)eAg-obAiri' => {
+    'L2' => '0.0379899704561559',
+    'Unknowns' => [
+      'CAiteAifi',
+      'Anoif',
+      'teit',
+      'ioimiA',
+      'crieAO',
+      'cpeAfCAptA',
+      'tinn',
+      'piogACc',
+      'coifiACcAC',
+      'teit',
+      'btiAttAn',
+      'foi',
+      'meAtce',
+      'pAontAg',
+      'cinn',
+      'AgUf',
+      'ciH',
+      'gAn',
+      'CorhACc',
+      'uAirt',
+      'cpeAn',
+      'pAipe',
+      'pAipe',
+      'Aguf',
+      'Atx'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'jlot)tAg',
+      'g0',
+      'btiAt)An',
+      'm6p.',
+      '1f',
+      't)utAig',
+      'fin.',
+      '1f',
+      'iomt)A',
+      'g0',
+      'g0',
+      'g0',
+      'int)iu,',
+      'iomt)A',
+      'g0',
+      '6ipeACcAC',
+      'netfifpteAt)Ad',
+      'inwu.',
+      'CAm-fe',
+      'g0',
+      't6iri,',
+      '-orioC-obAip',
+      't)eAg-obAiri'
+    ],
+    'L1' => '3.20719523391021e-05'
+  }
+};
+$VAR1 = {
+  't)eit) An f peAp Aj\\ buite if cuicpni Ha peAtcA ;
+t)eit) cioptA Ap bogAt) if Ag ofCAitc o Ceite.
+t)eit) An fAipuge Ah tAfAt) As imteAcc
+ctocA if cpAinn te n-A tinn Ajj A' => {
+    'L2' => '0.0279953847889181',
+    'Unknowns' => [
+      'peAp',
+      'buite',
+      'cuicpni',
+      'peAtcA',
+      'cioptA',
+      'ofCAitc',
+      'fAipuge',
+      'imteAcc',
+      'ctocA',
+      'cpAinn',
+      'tinn',
+      'Ajj'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)eit)',
+      'Aj\\',
+      ';',
+      't)eit)',
+      'bogAt)',
+      'Ceite.',
+      't)eit)',
+      'tAfAt)',
+      'n-A'
+    ],
+    'L1' => '3.01439065184458e-05'
+  }
+};
+$VAR1 = {
+  'tttif e ! t)iof-f A teif 6g cpAt, Com 6g AepeAC teif An ce if oige AgAiO.
+CAfAt) mife 6f c6ifiAiri nA gpeine Com mAit teo, Corh tuAt teo ; Aguf t)o CAf
+Aguf t)\'At-CAf An geimpeA-6 orim nA ciAncA fut Art pugAt) Ari SUinuigteoip, C&
+a-o motAt) bunieACAf te nA Aimn ! t)iot) pteAt) if p6ite uf if opm, g0
+-oeiifiin, t)o Oioii An bp6t) An cSAOirie opm gAC btiAt)Ain. tli mo AtAf Ajl An
+if Aepige AH teACc 1ia not)tAg inf An fAogAt fo nA inAp Oiot) opm-fA Ap teACc
+nA t)eAtcAine Aguf nA SArhnA te tinn nA -OpAonieACcA. t)iof-fA 6g bog teAnOAnie
+Aguf if cuimi n tiom An uAin, A OpAt) UAim Anoif, nuAiri n^, pAiO curtAm fAn
+cfAogAt orim ACc gpeAnTI Aguf p6ite. ACc CuA-oAf i n-AOif Aguf i n-Aoif, Oi mo
+CtAnn pein AgAm i Aguf Tio peip Ttiaj\\ Cuait!) mo mupgAit i meit) Oi mo Op6ite
+Ag t)ut i tAigeAt). 1 gcionnnA gciAn OAitig mo CtAnn teo, Oiot)Ap Aj cedCc if
+Ag imteACc, Aguf As ceACc if Ag f iri- imteACc. pe iieipeAt) t)\'fntteAt)Ap teif
+An CugAm, Aguf i t)ceAnncA An Cpeitnifi tugAt)Ap teo An CuAt)Af i n-6ige pe
+gt6ip nA tlot)tAg Apif g0 t)ci g0 Com teAnOAit)e fimptT6e te nAonieAnAn.
+CuipeAt) nA Hot)tAg oirieAt) AtAif opm-fA Ap t)cuif if mAp CuirteAnn Ap An AOf
+6g intern. ACc t)\'imtig An teAnOunieACc f o teif An Aitrifip : t)ibip curtAm An
+cfAogAit Apif i. ASuf niop An iongnAt ) e, t)A-rt nt)6i5 !' => {
+    'L2' => '0.0657226695398492',
+    'Unknowns' => [
+      'tttif',
+      'teif',
+      'AepeAC',
+      'teif',
+      'ce',
+      'oige',
+      'mife',
+      'gpeine',
+      'mAit',
+      'Corh',
+      'tuAt',
+      'teo',
+      'Aguf',
+      'Aguf',
+      'orim',
+      'ciAncA',
+      'fut',
+      'bunieACAf',
+      'Aimn',
+      'Oioii',
+      'cSAOirie',
+      'opm',
+      'gAC',
+      'tli',
+      'AtAf',
+      'Ajl',
+      'Aepige',
+      'teACc',
+      'fAogAt',
+      'inAp',
+      'teACc',
+      'Aguf',
+      'SArhnA',
+      'tinn',
+      'teAnOAnie',
+      'Aguf',
+      'cuimi',
+      'tiom',
+      'UAim',
+      'nuAiri',
+      'pAiO',
+      'curtAm',
+      'cfAogAt',
+      'orim',
+      'gpeAnTI',
+      'Aguf',
+      'Aguf',
+      'CtAnn',
+      'pein',
+      'AgAm',
+      'Aguf',
+      'peip',
+      'mupgAit',
+      'gcionnnA',
+      'gciAn',
+      'OAitig',
+      'CtAnn',
+      'cedCc',
+      'Aguf',
+      'ceACc',
+      'teif',
+      'Aguf',
+      'Cpeitnifi',
+      'teo',
+      'Apif',
+      'AtAif',
+      'CuirteAnn',
+      'AOf',
+      'teAnOunieACc',
+      'teif',
+      'Aitrifip',
+      'curtAm',
+      'cfAogAit',
+      'Apif',
+      'ASuf',
+      'niop',
+      'iongnAt'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '!',
+      't)iof-f',
+      '6g',
+      'cpAt,',
+      '6g',
+      'AgAiO.',
+      'CAfAt)',
+      '6f',
+      'c6ifiAiri',
+      'teo,',
+      ';',
+      't)o',
+      't)\'At-CAf',
+      'geimpeA-6',
+      'pugAt)',
+      'SUinuigteoip,',
+      'C&',
+      'a-o',
+      'motAt)',
+      '!',
+      't)iot)',
+      'pteAt)',
+      'p6ite',
+      'opm,',
+      'g0',
+      '-oeiifiin,',
+      't)o',
+      'bp6t)',
+      'btiAt)Ain.',
+      '1ia',
+      'not)tAg',
+      'Oiot)',
+      'opm-fA',
+      't)eAtcAine',
+      '-OpAonieACcA.',
+      't)iof-fA',
+      '6g',
+      'uAin,',
+      'OpAt)',
+      'Anoif,',
+      'n^,',
+      'p6ite.',
+      'CuA-oAf',
+      'n-AOif',
+      'n-Aoif,',
+      'Ttiaj\\',
+      'Cuait!)',
+      'meit)',
+      'Op6ite',
+      't)ut',
+      'tAigeAt).',
+      'teo,',
+      'Oiot)Ap',
+      'imteACc,',
+      'iri-',
+      'imteACc.',
+      'iieipeAt)',
+      't)\'fntteAt)Ap',
+      'CugAm,',
+      't)ceAnncA',
+      'tugAt)Ap',
+      'CuAt)Af',
+      'n-6ige',
+      'gt6ip',
+      'tlot)tAg',
+      'g0',
+      't)ci',
+      'g0',
+      'teAnOAit)e',
+      'fimptT6e',
+      'nAonieAnAn.',
+      'CuipeAt)',
+      'Hot)tAg',
+      'oirieAt)',
+      'opm-fA',
+      't)cuif',
+      '6g',
+      'intern.',
+      't)\'imtig',
+      ':',
+      't)ibip',
+      'i.',
+      ')',
+      'e,',
+      't)A-rt',
+      'nt)6i5',
+      '!'
+    ],
+    'L1' => '2.69966830715264e-05'
+  }
+};
+$VAR1 = {
+  'An Hot)tAig or>tA Jac btiA-oAin. Cionnuf A ), cionnuf A tiocpAt) ? 11AC cmgte
+t)6ni-fA cionnuf finAoince An t)eoj\\Ai-6e pe t)6i n A t)utAige pe ComAipce nA
+tlotitAS ; n& motuigim-fe cionnuf mAp oionn cuifte nA mAtAp Ag ppeAbAt) g0
+finceAp ticip nA CuiCe ; nA t)eApOfAitpeACA fti Ar> feACf-An nAC eot Aguf
+feAn-eot -oom cionnuf mAp cpuinnigceAp Iat) cimCeAtt An ceinceAn inAp Ar>
+oiteAt) Iao, cimceAtt buiji-o nA p6ite mAp Ah c6gAt) Iat) : nA puitim Ag
+6ifceACc te gui-oeACcAinc mo Ctoinne Jac oit)ce jlot)tAg 6 pugAt) ctAnn t)om !
+tIAri cuAtA- fA ctuig nA elite As buAtAt) g0 mot)rhArtAC Jac btiAt)Ain A Oein
+or\\m 6 teACc Ah cpeit)irh Aguf Ag mucAt) gtiogAip gAipO An cf AogAit ; nAri Aij
+\\ijeAf CAncAn ciui n nA Aj cup nAirie Art gtop if Ap f otriAm tuCc cApcuif ne !
+ITlife nAri tuic neAt cot)AtcA riiArh ortm ACc Aj Aot)AirieAdc mo rhupsAite t)e
+t6 if -o\'oi-oce ; mife cA Aj peACAinc Ajl fp6ip gtAi n tde Hot)tAg o\'n tA i
+n-Ap rhinig -OiAjtAn pocAt nA f Irtinne 6f mo C6rhAirt ; mife gup gnAtAC tiom
+nA ftuAigce t)\'feicfinc Aj gtuAifeACc g0 t)utriACcAc pe t)ei n An cf6ip6it' => {
+    'L2' => '0.0575497283115126',
+    'Unknowns' => [
+      'Jac',
+      'Cionnuf',
+      'cionnuf',
+      'cmgte',
+      'cionnuf',
+      'finAoince',
+      'ComAipce',
+      'tlotitAS',
+      'cionnuf',
+      'oionn',
+      'cuifte',
+      'mAtAp',
+      'finceAp',
+      'ticip',
+      'CuiCe',
+      'fti',
+      'eot',
+      'Aguf',
+      'cionnuf',
+      'cpuinnigceAp',
+      'cimCeAtt',
+      'ceinceAn',
+      'inAp',
+      'cimceAtt',
+      'puitim',
+      'Ctoinne',
+      'Jac',
+      'ctAnn',
+      'tIAri',
+      'ctuig',
+      'Jac',
+      'Oein',
+      'teACc',
+      'Aguf',
+      'gtiogAip',
+      'gAipO',
+      'AogAit',
+      'nAri',
+      'Aij',
+      'ciui',
+      'nAirie',
+      'gtop',
+      'otriAm',
+      'tuCc',
+      'cApcuif',
+      'ITlife',
+      'nAri',
+      'tuic',
+      'riiArh',
+      'ortm',
+      'rhupsAite',
+      'mife',
+      'peACAinc',
+      'Ajl',
+      'gtAi',
+      'tde',
+      'rhinig',
+      'pocAt',
+      'Irtinne',
+      'mife',
+      'gup',
+      'gnAtAC',
+      'tiom',
+      'ftuAigce',
+      'gtuAifeACc'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Hot)tAig',
+      'or>tA',
+      'btiA-oAin.',
+      '),',
+      'tiocpAt)',
+      '?',
+      '11AC',
+      't)6ni-fA',
+      't)eoj\\Ai-6e',
+      't)6i',
+      't)utAige',
+      ';',
+      'n&',
+      'motuigim-fe',
+      'ppeAbAt)',
+      'g0',
+      ';',
+      't)eApOfAitpeACA',
+      'Ar>',
+      'feACf-An',
+      'feAn-eot',
+      '-oom',
+      'Iat)',
+      'Ar>',
+      'oiteAt)',
+      'Iao,',
+      'buiji-o',
+      'p6ite',
+      'c6gAt)',
+      'Iat)',
+      ':',
+      '6ifceACc',
+      'gui-oeACcAinc',
+      'oit)ce',
+      'jlot)tAg',
+      'pugAt)',
+      't)om',
+      '!',
+      'cuAtA-',
+      'buAtAt)',
+      'g0',
+      'mot)rhArtAC',
+      'btiAt)Ain',
+      'or\\m',
+      'cpeit)irh',
+      'mucAt)',
+      ';',
+      '\\ijeAf',
+      '!',
+      'cot)AtcA',
+      'Aot)AirieAdc',
+      't)e',
+      't6',
+      '-o\'oi-oce',
+      ';',
+      'fp6ip',
+      'Hot)tAg',
+      'o\'n',
+      'n-Ap',
+      '-OiAjtAn',
+      '6f',
+      'C6rhAirt',
+      ';',
+      't)\'feicfinc',
+      'g0',
+      't)utriACcAc',
+      't)ei',
+      'cf6ip6it'
+    ],
+    'L1' => '2.6285485942293e-05'
+  }
+};
+$VAR1 = {
+  'ITlo gpeini t)uO t)uOAC if mo Opon An fc6At fo
+ITlife Oeit CAittce \'f mo rhuinnceAp im\'
+1f m\'AnAm t)A tofCAt) i n-ippeAnn
+1 t)cAoiO iomAt) mo Cop if mo' => {
+    'L2' => '0.0200853917088484',
+    'Unknowns' => [
+      'ITlo',
+      'gpeini',
+      'Opon',
+      'ITlife',
+      'Oeit',
+      'CAittce',
+      'rhuinnceAp'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)uO',
+      't)uOAC',
+      'fc6At',
+      '\'f',
+      'im\'',
+      '1f',
+      'm\'AnAm',
+      't)A',
+      'tofCAt)',
+      'n-ippeAnn',
+      't)cAoiO',
+      'iomAt)'
+    ],
+    'L1' => '2.37307623586986e-05'
+  }
+};
+$VAR1 = {
+  'Hi\'t t)uine \'fAn -oorhAn inAp nAihAit) Aj An Aon 1tlAc,
+H1A f AgAnn bAf i bpeACA rhApO, nA t)AOppAp
+1f n& cuippeAp g0 hippeAnn if An ceine T)a
+1 meAfc nA nt)eArhAn, g0 tom p6' => {
+    'L2' => '0.0201969429174641',
+    'Unknowns' => [
+      'inAp',
+      'AgAnn',
+      'bAf',
+      'bpeACA',
+      'cuippeAp',
+      'hippeAnn',
+      'ceine',
+      'meAfc'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Hi\'t',
+      't)uine',
+      '\'fAn',
+      '-oorhAn',
+      'nAihAit)',
+      '1tlAc,',
+      'H1A',
+      'rhApO,',
+      't)AOppAp',
+      '1f',
+      'n&',
+      'g0',
+      'T)a',
+      'nt)eArhAn,',
+      'g0',
+      'p6'
+    ],
+    'L1' => '2.26620279561836e-05'
+  }
+};
+$VAR1 = {
+  'ACc AifiAin An teAnO nAp peAcmg g0 jieAg -D6,
+Hawaii! ) Aj\\ An n6imeAc g0 Cuipc nA llAorh nge
+1 meAfc nA n-AingeAt g0 cAitneArhAC
+1 feitO nA gt6ipe i gC6p -Do\'n' => {
+    'L2' => '0.0200052405735618',
+    'Unknowns' => [
+      'AifiAin',
+      'peAcmg',
+      'jieAg',
+      'Cuipc',
+      'llAorh',
+      'nge',
+      'meAfc',
+      'cAitneArhAC',
+      'feitO'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'g0',
+      '-D6,',
+      'Hawaii!',
+      ')',
+      'Aj\\',
+      'n6imeAc',
+      'g0',
+      'n-AingeAt',
+      'g0',
+      'gt6ipe',
+      'gC6p',
+      '-Do\'n'
+    ],
+    'L1' => '2.22338694670047e-05'
+  }
+};
+$VAR1 = {
+  '" t)eipc i n\'A cij bA minie oo bioti te
+ITIiAf t)e\'n mi n if Cuit) t)e\'n im \'nA tAji ;
+Sa-oac cnif t)o-n ce -Do oio-D -nA jAbA-o,
+SpottA nA fAitte if cuit) t)e-n -Dijj t)o b\'^eA' => {
+    'L2' => '0.0197799794623723',
+    'Unknowns' => [
+      'cij',
+      'minie',
+      'bioti',
+      'ITIiAf',
+      'im',
+      'tAji',
+      'cnif',
+      'ce',
+      'SpottA',
+      'fAitte'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '"',
+      't)eipc',
+      'n\'A',
+      't)e\'n',
+      'Cuit)',
+      't)e\'n',
+      '\'nA',
+      ';',
+      'Sa-oac',
+      't)o-n',
+      '-Do',
+      'oio-D',
+      '-nA',
+      'jAbA-o,',
+      'cuit)',
+      't)e-n',
+      '-Dijj',
+      't)o',
+      'b\'^eA'
+    ],
+    'L1' => '2.05919782911511e-05'
+  }
+};
+$VAR1 = {
+  'te TofA Tap t)AoiniO An cfAogAit, tioncA te gtAine If te gite nAonitA It Ag
+feAnAt) An Peaca t)o fAitig nA' => {
+    'L2' => '0.0157614139502116',
+    'Unknowns' => [
+      'TofA',
+      'tioncA',
+      'gtAine',
+      'gite',
+      'nAonitA',
+      'Peaca',
+      'fAitig'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      't)AoiniO',
+      'cfAogAit,',
+      'feAnAt)',
+      't)o'
+    ],
+    'L1' => '1.46130688064661e-05'
+  }
+};
+$VAR1 = {
+  'SeApc-teAnAinAin Cjiiofc, An cAtAiji -OomAtt Ua SuitteAbAin.
+Ua ConAitt, An cAcAip pA-OjiAi5 Ua Ouinni-n.' => {
+    'L2' => '0.00493498394019522',
+    'Unknowns' => [
+      'cAtAiji',
+      'cAcAip'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'SeApc-teAnAinAin',
+      'Cjiiofc,',
+      '-OomAtt',
+      'SuitteAbAin.',
+      'ConAitt,',
+      'pA-OjiAi5',
+      'Ouinni-n.'
+    ],
+    'L1' => '3.47915235571211e-06'
+  }
+};
+$VAR1 = {
+  'A5uf gojTCA, An cAtoiji Pax)jiaij Ua -Ouinnin. piApAif peijiiceAp, An cAcAip
+pAt)jiAi5 Ua -Oviiiniin. t)AttcA SeApjiAiti ui -oonncA-OA, An cAcAip Pa-ojiaij
+Ua t)uinni-n. t)AncA .doti5Ain ui UAcAitte, An cAcAip pADjiAij uA t)Uiniiin.
+-OAncA SeAJAin CtAj\\Aij, An cAtAiy Pa-ojiais Ua tKiinnin. -OAncA eo^Ain UuAi-o,
+An cAtAiji pAt)jiAi5 Ua -Ouinnin. -OAncA tAi-o5 gAe-DeAtAij, An cAcAi p
+Pa-ojiaij Ua -Ouinnin. Ceicinn, An cAtAip eoin' => {
+    'L2' => '0.0098700126632726',
+    'Unknowns' => [
+      'cAtoiji',
+      'piApAif',
+      'cAcAip',
+      'SeApjiAiti',
+      'cAcAip',
+      'cAcAip',
+      'pADjiAij',
+      'SeAJAin',
+      'cAtAiy',
+      'cAtAiji',
+      'cAcAi',
+      'cAtAip'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'A5uf',
+      'gojTCA,',
+      'Pax)jiaij',
+      '-Ouinnin.',
+      'peijiiceAp,',
+      'pAt)jiAi5',
+      '-Oviiiniin.',
+      't)AttcA',
+      '-oonncA-OA,',
+      'Pa-ojiaij',
+      't)uinni-n.',
+      't)AncA',
+      '.doti5Ain',
+      'UAcAitte,',
+      't)Uiniiin.',
+      '-OAncA',
+      'CtAj\\Aij,',
+      'Pa-ojiais',
+      'tKiinnin.',
+      '-OAncA',
+      'eo^Ain',
+      'UuAi-o,',
+      'pAt)jiAi5',
+      '-Ouinnin.',
+      '-OAncA',
+      'tAi-o5',
+      'gAe-DeAtAij,',
+      'Pa-ojiaij',
+      '-Ouinnin.',
+      'Ceicinn,'
+    ],
+    'L1' => '3.14248870881166e-06'
+  }
+};
+$VAR1 = {
+  'Cat) 6 Ah CiAtt \'nA mbeit) -OiA As gtAo-oAC
+LA nA mbpeAt \'f Ha gcpeAC \'f nA n-6igeAn
+0f SAC Aic Cum ctAnn A^oAirh t)\'6ifceACc ?' => {
+    'L2' => '0.00533424431068704',
+    'Unknowns' => [
+      'CiAtt',
+      'mbpeAt',
+      'gcpeAC',
+      'Aic',
+      'ctAnn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Cat)',
+      '\'nA',
+      'mbeit)',
+      '-OiA',
+      'gtAo-oAC',
+      '\'f',
+      '\'f',
+      'n-6igeAn',
+      '0f',
+      'A^oAirh',
+      't)\'6ifceACc',
+      '?'
+    ],
+    'L1' => '2.18878172046901e-06'
+  }
+};
+$VAR1 = {
+  'Oo fiuOtAf An -oorhAn po tpi,
+\'S niop ^SAf Ann pi nA ptAit
+fipeAf, ACc fiOfe, An fTiAnn
+\'S niop geAtt cpiAt m\'AnACAt' => {
+    'L2' => '0.00493501633381151',
+    'Unknowns' => [
+      'fiuOtAf',
+      'niop',
+      'ptAit',
+      'fTiAnn',
+      'niop',
+      'geAtt',
+      'cpiAt'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '-oorhAn',
+      'tpi,',
+      '\'S',
+      '^SAf',
+      'fipeAf,',
+      'fiOfe,',
+      '\'S',
+      'm\'AnACAt'
+    ],
+    'L1' => '1.62362574766576e-06'
+  }
+};
+$VAR1 = {
+  ') pAt An CorhAptA ut) Ap gnuif gAC 6inne -Oe\'n t)peAtri foi n At)uOAipc cu t)
+\'pAn gAn Ceite, 1f gAC n-Aon eite, t)eip cu, Oeit' => {
+    'L2' => '0.00349004697025248',
+    'Unknowns' => [
+      'CorhAptA',
+      'gnuif',
+      'gAC',
+      'foi',
+      'cu',
+      'gAn',
+      'gAC',
+      'Oeit'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      ')',
+      'ut)',
+      '6inne',
+      '-Oe\'n',
+      't)peAtri',
+      'At)uOAipc',
+      't)',
+      '\'pAn',
+      'Ceite,',
+      '1f',
+      'n-Aon',
+      'eite,',
+      't)eip',
+      'cu,'
+    ],
+    'L1' => '1.01503565454738e-06'
+  }
+};
+$VAR1 = {
+  'Hi pACAit) g0 pAppAtAf, geAttAim 6m\' OeAt t)uic,
+ACc An c-AitpigeAC c6ip, fin teop-t)AotAin,
+tug f AfArh piop Tio Uig nA jlAorh ngeAt' => {
+    'L2' => '0.00349041499713175',
+    'Unknowns' => [
+      'geAttAim',
+      'OeAt',
+      'AfArh',
+      'piop',
+      'Uig',
+      'jlAorh',
+      'ngeAt'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'pACAit)',
+      'g0',
+      'pAppAtAf,',
+      '6m\'',
+      't)uic,',
+      'c-AitpigeAC',
+      'c6ip,',
+      'teop-t)AotAin,'
+    ],
+    'L1' => '8.12199790146817e-07'
+  }
+};
+$VAR1 = {
+  'te feAn6ip tiAt K& pe Ciac
+OC, mo CAnnctA ! if pAnn
+1f mo cpoi-oe t)& OpifeAt) te IiuipeAfbA ftAince.' => {
+    'L2' => '0.00277400414855388',
+    'Unknowns' => [
+      'tiAt',
+      'Ciac',
+      'CAnnctA',
+      'pAnn',
+      'IiuipeAfbA'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'feAn6ip',
+      'K&',
+      'OC,',
+      '!',
+      '1f',
+      'cpoi-oe',
+      't)&',
+      'OpifeAt)',
+      'ftAince.'
+    ],
+    'L1' => '6.99554456017651e-07'
+  }
+};
+$VAR1 = {
+  'Hi\'t t)oOAc nAC piop gAC nit) t)e\'n m6it) fin,
+ACc 6ifc g0 poit Agtif \'neofAt) pein tune
+Cat) iAt) nA nit)te Ca it)\' Coinne Aj An Aon TilAc
+\'llA Cuif mop tnom te ponn cO' => {
+    'L2' => '0.00349112726118994',
+    'Unknowns' => [
+      'piop',
+      'gAC',
+      'Agtif',
+      'pein',
+      'Coinne',
+      'TilAc',
+      'Cuif',
+      'tnom',
+      'ponn'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'Hi\'t',
+      't)oOAc',
+      'nit)',
+      't)e\'n',
+      'm6it)',
+      'fin,',
+      '6ifc',
+      'g0',
+      '\'neofAt)',
+      'Cat)',
+      'iAt)',
+      'nit)te',
+      'it)\'',
+      '\'llA'
+    ],
+    'L1' => '5.80379502563026e-07'
+  }
+};
+$VAR1 = {
+  '┌───────────────────────────────┐
+│PAGE                           │
+├────────────────────────────┬──┤
+│. .                         │I │
+├────────────────────────────┼──┤
+│Seamus MacManus             │2 │
+├────────────────────────────┼──┤
+│Cathal O-Byrne              │3 │
+├────────────────────────────┼──┤
+│Neil M-Devitt               │8 │
+├────────────────────────────┼──┤
+│J. C. Mangan                │IO│
+├────────────────────────────┼──┤
+│iTloj Uuic . . .            │12│
+├────────────────────────────┼──┤
+│Alice Milligan              │14│
+├────────────────────────────┼──┤
+│C. G. Duffy .               │I7│
+├────────────────────────────┼──┤
+│Patrick Denn .              │21│
+├────────────────────────────┼──┤
+│R. D. Williams              │29│
+├────────────────────────────┼──┤
+│T. D. M-Gee .               │31│
+├────────────────────────────┼──┤
+│Rev. Abram J. Ryan          │33│
+├────────────────────────────┼──┤
+│SeAn CtAjiAc . . .          │35│
+├────────────────────────────┼──┤
+│Sir Samuel Ferguson         │37│
+├────────────────────────────┼──┤
+│Aubrey De Vere . .          │40│
+├────────────────────────────┼──┤
+│John Savage .               │4*│
+├────────────────────────────┼──┤
+│CA-D5 6 t)onnCA-DA . .      │45│
+├────────────────────────────┼──┤
+│Rev. P. S. Dinneen          │48│
+├────────────────────────────┼──┤
+│(Aon5uf iTlAC TIAijjie \\li  │  │
+├────────────────────────────┼──┤
+│( ti-itAij . .              │5*│
+├────────────────────────────┼──┤
+│T. D. Sullivan              │53│
+├────────────────────────────┼──┤
+│                            │55│
+├────────────────────────────┼──┤
+│Rev. P. S. Dinneen          │58│
+├────────────────────────────┼──┤
+│R. D. Williams              │59│
+├────────────────────────────┼──┤
+│Most Rev. Dr. Healy         │62│
+├────────────────────────────┼──┤
+│SeAcpun Ceinnn . .          │65│
+├────────────────────────────┼──┤
+│Brian O\'Higgins             │67│
+├────────────────────────────┼──┤
+│-peApJAt ttlAC An toAiji-D .│70│
+├────────────────────────────┼──┤
+│Thomas Davis . .            │73│
+├────────────────────────────┼──┤
+│An -OAipbjieAc -OAnA .      │75│
+├────────────────────────────┼──┤
+│James M-Kane                │77│
+├────────────────────────────┼──┤
+│Anna MacManus .             │80│
+├────────────────────────────┼──┤
+│C. G. DufJy .               │82│
+├────────────────────────────┼──┤
+│piA^f Fe>1"ceAH .           │85│
+├────────────────────────────┼──┤
+│Dr. R. R. Madden .          │93│
+├────────────────────────────┼──┤
+│SeAppA-6 6 t)onncxv6A       │95│
+└────────────────────────────┴──┘' => {
+    'L2' => '0.00349496515346837',
+    'Unknowns' => [
+      'Mangan',
+      'Uuic',
+      'Denn',
+      'Abram',
+      'CtAjiAc',
+      'Vere',
+      'Dinneen',
+      'iTlAC',
+      'TIAijjie',
+      'Dinneen',
+      'Ceinnn',
+      'ttlAC',
+      'DufJy'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '┌───────────────────────────────┐',
+      '│PAGE',
+      '│',
+      '├────────────────────────────┬──┤',
+      '│.',
+      '.',
+      '│I',
+      '│',
+      '├────────────────────────────┼──┤',
+      '│Seamus',
+      '│2',
+      '│',
+      '├────────────────────────────┼──┤',
+      '│Cathal',
+      'O-Byrne',
+      '│3',
+      '│',
+      '├────────────────────────────┼──┤',
+      '│Neil',
+      'M-Devitt',
+      '│8',
+      '│',
+      '├────────────────────────────┼──┤',
+      '│J.',
+      'C.',
+      '│IO│',
+      '├────────────────────────────┼──┤',
+      '│iTloj',
+      '.',
+      '.',
+      '.',
+      '│12│',
+      '├────────────────────────────┼──┤',
+      '│Alice',
+      '│14│',
+      '├────────────────────────────┼──┤',
+      '│C.',
+      'G.',
+      '.',
+      '│I7│',
+      '├────────────────────────────┼──┤',
+      '│Patrick',
+      '.',
+      '│21│',
+      '├────────────────────────────┼──┤',
+      '│R.',
+      'D.',
+      '│29│',
+      '├────────────────────────────┼──┤',
+      '│T.',
+      'D.',
+      'M-Gee',
+      '.',
+      '│31│',
+      '├────────────────────────────┼──┤',
+      '│Rev.',
+      'J.',
+      '│33│',
+      '├────────────────────────────┼──┤',
+      '│SeAn',
+      '.',
+      '.',
+      '.',
+      '│35│',
+      '├────────────────────────────┼──┤',
+      '│Sir',
+      '│37│',
+      '├────────────────────────────┼──┤',
+      '│Aubrey',
+      '.',
+      '.',
+      '│40│',
+      '├────────────────────────────┼──┤',
+      '│John',
+      '.',
+      '│4*│',
+      '├────────────────────────────┼──┤',
+      '│CA-D5',
+      't)onnCA-DA',
+      '.',
+      '.',
+      '│45│',
+      '├────────────────────────────┼──┤',
+      '│Rev.',
+      'P.',
+      'S.',
+      '│48│',
+      '├────────────────────────────┼──┤',
+      '│(Aon5uf',
+      '\\li',
+      '│',
+      '│',
+      '├────────────────────────────┼──┤',
+      '│(',
+      'ti-itAij',
+      '.',
+      '.',
+      '│5*│',
+      '├────────────────────────────┼──┤',
+      '│T.',
+      'D.',
+      '│53│',
+      '├────────────────────────────┼──┤',
+      '│',
+      '│55│',
+      '├────────────────────────────┼──┤',
+      '│Rev.',
+      'P.',
+      'S.',
+      '│58│',
+      '├────────────────────────────┼──┤',
+      '│R.',
+      'D.',
+      '│59│',
+      '├────────────────────────────┼──┤',
+      '│Most',
+      'Rev.',
+      'Dr.',
+      '│62│',
+      '├────────────────────────────┼──┤',
+      '│SeAcpun',
+      '.',
+      '.',
+      '│65│',
+      '├────────────────────────────┼──┤',
+      '│Brian',
+      'O\'Higgins',
+      '│67│',
+      '├────────────────────────────┼──┤',
+      '│-peApJAt',
+      'toAiji-D',
+      '.│70│',
+      '├────────────────────────────┼──┤',
+      '│Thomas',
+      '.',
+      '.',
+      '│73│',
+      '├────────────────────────────┼──┤',
+      '│An',
+      '-OAipbjieAc',
+      '-OAnA',
+      '.',
+      '│75│',
+      '├────────────────────────────┼──┤',
+      '│James',
+      'M-Kane',
+      '│77│',
+      '├────────────────────────────┼──┤',
+      '│Anna',
+      '.',
+      '│80│',
+      '├────────────────────────────┼──┤',
+      '│C.',
+      'G.',
+      '.',
+      '│82│',
+      '├────────────────────────────┼──┤',
+      '│piA^f',
+      'Fe>1"ceAH',
+      '.',
+      '│85│',
+      '├────────────────────────────┼──┤',
+      '│Dr.',
+      'R.',
+      'R.',
+      '.',
+      '│93│',
+      '├────────────────────────────┼──┤',
+      '│SeAppA-6',
+      't)onncxv6A',
+      '│95│',
+      '└────────────────────────────┴──┘'
+    ],
+    'L1' => '4.21199359446833e-07'
+  }
+};
+$VAR1 = {
+  'Moran\'s self-denying justice, Dathi\'s world-embracing fame, Fodhla\'s wisdom,
+Cormac\'s counsel, holy Patrick\'s sacred' => {
+    'L2' => '3.51888226954528e-05',
+    'Unknowns' => [],
+    'Min' => '2.02455135121293e-05',
+    'Unaccepted' => [
+      'Moran\'s',
+      'self-denying',
+      'justice,',
+      'Dathi\'s',
+      'world-embracing',
+      'fame,',
+      'Fodhla\'s',
+      'wisdom,',
+      'Cormac\'s',
+      'counsel,',
+      'Patrick\'s'
+    ],
+    'L1' => '6.19126621346007e-10'
+  }
+};
+$VAR1 = {
+  'Jo OpionAinn UAite crteAt) AH O\'Af
+Iliori tAOAif\\ fi, t)o fceinn fi uAim
+1f Tio Oior- g0 t)uAir*c Cah 6if mo' => {
+    'L2' => '6.26458979245516e-05',
+    'Unknowns' => [
+      'OpionAinn',
+      'UAite',
+      'Iliori',
+      'fceinn',
+      'uAim'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      'crteAt)',
+      'O\'Af',
+      'tAOAif\\',
+      'fi,',
+      't)o',
+      '1f',
+      'Oior-',
+      'g0',
+      't)uAir*c',
+      '6if'
+    ],
+    'L1' => '3.56773502433939e-10'
+  }
+};
+$VAR1 = {
+  '┌───────────────────────────────┐
+│PAGE                           │
+├──────────────────────────┬────┤
+│John Fitzgerald           │96  │
+├──────────────────────────┼────┤
+│W. D. Gallagher .         │98  │
+├──────────────────────────┼────┤
+│SfeApjiAt) <5 OOnncATDA   │99  │
+├──────────────────────────┼────┤
+│                          │I OO│
+├──────────────────────────┼────┤
+│Jff. D. Joyce .           │loa │
+├──────────────────────────┼────┤
+│Ao-DgAn 6 UAtAiVte        │105 │
+├──────────────────────────┼────┤
+│Rev. M. Mullin            │107 │
+├──────────────────────────┼────┤
+│John Keegan .             │no  │
+├──────────────────────────┼────┤
+│SeAn CtAjiAC .            │"3  │
+├──────────────────────────┼────┤
+│Thomas Davis              │114 │
+├──────────────────────────┼────┤
+│SeAn Ua iTlujiCAtJA .     │117 │
+├──────────────────────────┼────┤
+│John Locke                │119 │
+├──────────────────────────┼────┤
+│plAjlAf iTlACgeAJIAltc    │121 │
+├──────────────────────────┼────┤
+│eiUtint)ub tli ConAitt    │122 │
+├──────────────────────────┼────┤
+│W. B. M-Burney .          │127 │
+├──────────────────────────┼────┤
+│bT«Ar) ittAC5iottA menirlB│129 │
+├──────────────────────────┼────┤
+│Geo. Sigerson, M.D.       │I3I │
+├──────────────────────────┼────┤
+│William Drennan .         │133 │
+├──────────────────────────┼────┤
+│eoJAn TluA-6 6 SmtteAftAin│135 │
+├──────────────────────────┼────┤
+│Lady Wilde .              │137 │
+├──────────────────────────┼────┤
+│                          │140 │
+├──────────────────────────┼────┤
+│William Rooney            │142 │
+├──────────────────────────┼────┤
+│Rev. P. M. Furlong        │144 │
+├──────────────────────────┼────┤
+│ITliceAl, 65 6 Lon^Ain    │148 │
+├──────────────────────────┼────┤
+│Patrick Archer            │149 │
+├──────────────────────────┼────┤
+│Brian O\'Higgins           │152 │
+├──────────────────────────┼────┤
+│                          │154 │
+├──────────────────────────┼────┤
+│Patrick Denn              │IS9 │
+├──────────────────────────┼────┤
+│                          │164 │
+├──────────────────────────┼────┤
+│Gerald Griffin            │166 │
+├──────────────────────────┼────┤
+│An CjiAoibin Aoitunn      │168 │
+├──────────────────────────┼────┤
+│/. /. Callanan            │170 │
+├──────────────────────────┼────┤
+│„                         │171 │
+├──────────────────────────┼────┤
+│                          │TT4 │
+├──────────────────────────┼────┤
+│                          │"   │
+├──────────────────────────┼────┤
+│Gerald Griffin            │\'74 │
+├──────────────────────────┼────┤
+│eoJAn Ruao                │177 │
+├──────────────────────────┼────┤
+│Kevin T. Buggy            │1 80│
+├──────────────────────────┼────┤
+│J. C. Mangan              │181 │
+├──────────────────────────┼────┤
+│                          │183 │
+├──────────────────────────┼────┤
+│                          │188 │
+├──────────────────────────┼────┤
+│/. Keegan Casey           │191 │
+├──────────────────────────┼────┤
+│Ca-oi; ^Aet)eAtAc         │193 │
+└──────────────────────────┴────┘' => {
+    'L2' => '4.42313231067093e-05',
+    'Unknowns' => [
+      'OOnncATDA',
+      'UAtAiVte',
+      'CtAjiAC',
+      'iTlujiCAtJA',
+      'iTlACgeAJIAltc',
+      'tli',
+      'ConAitt',
+      'Drennan',
+      'Denn',
+      'CjiAoibin',
+      'Aoitunn',
+      'Ruao',
+      'Mangan'
+    ],
+    'Min' => 0,
+    'Unaccepted' => [
+      '┌───────────────────────────────┐',
+      '│PAGE',
+      '│',
+      '├──────────────────────────┬────┤',
+      '│John',
+      '│96',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│W.',
+      'D.',
+      '.',
+      '│98',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│SfeApjiAt)',
+      '<5',
+      '│99',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│I',
+      'OO│',
+      '├──────────────────────────┼────┤',
+      '│Jff.',
+      'D.',
+      '.',
+      '│loa',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Ao-DgAn',
+      '│105',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Rev.',
+      'M.',
+      '│107',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│John',
+      '.',
+      '│no',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│SeAn',
+      '.',
+      '│"3',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Thomas',
+      '│114',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│SeAn',
+      '.',
+      '│117',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│John',
+      '│119',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│plAjlAf',
+      '│121',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│eiUtint)ub',
+      '│122',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│W.',
+      'B.',
+      'M-Burney',
+      '.',
+      '│127',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│bT«Ar)',
+      'ittAC5iottA',
+      'menirlB│129',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Geo.',
+      'Sigerson,',
+      'M.D.',
+      '│I3I',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│William',
+      '.',
+      '│133',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│eoJAn',
+      'TluA-6',
+      'SmtteAftAin│135',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Lady',
+      '.',
+      '│137',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│140',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│William',
+      '│142',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Rev.',
+      'P.',
+      'M.',
+      '│144',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│ITliceAl,',
+      'Lon^Ain',
+      '│148',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Patrick',
+      '│149',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Brian',
+      'O\'Higgins',
+      '│152',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│154',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Patrick',
+      '│IS9',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│164',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Gerald',
+      '│166',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│An',
+      '│168',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│/.',
+      '/.',
+      '│170',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│„',
+      '│171',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│TT4',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│"',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Gerald',
+      '│\'74',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│eoJAn',
+      '│177',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Kevin',
+      'T.',
+      '│1',
+      '80│',
+      '├──────────────────────────┼────┤',
+      '│J.',
+      'C.',
+      '│181',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│183',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│',
+      '│188',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│/.',
+      '│191',
+      '│',
+      '├──────────────────────────┼────┤',
+      '│Ca-oi;',
+      '^Aet)eAtAc',
+      '│193',
+      '│',
+      '└──────────────────────────┴────┘'
+    ],
+    'L1' => '6.31099981861328e-11'
+  }
+};

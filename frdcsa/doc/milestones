@@ -1,0 +1,49 @@
+The system is rather large.  So recently I went through it and looked
+at some of the more interesting gems in it that give people an idea of
+what it does.  These are some of the accessible highlights of the
+FRDCSA system.
+
+ALL
+
+ALL::TTS::Irish
+	A Gaelic TTS system.
+
+ALL::TTS
+	A TTS Wrapper that classifies languages and reads using appropriate TTS system and language pair.
+
+/var/lib/myfrdcsa/codebases/internal/all/scripts/define-previously-unseen-uses-of-words.pl
+	An example run of a system that defines previously unseens wordnet senses after WSD.
+
+/var/lib/myfrdcsa/codebases/internal/all/lang/gaelic/poem
+	The first Gaelic poem I ever wrote.
+
+/var/lib/myfrdcsa/codebases/internal/all/scripts/emacs-fix-terminology.pl
+	A multifile substitute and replace using emacsclient.
+
+
+Akahige
+
+/var/lib/myfrdcsa/codebases/internal/akahige/Akahige/Exercise.pm
+	An exercise manager.
+
+
+AntiSpam-Console
+
+/var/lib/myfrdcsa/codebases/internal/antispam-console/ASConsole/CorporaManager.pm
+	A system that supports monitoring of an IMAP account among other things.
+	
+/var/lib/myfrdcsa/codebases/internal/antispam-console/ASConsole/Filter/Setanta.pm
+	A filter that with approval executes common tasks based on incoming mail.
+
+
+Architect
+
+/var/lib/myfrdcsa/codebases/internal/architect/data/systems/old-data/systems
+	A list of systems extracted from writings. (not all writings used.)
+
+/var/lib/myfrdcsa/codebases/internal/architect/scripts/classify-capability.pl
+	The functionality classifer.
+
+/var/lib/myfrdcsa/codebases/internal/architect/scripts/entries
+	A list of hallucinated requirements.  The scripts for
+	generating these have a problem with their markov generator.

@@ -1,0 +1,8 @@
+(dictionary stuff
+ ;; move this information somewhere more important, such as ALL
+ (solution
+  (setup phonetic (probably soundex search))
+  (/usr/bin/dict -s soundex <word>)
+  )
+ (setup reverse dictionary search)
+ )

@@ -1,0 +1,11 @@
+# there is related work in PerlLib::NLP
+
+text
+	paragraph
+	sentence
+	token
+		word
+		syllable
+	words
+
+

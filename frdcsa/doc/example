@@ -1,0 +1,1347 @@
+To whom it may concern,
+	To those individuals concerned regarding this project, I spent
+maybe 1 hour on it tonight and have some encouraging results to show.
+	This is the project by which a users conceptual dictionary is
+learned by the CLEAR program and items not seen before are defined.
+For simplicity's sake, I have not written software here that might
+build our conceptual vocabulary, nay, only used word sense
+disambiguation (which is a pain to setup but which I guess I got
+working before without knowing it) to determine a word's sense and
+look it up in WordNet.  Long sentences take too long currently and in
+lieu of devising some method I just print those sentences.  No effort
+was given to reducing the number of obvious words in this script.
+	There is obviously too much that can be done with this if you
+understand the technology.  This would help in foreign language
+aquisition.  It is a trivial matter to adopt this system to reading in
+foreign languages, recursing on definitions, and accepting user
+guidance.
+	I hope this gives you a better picture of the possibilities
+here.
+
+Andy
+
+
+Creating QueryData object
+Creating SenseRelate object
+Reading text
+Splitting sentences
+Disambiguating sentences
+
+Chapter 
+	| Chapter#n#1 - a subdivision of a written work; usually numbered and titled; "he read a
+	| chapter every night before falling asleep"  
+VI: 
+	| VI#n#2 - more than 130 southeastern Virgin Islands; a dependent territory of the United
+	| States  
+Tales 
+	| Tale#n#1 - a message that tells the particulars of an act or occurrence or course of
+	| events; presented in writing or drama or cinema or as a radio or television program; "his
+	| narrative was interesting"; "Disney's stories entertain adults as well as children"  
+?of? ?the? ?Ossianic? Cycle 
+	| Cycle#n#6 - a wheeled vehicle that has two wheels and is moved by foot pedals  
+
+
+?The? ?Fianna? of ?Erin? 
+
+As the tales of the Ultonian Cycle duster round the heroic figure of the Hound of Cullan so do those of the Ossianic Cycle round that of Finn mac Cumhal pronounced mac Cool whose son Oisin pronounced Usheen or Ossian as Macpherson called him in the pretended translations from the Gaelic which first introduced him to the English speaking world was a poet as well as a warrior and is the traditional author of most of them
+
+The events of the Ultonian Cycle are supposed to have taken place about the time of the birth of Christ
+
+Those of the Ossianic Cycle fell mostly in the reign of Cormac mac Art who lived in the third century A D During his reign the Fianna of Erin who are represented as a kind of military Order composed mainly of the members of two clans Clan Bascna and Clan Morna and who were supposed to be devoted to the service of the High King and to the repelling of foreign invaders reached the height of their renown under the captaincy of Finn
+
+The annalists of ancient Ireland treated the story of Finn and the Fianna in its main outlines as sober history
+
+?This? ?it? can 
+	| can#v#1 - preserve in a can or tin; "tinned foods are not very tasty"  
+hardly 
+	| hardly#r#1 - by a small margin; "they could barely hear the speaker"; "we hardly knew
+	| them"; "just missed being hit"; "had scarcely rung the bell when the door flew open";
+	| "would have scarce arrived before she would have found some excuse to leave"- W.B.Yeats  
+be. 
+	| be#v#1 - have the quality of being; (copula, used with an adjective or a predicate noun);
+	| "John is rich"; "This is not a good answer"  
+
+
+Ireland had no foreign invaders during the period when the Fianna are supposed to have flourished and the tales do not throw a ray of light on the real history of the country they are far more concerned with a Fairyland populated by supernatural beings beautiful or terrible than with any tract of real earth inhabited by real men and women
+
+The modern critical reader of these tales will soon feel that it would be idle to seek for any basis of fact in this glittering mirage
+
+But the mirage was created by poets and storytellers of such rare gifts for this kind of literature that it took at once an extraordinary hold on the imagination of the Irish and Scottish Gael
+
+The Ossianic Cycle 
+	| Cycle#v#1 - cause to go through a recurring sequence; "cycle thge laundry in this washing
+	| program"  
+
+
+The earliest tales of this cycle now extant are found in manuscripts of the eleventh and twelfth centuries and were composed probably a couple of centuries earlier
+
+But the cycle lasted in a condition of vital growth for a thousand years right down to Michael Comyn s Lay of Oisin in the Land of Youth which was composed about 1750 and which ended the long history of Gaelic literature
+
+subject of course to the possibility that the present revival of Gaelic as a spoken tongue may lead to the opening of a new chapter in that history
+
+It has been estimated see Ossian and Ossianic Literature by Alfred Nutt p 4 that if all the tales and poems of the Ossianic Cycle which still remain could be printed they would fill some twenty five volumes the size of this
+
+Moreover a very great proportion of this literature even if there were no manuscripts at all could during the last and the preceding centuries have been recovered from the lips of what has been absurdly called an illiterate peasantry in the Highlands and in the Gaelic speaking parts of Ireland
+
+It cannot but interest us to study the character of the literature which was capable of exercising such a spell
+
+Contrasted 
+	| Contrast#v#1 - put in opposition to show or emphasize differences; "The middle school
+	| teacher contrasted her best student's work with that of her weakest student"	
+?with? the ?Ultonian? Cycle 
+
+Let us begin by saying that the reader will find himself in an altogether different atmosphere from that in which the heroes of the Ultonian Cycle live and move
+
+Everything speaks of a later epoch when life was gentler and softer when men lived more in settlements and towns when the Danaan Folk were more distinctly fairies and less deities when in literature the elements of wonder and romance predominated and the iron string of heroism and self sacrifice was more rarely sounded
+
+There is in the Ossianic literature a conscious delight in and romance predominated and the iron string of heroism and self sacrifice was more rarely sounded
+
+There is in the Ossianic literature a conscious delight in wild nature in scenery in the song of birds the music of the chase through the woods in mysterious and romantic adventure which speaks unmistakably of a time when the free open air life under the greenwood tree is looked back on and idealised but no longer habitually lived by those who celebrate it
+
+There 
+	| There#n#1 - a location other than here; that place; "you can take it from there"  
+is 
+	| be#v#3 - occupy a certain position or area; be somewhere; "Where is my umbrella?" "The
+	| toolshed is in the back"; "What is behind this behavior?"  
+also 
+	| also#r#1 - in addition; "he has a Mercedes, too"  
+a 
+	| a#n#2 - a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron);
+	| used to specify wavelengths of electromagnetic radiation  
+significant 
+	| significant#a#1 - important in effect or meaning; "a significant change in tax laws"; "a
+	| significant change in the Constitution"; "a significant contribution"; "significant
+	| details"; "statistically significant"  
+change 
+	| change#v#2 - cause to change; make different; cause a transformation; "The advent of the
+	| automobile may have altered the growth pattern of the city"; "The discussion has changed
+	| my thinking about the issue"	
+of locale. 
+	| locale#n#1 - the scene of any event or action (especially the place of a meeting)  
+
+
+The Conorian tales were the product of a literary movement having its sources among the bleak hills or on the stern rock bound coasts of Ulster
+
+In 
+	| In#a#1 - holding office; "the in party"  
+the Ossianic Cycle ?we? find 
+	| find#v#4 - after a calculation, investigation, experiment, survey, or study; "find the
+	| product of two numbers"; "The physicist who found the elusive particle won the Nobel
+	| Prize"  
+?ourselves? in 
+	| in#n#1 - a unit of length equal to one twelfth of a foot  
+the Midlands 
+	| Midland#n#1 - a town in west central Texas  
+or 
+	| or#n#1 - a state in northwestern United States on the Pacific  
+South 
+	| South#n#1 - the region of the United States lying south of the Mason-Dixon Line  
+of ?lreland?. 
+
+Much of the action takes place amid the soft witchery of the Killarney landscape and the difference between the two regions is reflected in the ethical temper of the tales
+
+In the Ultonian Cycle it will have been noticed that however extravagantly the supernatural element may be employed the final significance of almost every tale the end to which all the supernatural machinery is worked is something real and human something that has to do with the virtues or vices the passions or the duties or men and women
+
+In the Ossianic Cycle, broadly 
+	| broadly#r#2 - in a wide fashion; "he smiled broadly"	
+speaking, 
+	| speaking#n#2 - delivering an address to a public audience; "people came to see the
+	| candidates and hear the speechmaking"  
+?this? is not 
+	| not#r#1 - negation of a word or group of words; "he does not speak French"; "she is not
+	| going"; "they are not friends"; "not many"; "not much"; "not at all"	
+so. 
+	| so#n#1 - the syllable naming the fifth (dominant) note of any musical scale in
+	| solmization  
+
+
+The nobler vein of literature seems to have been exhausted and we have now beauty for the sake of beauty romance for the sake of romance horror or mystery for the sake of the excitement they arouse
+
+The Ossianic tales 
+	| tale#n#1 - a message that tells the particulars of an act or occurrence or course of
+	| events; presented in writing or drama or cinema or as a radio or television program; "his
+	| narrative was interesting"; "Disney's stories entertain adults as well as children"  
+are, at 
+	| at#n#1 - a highly unstable radioactive element (the heaviest of the halogen series); a
+	| decay product of uranium and thorium	
+?their? best, 
+	| good#a#1 - having desirable or positive qualities especially those suitable for a thing
+	| specified; "good news from the hospital"; "a good report card"; "when she was good she
+	| was very very good"; "a good knife is one good for cutting"; "this stump will make a good
+	| picnic table"; "a good check"; "a good joke"; "a good exterior paint"; "a good
+	| secretary"; "a good dress for the office"  
+
+
+Lovely 
+	| Lovely#n#1 - a very pretty girl who works as a photographer's model  
+apparitions, 
+	| apparition#n#2 - the appearance of a ghostlike figure; "I was recalled to the present by
+	| the apparition of a frightening specter"  
+sent 
+	| send#v#4 - transport commercially  
+?To? be a 
+	| a#n#5 - (biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and
+	| with uracil in RNA  
+moment'
+	| moment#n#6 - the n-th moment of a distribution is the expected value of the n-th power of
+	| the deviations from a fixed value  
+s 
+	| s#n#1 - 1/60 of a minute; the basic unit of time adopted under the Systeme International
+	| d'Unites  
+ornament." 
+	| ornament#n#1 - something used to beautify  
+
+
+They lack that something found in the noblest art as in the noblest personalities which has power to warn to comfort and command
+
+The Coming 
+	| Come#v#1 - move toward, travel toward something or somebody or approach something or
+	| somebody; "He came singing down the road"; "Come with me to the Casbah"; "come down
+	| here!"; "come out of the closet!"; "come into the room"  
+of Finn 
+	| Finn#n#1 - a native or inhabitant of Finland	
+
+
+King Cormac mac Art was certainly a historical character which is more perhaps than we can say of Conor mac Nessa
+
+Whether there is any real personage behind the glorious figure of his great captain Finn it is more difficult to say
+
+But 
+	| But#r#1 - and nothing more; "I was merely asking"; "it is simply a matter of time"; "just
+	| a scratch"; "he was only a child"; "hopes that last but a moment"  
+?for? ?our? purpose 
+	| purpose#n#1 - an anticipated outcome that is intended or that guides your planned
+	| actions; "his intent was to provide a new translation"; "good intentions are not enough";
+	| "it was created with the conscious aim of answering immediate needs"; "he made no secret
+	| of his designs"  
+it is not necessary 
+	| necessary#n#1 - anything indispensable; "food and shelter are necessities of life"; "the
+	| essentials of the good life"; "allow farmers to buy their requirements under favorable
+	| conditions"; "a place where the requisites of water fuel and fodder can be obtained"	
+?to? go 
+	| go#v#1 - change location; move, travel, or proceed; "How fast does your new car go?"; "We
+	| travelled from Rome to Naples by bus"; "The policemen went from door to door looking for
+	| the suspect"; "The soldiers moved towards the city in an attempt to take it before night
+	| fell"  
+?into? this question. 
+	| question#n#3 - a sentence of inquiry that asks for a reply; "he asked a direct question";
+	| "he had trouble phrasing his interrogations"	
+
+
+He was a creation of the Celtic mind in one land and in one stage of its development and our part here is to show what kind of character the Irish mind liked to idealise and make stories about
+
+Finn, like 
+	| like#v#1 - prefer or wish to do something; "Do you care to try this dish?"; "Would you
+	| like to come along to the movies?"  
+most 
+	| most#a#2 - the superlative of `much' that can be used with mass nouns and is usually
+	| preceded by `the'; a quantifier meaning the greatest in amount or extent or degree; "made
+	| the most money he could"; "what attracts the most attention?"; "made the most of a bad
+	| deal"  
+of the Irish 
+	| Irish#n#3 - the Celtic language of Ireland  
+heroes, 
+	| hero#n#1 - a man distinguished by exceptional courage and nobility and strength; "RAF
+	| pilots were the heroes of the Battle of Britain"  
+had 
+	| have#v#1 - have or possess, either in a concrete or an abstract sense; "She has $1,000 in
+	| the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from
+	| Harvard"  
+a partly 
+	| partly#r#1 - in part; in some degree; not wholly; "I felt partly to blame"; "He was
+	| partially paralyzed"	
+?Danaan? ancestry. 
+	| ancestry - ancestry#n
+
+
+His mother Murna of the White Neck was grand daughter of Nuada of the Silver Hand who had wedded that Ethlinn daughter of Balor the Fomorian who bore the Sun god Lugh to Kian
+
+?Cumhal? son 
+	| son#n#1 - a male human offspring; "their son became a famous judge"; "his boy is taller
+	| than he is"  
+of ?Trenmor? was 
+	| wa#n#1 - a state in northwestern United States on the Pacific  
+Finn's father. 
+	| father#n#4 - (Christianity) any of about 70 theologians in the period from the 2nd to the
+	| 7th century whose writing established and confirmed official church doctrine; in the
+	| Roman Catholic Church some were later declared saints and became Doctor of the Church;
+	| the best known Lation Church Fathers are Ambrose, Augustine, Gregory the Great, and
+	| Jerome; those who wrote in Greek include Athanasius, Basil, Gregory Nazianzen, and John
+	| Chrysostom  
+
+
+He was chief of the Clan Bascna who were contending with the Clan Morna for the leadership of the Fianna and was overthrown and slain by these at the battle of Knock
+
+now Castleknock near Dublin Among the Clan Morna was a man named Lia the lord of Luachar in Connacht who was Treasurer of the Fianna and who kept the Treasure Bag a bag made ot crane s skin and having in it magic weapons and jewels of great price that had come down from the days of the Danaans
+
+?And? he 
+	| he#n#1 - a very light colorless element that is one of the six inert gasses; the most
+	| difficult gas to liquefy; occurs in economically extractable amounts in certain natural
+	| gases (as those found in Texas and Kansas)  
+became 
+	| become#v#1 - enter or assume a certain state or condition; "He became annoyed when he
+	| heard the bad news"; "It must be getting more serious"; "her face went red with anger";
+	| "She went into ecstasy"; "Get going!"  
+Treasurer 
+	| Treasurer#n#1 - an officer charged with receiving and disbursing funds  
+to the Clan 
+	| Clan#n#1 - group of people related by blood or marriage  
+?Morna?, ?and? still 
+	| still#n#3 - an apparatus used for the distillation of liquids; consists of a vessel in
+	| which a substance is vaporized by heat and a condenser where the vapor is condensed  
+kept 
+	| keep#v#1 - keep in a certain state, position, or activity; e.g., "keep clean"; "hold in
+	| place"; "She always held herself as a lady"; "The students keep me on my toes"  
+the bag 
+	| bag#n#1 - a flexible container with a single opening; "he stuffed his laundry into a
+	| large bag"  
+at ?Rath? ?Luachar?. 
+
+Murna after the defeat and death ot Cumhal took refuge in the forests of Slieve Bloom in the King s Country and there she bore a man child whom she named Demna
+
+For fear that the Clan Morna would find him out and slay him she gave him to be nurtured in the wudwood by two aged women and she herself became wife to the King of Kerry
+
+But Demna when he grew up to be a lad was called Finn or the Fair One on account of the whiteness of his skin and his golden hair and by this name he was always known thereafter
+
+?His? first 
+	| first#a#1 - preceding all others in time or space or degree; "the first house on the
+	| right"; "the first day of spring"; "his first political race"; "her first baby"; "the
+	| first time"; "the first meetings of the new party"; "the first phase of his training"  
+deed 
+	| deed#n#1 - a notable achievement; "he performed a great deed"; "the book was her finest
+	| effort"  
+was to slay 
+	| slay#v#1 - kill intentionally and with premeditation; "The mafia boss ordered his enemies
+	| murdered"  
+?Lia?, who 
+	| who#n#1 - a United Nations agency to coordinate international health activities and to
+	| help governments improve health services  
+had 
+	| have#v#13 - cause to do; cause to act in a specified manner; "The ads induced me to buy a
+	| VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa"  
+the Treasure 
+	| Treasure#n#1 - accumulated wealth in the form of money or jewels etc.; "the pirates hid
+	| their treasure on a small island in the West Indies"	
+Bag 
+	| Bag#n#4 - a bag used for carrying money and small personal items or accessories
+	| (especially by women); "she reached into her bag and found a comb"  
+of the Fianna,. 
+
+?which? he took 
+	| take#v#17 - remove something concrete, as by lifting, pushing, taking off, etc. or remove
+	| something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from
+	| the table"; "take the gun from your pocket"; "This machine withdraws heat from the
+	| environment"	
+?from? ?him?. 
+
+He then sought out his uncle Crimmal who with a few other old men survivors of the chiefs of Clan Bascna had escaped the sword at Castleknock and were living in much penury and affliction in the recesses of the forests of Connacht
+
+These he furnished with a retinue and guard from among a body of youths who followed his fortunes and gave them the Treasure Bag
+
+He himself went to learn the accomplishments of poetry and science from an ancient sage and Druid named Finegas who dwelt on the river Boyne
+
+Here in a pool of this river under boughs of hazel from which dropped the Nuts of Knowledge on the stream lived Fintan the Salmon of Knowledge which whoso ate of him would enjoy all the wisdom of the ages
+
+Finegas had sought many a time to catch this salmon but failed until Finn had come to be his pupil
+
+Then one day he caught it and gave it to Finn to cook bidding him eat none of it himself but to tell him when it was ready
+
+When 
+	| When#r#1 - as soon as; "once we are home, we can rest"  
+the lad 
+	| lad - lad#n
+brought 
+	| bring#v#1 - take something or somebody with oneself somewhere; "Bring me the box from the
+	| other room"; "Take these letters to the boss"; "This brings me to the main point"  
+the salmon, 
+	| salmon#n#3 - flesh of any of various marine or freshwater fish of the family Salmonidae  
+?Finegas? saw 
+	| see#v#24 - make sense of; assign a meaning to; "What message do you see in this letter?";
+	| "How do you interpret his behavior?"	
+?that? ?his? countenance 
+	| countenance#v#1 - consent to, give permission; "She permitted her son to visit her
+	| estranged husband"; "I won't let the police search her basement"; "I cannot allow you to
+	| see your exam"  
+was changed. 
+
+?Hast? thou 
+	| thou#n#1 - the cardinal number that is the product of 10 and 100  
+eaten 
+	| eat#v#2 - eat a meal; take a meal; "We did not eat until 10 P.M. because there were so
+	| many phone calls"; "I didn't eat yet, so I gladly accept your invitation"  
+of the salmon?" he asked. 
+	| ask#v#7 - require as useful, just, or proper; "It takes nerve to do what she did";
+	| "success usually requires hard work"; "This job asks a lot of patience and skill"; "This
+	| position demands a lot of personal sacrifice"; "This dinner calls for a spectacular
+	| dessert"; "This intervention does not postulates a patient's consent"  
+
+
+Nay said Finn but when I turned it on the spit my thumb was burnt and I put it to my mouth
+
+Take 
+	| Take#v#1 - carry out; "take action"; "take steps"; "take vengeance"  
+the Salmon 
+	| Salmon#n#3 - flesh of any of various marine or freshwater fish of the family Salmonidae  
+of Knowledge 
+	| Knowledge#n#1 - the psychological result of perception and learning and reasoning  
+and eat it," then 
+	| then#r#2 - in that case or as a consequence; "if he didn't take it, then who did?"; "keep
+	| it then if you want to"; "the case, then, is closed"; "you've made up your mind then?";
+	| "then you'll be rich"  
+said 
+	| say#v#8 - speak, pronounce, or utter in a certain way; "She pronounces French words in a
+	| funny way"; "I cannot say `zip wire'"; "Can the child sound out this complicated word?"  
+Finegas, "for in 
+	| in#n#3 - a state in midwestern United States	
+?thee? the prophecy 
+	| prophecy#n#1 - knowledge of the future (usually said to be obtained from a divine source) 
+is come 
+	| come#v#10 - extend or reach; "The water came up to my waist"; "The sleeves come to your
+	| knuckles"  
+true. 
+	| true#a#1 - consistent with fact or reality; not false; "the story is true"; "it is
+	| undesirable to believe a proposition when there is no ground whatever for supposing it
+	| true"- B. Russell; "the true meaning of the statement"  
+
+
+And now 
+	| now#r#1 - at the present moment; "goods now on sale"; "the now-aging dictator"; "they are
+	| now abroad"; "he is busy at present writing a new novel"; "it could happen any time now"  
+go hence, 
+	| hence#r#1 - (used to introduce a logical conclusion) from that fact or reason or as a
+	| result; "therefore X must be true"; "the eggs were fresh and hence satisfactory"; "we
+	| were young and thence optimistic"; "it is late and thus we must go"; "the witness is
+	| biased and so cannot be trusted"  
+for I 
+	| I#n#1 - a nonmetallic element belonging to the halogens; used especially in medicine and
+	| photography and in dyes; occurs naturally only in combination in small quantities (as in
+	| sea water or rocks)  
+can 
+	| can#n#5 - a plumbing fixture for defecation and urination  
+teach 
+	| teach#v#1 - impart skills or knowledge to; "I taught them French"; "He instructed me in
+	| building a boat"  
+thee no 
+	| no#a#1 - quantifier; used with either mass nouns or plural count nouns for indicating a
+	| complete or almost complete lack or zero quantity of; "we have no bananas"; "no eggs left
+	| and no money to buy any"; "have you no decency?"; "did it with no help"; "I'll get you
+	| there in no time"  
+more." 
+	| more#a#2 - (comparative of `many' used with count nouns) quantifier meaning greater in
+	| number; "a hall with more seats"; "we have no more bananas"; "more than one"	
+
+
+After that Finn became as wise as he was strong and bold and it is said that whenever he wished to divine what would befall or what was happening at a distance he had but to put his thumb in his mouth and bite it and the knowledge he wished for would be his
+
+Finn and the Goblin 
+	| Goblin#n#1 - (folklore) a small grotesque supernatural creature that makes trouble for
+	| human beings	
+
+
+At this time Goll son of Morna was the captain of the Fianna of Erin but Finn being come to man s estate wished to take the place of his father Cumhal
+
+So he went to Tara and during the Great Assembly when no man might raise his hand against any other in the precincts of Tara he sat down among the king s warriors and the Fianna
+
+At 
+	| At#n#1 - a highly unstable radioactive element (the heaviest of the halogen series); a
+	| decay product of uranium and thorium	
+last 
+	| last#a#2 - coming after all others in time or space or degree or being the only one
+	| remaining; "the last time I saw Paris"; "the last day of the month"; "had the last word";
+	| "waited until the last minute"; "he raised his voice in a last supreme call"; "the last
+	| game of the season"; "down to his last nickel"  
+the king 
+	| king#n#1 - a male sovereign; ruler of a kingdom  
+marked 
+	| mark#v#5 - make or leave a mark on; "mark the trail so that we can find our way back"  
+him as a stranger 
+	| strange#a#1 - being definitely out of the ordinary and unexpected; slightly odd or even a
+	| bit weird; "a strange exaltation that was indefinable"; "a strange fantastical mind";
+	| "what a strange sense of humor she has"  
+?among? ?them?, and bade 
+	| bid#v#4 - make a demand, as for a card or a suit or a show of hands; "He called his
+	| trump"  
+him declare 
+	| declare#v#6 - designate (a trump suit or no-trump) with the final bid of a hand  
+his name 
+	| name#n#1 - a language unit by which a person or thing is known; "his name really is
+	| George Washington"; "those are two names for the same thing"	
+and lineage. 
+	| lineage#n#1 - the descendants of one individual; "his entire lineage has been warriors"  
+
+
+I am Finn son of Cumhal said he and I am come to take service with thee O King as my father did
+
+The king accepted 
+	| accept#v#3 - give an affirmative reply to; respond favorably to; "I cannot accept your
+	| invitation"; "I go for this resolution"  
+him gladly, 
+	| gladly#r#1 - in a willing manner; "this was gladly agreed to"; "I would fain do it"  
+and Finn swore 
+	| swear#v#5 - have confidence or faith in; "We can trust in God"; "Rely on your friends";
+	| "bank on your good education"; "I swear by my grandmother's recipes"	
+loyal 
+	| loyal#a#1 - steadfast in allegiance or duty; "loyal subjects"; "loyal friends stood by
+	| him"	
+service 
+	| service#n#7 - the performance of duties by a waiter or servant; "that restaurant has
+	| excellent service"  
+to him. 
+
+No long time after that came the period of the year when Tara was troubled by a goblin or demon that came at night fall and blew fire balls against the royal city setting it in flames and none could do battle with him for as he came he played on a harp a music so sweet that each man who heard it was lapped in dreams and forgot all else on earth for the sake of listening to that music
+
+When this was told to Finn he went to the king and said Shall I if I slay the goblin have my father s place as captain of the Fianna
+
+Yea, 
+	| Yea#r#1 - not only so, but; "I therein do rejoice, yea, and will rejoice"  
+surely," 
+	| surely#r#1 - definitely or positively (`sure' is sometimes used informally for `surely');
+	| "the results are surely encouraging"; "she certainly is a hard worker"; "it's going to be
+	| a good day for sure"; "they are coming, for certain"; "they thought he had been killed
+	| sure enough"; "he'll win sure as shooting"; "they sure smell good"; "sure he'll come"  
+said 
+	| say#v#3 - express a supposition; "Let us say that he did not tell the truth"; "Let's say
+	| you had a lot of money--what would you do?"  
+the king, and he bound 
+	| bound#n#1 - a line determining the limits of an area	
+?himself? to this by 
+	| by#r#1 - so as to pass a given point; "every hour a train goes past"	
+an 
+	| an#n#1 - an associate degree in nursing  
+oath. 
+	| oath#n#3 - a solemn promise, usually invoking a divine witness, regarding your future
+	| acts or behavior; "they took an oath of allegience"  
+
+
+Now there were among the men at arms an old follower of Finn s father Cumhal who possessed a magic spear with a head of bronze and rivets of Arabian gold
+
+The head was kept laced up in a leathern case and it had the property that when the naked blade was laid against the forehead of a man it would fill him with a strength and a battle fury that would make him invincible in every combat
+
+This spear the man Fiacha gave to Finn and taught him how to use it and with it he awaited the coming of the goblin on the ramparts of Tara
+
+As night fell and mists began to gather in the wide plain around the Hill he saw a shadowy form coming swiftly towards him and heard the notes of the magic harp
+
+But laying the spear to his brow he shook off the spell and the phantom fled before him to the Fairy Mound of Slieve Fuad and there Finn overtook and slew him and bore back his head to Tara
+
+Then Cormac the King set Finn before the Fianna and bade them all either swear obedience to him as their captain or seek service elsewhere
+
+And first of all Goll mac Morna swore service and then all the rest followed and Finn became Captain of the Fianna of Erin and ruled them till he died
+
+Finn's Chief 
+	| Chief#n#1 - a person who is in charge; "the head of the whole operation"  
+Men: 
+	| man#n#1 - an adult male person (as opposed to a woman); "there were two women and six men
+	| on the bus"  
+?Conan? mac 
+	| mac#n#1 - a waterproof raincoat made of rubberized fabric  
+Lia 
+
+With the coming of Finn the Fianna of Erin came to their glory and with his life their glory passed away
+
+For he ruled them as no other captain ever did both strongly and wisely and never bore a grudge against any but freely forgave a man all offences save disloyalty to his lord
+
+Thus it is told that Conan son of the lord of Luachar him who had the Treasure Bag and whom Finn slew at Rath Luachar was for seven years an outlaw and marauder harrying the Fians and killing here a man and there a hound and firing dwellings and raiding their cattle
+
+At last they ran him to a corner at Carn Lewy in Munster and when he saw that he could escape no more he stole upon Finn as he sat down after a chase and flung his arms round him from behind holding him fast and motionless
+
+Finn knew 
+	| know#v#1 - be cognizant or aware of a fact or a specific piece of information; possess
+	| knowledge or information about; "I know that the President lied to the people"; "I want
+	| to know who is winning the game!"; "I know it's time"  
+who held 
+	| hold#v#2 - keep in a certain state, position, or activity; e.g., "keep clean"; "hold in
+	| place"; "She always held herself as a lady"; "The students keep me on my toes"  
+him thus, 
+	| thus#r#1 - (used to introduce a logical conclusion) from that fact or reason or as a
+	| result; "therefore X must be true"; "the eggs were fresh and hence satisfactory"; "we
+	| were young and thence optimistic"; "it is late and thus we must go"; "the witness is
+	| biased and so cannot be trusted"  
+and said: "?What? wilt 
+	| wilt#n#1 - any plant disease characterized by drooping and shriveling; usually caused by
+	| parasites attacking the roots  
+thou, Conan?" 
+
+Conan said To make a covenant of service and fealty with thee for I may no longer evade thy wrath
+
+So Finn laughed and said Be it so Conan and if thou prove faithful and valiant I also will keep faith
+
+Conan served 
+	| serve#v#1 - serve a purpose, role, or function; "The tree stump serves as a table"; "The
+	| female students served as a control group"; "This table would serve very well"; "His
+	| freedom served him well"; "The table functions as a desk"  
+him for thirty 
+	| thirty#n#1 - the cardinal number that is the product of ten and three  
+years, 
+	| year#n#3 - the period of time that it takes for a planet (as, e.g., Earth or Mars) to
+	| make a complete revolution around the sun; "a Martian year takes 687 of our days"  
+and no man 
+	| man#n#5 - any living or extinct member of the family Hominidae  
+of all 
+	| all#a#1 - quantifier; used with either mass or count nouns to indicate the whole number
+	| or amount of or every one of a class; "we sat up all night"; "ate all the food"; "all men
+	| are mortal"; "all parties are welcome"  
+the Fianna was keener 
+	| keen#a#3 - very penetrating and clear and sharp in operation; "an incisive mind"; "a keen
+	| intelligence"; "of sharp and active intellect"  
+and hardier 
+	| hardy#a#1 - having rugged physical strength; inured to fatigue or hardships; "hardy
+	| explorers of northern Canada"; "proud of her tall stalwart son"; "stout seamen"; "sturdy
+	| young athletes"  
+in fight. 
+	| fight#n#4 - a hostile meeting of opposing military forces in the course of a war; "Grant
+	| won a decisive victory in the battle of Chickamauga"; "he lost his romantic ideas about
+	| war when he got into a real engagement"  
+
+
+Conan mac Morna 
+
+There was also another Conan namely mac Morna who was big and bald and unwieldy in manly exercises but whose tongue was bitter and scurrilous no high or brave thing was done that Conan the Bald did not mock and belittle
+
+It Is said that when he was stripped he showed down his back and buttocks a black sheep s fleece instead of a man s skin and this is the way it came about
+
+One day when Conan and certain others of the Fianna were hunting in the forest they came to a stately dun white walled with coloured thatching on the roof and they entered it to seek hospitality
+
+But when they were within they found no man but a great empty hall with pillars of cedar wood and silken hangings about it like the hall of a wealthy lord
+
+In the midst there was a table set forth with a sumptuous feast of boar s flesh and venison and a great vat of yew wood full of red wine and cups of gold and silver
+
+So they set themselves gaily to eat and drink for they were hungry from the chase and talk and laughter were loud around the board
+
+But one of them ere long started to his feet with a cry of fear and wonder and they all looked round and saw before their eyes the tapestried walls changing to rough wooden beams and the ceiling to foul sooty thatch like that of a herdsman s hut
+
+So they knew they were being entrapped by some enchantment of the Fairy Folk and all sprang to their feet and made for the doorway that was no longer high and stately but was shrinking to the size of a fox earth all but Conan the Bald who was gluttonously devouring the good things on the table and heeded nothing else
+
+Then they shouted to him and as the last of them went out he strove to rise and follow but found himself limed to the chair so that he could not stir
+
+So two of the Fianna seeing his plight rushed back and seized his arms and tugged with all their might and as they dragged him away they left the most part of his raiment and his skin sticking to the chair
+
+Then not knowing what else to do with him in his sore plight they clapped upon his back the nearest thing they could find which was the skin of a black sheep that they took from a peasant s flock hard by and it grew there and Conan wore it till his death
+
+Though 
+	| Though#r#1 - despite the fact that; "even though she knew the answer, she did not
+	| respond"  
+Conan was a coward 
+	| coward#n#1 - a person who shows fear or timidity  
+and. 
+
+rarely adventured himself in battle with the Fianna it is told that once a good man fell by his hand
+
+This was on the day of the great battle with the pirate horde on the Hill of Slaughter in Kerry
+
+the hill still bears the name Knockanar For Liagan one of the invaders stood out before the hosts and challenged the bravest of the Fians to single combat and the Fians in mockery thrust Conan forth to the fight
+
+When he appeared Liagan laughed for he had more strength than wit and he said Silly is thy visit thou bald old man And as Conan still approached Liagan lifted his hand fiercely and Conan said Truly thou art in more peril from the man behind than from the man in front
+
+Liagan looked round and in that instant Conan swept off his head and then threw his sword and ran for shelter to the ranks of the laughing Fians
+
+But Finn was very 
+	| very#a#3 - used to give emphasis to the relevance of the thing modified; "his very name
+	| struck terror"; "caught in the very act"  
+wroth 
+	| wroth#a#1 - vehemently incensed and condemnatory; "they trembled before the wrathful
+	| queen"; "but wroth as he was, a short struggle ended in reconciliation"  
+?because? he had 
+	| have#v#2 - have as a feature; "This restaurant features the most famous chefs in France"  
+won 
+	| win#v#2 - win something through one's efforts; "I acquired a passing knowledge of
+	| Chinese"; "Gain an understanding of international finance"   
+the victory 
+	| victory#n#1 - a successful ending of a struggle or contest; "the general always gets
+	| credit for his army's victory"; "the agreement was a triumph for common sense"  
+by a trick. 
+	| trick#n#5 - an illusory feat; considered magical by naive observers  
+
+
+?Dermot? O'
+	| O#n#1 - the blood group whose red cells carry neither the A nor B antigens; "people with
+	| type O blood are universal donors"  
+?Dyna? 
+
+And one 
+	| one#a#1 - used of a single unit or thing; not two or more; "`ane' is Scottish"  
+of the chiefest 
+	| chief#a#1 - most important element; "the chief aim of living"; "the main doors were of
+	| solid glass"; "the principal rivers of America"; "the principal example"; "policemen were
+	| primary targets"  
+of the friends 
+	| friend#n#4 - a person who backs a politician or a team etc.; "all their supporters came
+	| out for the game"; "they are friends of the library"	
+of Finn was Dermot of the Love 
+	| Love#n#1 - a strong positive emotion of regard and affection; "his love for his work";
+	| "children need a lot of love"  
+Spot. 
+	| Spot#n#1 - a point located with respect to surface features of some region; "this is a
+	| nice place for a picnic"  
+
+
+He was so fair and noble to look on that no woman could refuse him love and it was said that he never knew weariness but his step was as light at the end of the longest day of battle or the chase as it was at the beginning
+
+Between him and Finn there was great love until the day when Finn then an old man was to wed Grania daughter of Cormac the High King but Grania bound Dermot by the sacred ordinances of the Fian chivalry to fly with her on her wedding night which thing sorely against his will he did and thereby got his death
+
+But Grania went back to Finn and when the Fianna saw her they laughed through all the camp in bitter mockery for they would not have given one of the dead man s fingers for twenty such as Grania
+
+?Keelta? mac ?Ronan? and ?Oisin? 
+
+Another of the chief men that Finn had was Keelta mac Ronan who was one of his house stewards and a strong warrior as well as a golden tongued reciter of tales and poems
+
+And there was Oisin the son of Finn the greatest poet of the Gael of whom more shall be told hereafter
+
+Oscar 
+	| Oscar#n#1 - an annual award by the Academy of Motion Picture Arts and Sciences for
+	| achievements in motion picture production and performance  
+
+
+Oisin had a son, 
+	| son#n#2 - the divine word of God; the second person in the Trinity (incarnate in Jesus)  
+Oscar, who was the fiercest 
+	| fierce#a#1 - marked by extreme and violent energy; "a ferocious beating"; "fierce
+	| fighting"; "a furious battle"  
+fighter 
+	| fighter#n#2 - a high-speed military or naval airplane designed to destroy enemy aircraft
+	| in the air  
+in battle 
+	| battle#n#1 - a hostile meeting of opposing military forces in the course of a war; "Grant
+	| won a decisive victory in the battle of Chickamauga"; "he lost his romantic ideas about
+	| war when he got into a real engagement"  
+among all the ?Fians?. 
+
+He slew in his maiden battle three kings and in his fury he also slew by mischance his own friend and condisciple Linn
+
+His wife was the fair Aideen who died of grief after Oscar s death in the battle of Gowra and Oisin buried her on Ben Edar Howth and raised over her the great dolmen which is there to this day
+
+Oscar appears in this literature as a type of hard strength with a heart like twisted horn sheathed in steel a character made as purely for war as a sword or spear
+
+?Geena? mac ?Luga? 
+
+Another good man that Finn had was Geena the son of Luga his mother was the warrior daughter of Finn and his father was a near kinsman of hers
+
+He was nurtured by a woman that bore the name of Fair Mane who had brought up many of the Fianna to manhood
+
+When his time to take arms was come he stood before Finn and made his covenant of fealty and Finn gave him the captaincy of a band
+
+But mac Luga proved slothful and selfish for ever vaunting himself and his weapon skill and never training his men to the chase of deer or boar and he used to beat his hounds and his serving men
+
+At last the Fians under him came with their whole company to Finn at Loch Lena in Killarney and there they laid their complaint against mac Luga and said Choose now O Finn whether you will have us or the son of Luga by himself Then Finn sent to mac Luga and questioned him but mac Luga could say nothing to the point as to why the Fianna would none of him
+
+Then Finn taught him the things befitting a youth of noble birth and a captain of men and they were these
+
+Maxims 
+	| Maxim#n#1 - a saying that widely accepted on its own merits  
+of the Fianna 
+
+Son of Lug if armed service be thy design in a great man s household be quiet be surly in the narrow pass
+
+Without a fault of his beat not thy hound until thou ascertain her guilt bring not a charge against thy wife
+
+In battle meddle 
+	| meddle#v#1 - intrude in other people's affairs or business; interfere unwantedly; "Don't
+	| meddle in my affairs!"  
+not with a buffoon, 
+	| buffoon#n#2 - a person who amuses others by ridiculous behavior  
+for, O 
+	| O#n#2 - a nonmetallic bivalent element that is normally a colorless odorless tasteless
+	| nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most
+	| abundant element in the earth's crust  
+mac Luga, he is but 
+	| but#r#1 - and nothing more; "I was merely asking"; "it is simply a matter of time"; "just
+	| a scratch"; "he was only a child"; "hopes that last but a moment"  
+a 
+	| a#n#4 - one of the four nucleotides used in building DNA; all four nucleotides have a
+	| common phosphate group and a sugar (ribose)  
+fool. 
+	| fool#n#1 - a person who lacks good judgment  
+
+
+Censure not any if he be of grave repute stand not up to take part in a brawl have naught to do with a madman or a wicked one
+
+Two thirds of thy gentleness be shown to women and to those that creep on the floor little children and to poets and be not violent to the common people
+
+Utter not swaggering speech nor say thou wilt not yield what is right it is a shameful thing to speak too stiffly unless that it be feasible to carry out thy words
+
+So long as thou shalt live thy lord forsake not neither for gold nor for other reward in the world abandon one whom thou art pledged to protect
+
+To a 
+	| a#n#1 - the blood group whose red cells carry the A antigen  
+chief 
+	| chief#n#1 - a person who is in charge; "the head of the whole operation"  
+do 
+	| do#v#9 - behave in a certain manner; show a certain behavior; conduct or comport oneself;
+	| "You should act like an adult"; "Don't behave like a fool"; "What makes her do this
+	| way?"; "The dog acts ferocious, but he is really afraid of people"  
+not abuse 
+	| abuse#n#2 - a rude expression intended to offend or hurt; "when a student made a stupid
+	| mistake he spared them no abuse"; "they yelled insults at the visiting team"	
+his people, 
+	| people#n#1 - (plural) any group of human beings (men or women or children) collectively;
+	| "old people"; "there were at least 200 people in the audience"  
+for that is no work 
+	| work#n#2 - a product produced or accomplished through the effort or activity or agency of
+	| a person or thing; "it is not regarded as one of his more memorable works"; "the symphony
+	| was hailed as an ingenious work"; "he was indebted to the pioneering work of John Dewey";
+	| "the work of an active imagination"; "erosion is the work of wind or water over time"  
+for a man of gentle 
+	| gentle#v#2 - give a title to someone; make someone a member of the nobility  
+blood. 
+	| blood#n#1 - the fluid (red in vertebrates) that is pumped by the heart; "blood carries
+	| oxygen and nutrients to the tissues and carries waste products away"; "the ancients
+	| believed that blood was the seat of the emotions"  
+
+
+Be 
+	| Be#v#1 - have the quality of being; (copula, used with an adjective or a predicate noun);
+	| "John is rich"; "This is not a good answer"  
+no tale-bearer, 
+	| bearer#n#4 - the person who is in possession of a check or note or bond or document of
+	| title that is endorsed to him or to whoever holds it; "the bond was marked `payable to
+	| bearer'"  
+?nor? utterer 
+	| utterer#n#3 - someone who expresses in language; someone who talks (especially someone
+	| who delivers a public speech or someone especially garrulous); "the speaker at
+	| commencement"; "an utterer of useful maxims"	
+of falsehoods; 
+	| falsehood#n#2 - the act of rendering something false as by fraudulent changes (of
+	| documents or measures etc.) or counterfeiting  
+be not talkative 
+	| talkative#a#1 - full of trivial conversation; "kept from her housework by gabby
+	| neighbors"  
+nor rashly 
+	| rashly#r#1 - in a hasty and foolhardy manner; "he fell headlong in love with his cousin"  
+censorious. 
+	| censorious#a#1 - harshly critical or expressing censure; "was censorious of petty
+	| failings"  
+
+
+Stir 
+	| Stir#v#1 - move an implement through with a circular motion; "stir the soup"; "stir my
+	| drink"  
+not up 
+	| up#a#1 - being or moving higher in position or greater in some value; being above a
+	| former position or level; "the anchor is up"; "the sun is up"; "he lay face up"; "he is
+	| up by a pawn"; "the market is up"; "the corn is up"  
+strife 
+	| strife#n#1 - lack of agreement or harmony  
+?against? thee, however 
+	| however#r#1 - despite anything to the contrary (usually following a concession);
+	| "although I'm a little afraid, however I'd like to try it"; "while we disliked each
+	| other, nevertheless we agreed"; "he was a stern yet fair master"; "granted that it is
+	| dangerous, all the same I still want to go"  
+good a man thou be. 
+
+Be no frequenter of the drinking house nor given to carping at the old meddle not with a man of mean estate
+
+Dispense 
+	| Dispense#v#1 - administer or bestow, as in small portions; "administer critical remarks
+	| to everyone present"; "dole out some money"; "shell out pocket money for the children";
+	| "deal a blow to someone"  
+?thy? meat 
+	| meat#n#1 - the flesh of animals (including fishes and birds and snails) used as food	
+freely; 
+	| freely#r#1 - in a free manner; "the painting featured freely brushed strokes"  
+have no niggard 
+	| niggard#n#1 - a selfish person who is unwilling to give or spend  
+for thy familiar. 
+	| familiar#n#2 - a person who is frequently in the company of another; "drinking
+	| companions"; "comrades in arms"  
+
+
+Force 
+	| Force#v#1 - to cause to do through pressure or necessity, by physical, moral or
+	| intellectual means :"She forced him to take a job in the city"; "He squeezed her for
+	| information"	
+not ?thyself? ?upon? a chief, nor give 
+	| give#v#24 - give food to; "Feed the starving children in India"; "don't give the child
+	| this tough meat"  
+him cause 
+	| cause#v#1 - give rise to; cause to happen or occur, not always intentionally; "cause a
+	| commotion"; "make a stir"; "cause an accident"  
+to speak 
+	| speak#v#1 - express in speech; "She talks a lot of nonsense"; "This depressed patient
+	| does not verbalize"  
+ill 
+	| ill#a#1 - not in good physical or mental health; "ill from the monotony of his suffering" 
+of thee. 
+
+Stick 
+	| Stick#n#1 - implement consisting of a length of wood; "he collected dry sticks for a
+	| campfire"; "the kid had a candied apple on a stick"  
+to thy gear; 
+	| gear#n#1 - a toothed wheel that engages another toothed mechanism in order to change the
+	| speed or direction of transmitted motion  
+hold 
+	| hold#n#8 - the appendage to an object that is designed to be held in order to use or move
+	| it; "he grabbed the hammer by the handle"; "it was an old briefcase but it still had a
+	| good grip"  
+fast 
+	| fast#a#1 - acting or moving or capable of acting or moving quickly; "fast film"; "on the
+	| fast track in school"; "set a fast pace"; "a fast car"  
+to thy arms 
+	| arm#n#2 - any instrument or instrumentality used in fighting or hunting; "he was licensed
+	| to carry a weapon"  
+till 
+	| till#n#1 - unstratified soil deposited by a glacier; consists of sand and clay and gravel
+	| and boulders mixed together  
+the stern 
+	| stern#n#3 - the fleshy part of the human body that you sit on; "he deserves a good kick
+	| in the butt"; "are you going to sit on your fanny and do nothing?"  
+fight with ?its? weapon-
+	| weapon#n#1 - any instrument or instrumentality used in fighting or hunting; "he was
+	| licensed to carry a weapon"  
+glitter 
+	| glitter#n#2 - the occurrence of a small flash or spark  
+be ended. 
+	| end#v#3 - be the end of; be the last or concluding part of; "This sad scene ended the
+	| movie"  
+
+
+Be more apt to give than to deny and follow after gentleness O son of Luga And the son of Luga it is written heeded these counsels and gave up his bad ways and he became one of the best of Finn s men
+
+Character 
+	| Character#v#1 - engrave or inscribe characters on  
+of Finn 
+
+Suchlike things also Finn taught to all his followers and the best of them became like himself in valour and gentleness and generosity
+
+Each of them loved the repute of his comrades more than his own and each would say that for all noble qualities there was no man in the breadth of the world worthy to be thought of beside Finn
+
+It was said of him that he gave away gold as if it were the leaves of the woodland and silver as if it were the foam of the sea and that whatever he had bestowed upon any man if he fell out with him afterwards he was never known to bring it against him
+
+The poet 
+	| poet#n#1 - a writer of poems (the term is usually reserved for writers of good poetry)  
+Oisin once 
+	| once#a#1 - belonging to some prior time; "erstwhile friend"; "our former glory"; "the
+	| once capital of the state"; "her quondam lover"  
+sang 
+	| sang#n#1 - North American woodland herb similar to and used as substitute for the Chinese
+	| ginseng  
+of him to ?St?. Patrick: 
+	| Patrick#n#1 - Apostle and patron saint of Ireland; an English missionary to Ireland in
+	| the 5th century  
+
+
+These are the things that were dear to Finn The din of battle the banquet s glee The bay of his hounds through the rough glen ringing And the blackbird singing in Letter Lee The shingle grinding along the shore When they dragged his war boats down to sea The dawn wind whistling his spears among And the magic song of his minstrels three
+
+Tests 
+	| Test#v#1 - put to the test, as for its quality, or give experimental use to; "This
+	| approach has been tried with good results"; "Test this recipe"  
+of the Fianna 
+
+In the time of Finn no one was ever permitted to be one of the Fianna of Erin unless he could pass through many severe tests of his worthiness
+
+He must be versed in the Twelve Books of Poetry and must himself be skilled to make verse in the rime and metre of the masters of Gaelic poesy
+
+Then he was buried to his middle in the earth and must with a shield and a hazel stick there defend himself against nine warriors casting spears at him and if he were wounded he was not accepted
+
+Then 
+	| Then#a#1 - at a specific prior time; "the then president"  
+his hair 
+	| hair#n#1 - dense growth of hairs covering the body or parts of it (as on the human head);
+	| helps prevent heat loss; "he combed his hair"  
+was woven 
+	| weave#v#1 - interlace by or as it by weaving	
+into braid; 
+	| braid#v#1 - make by braiding or interlacing; "lace a tablecloth"  
+and he was chased 
+	| chase#v#1 - go after with the intent to catch; "The policeman chased the mugger down the
+	| alley"; "the dog chased the rabbit"  
+through 
+	| through#a#1 - having finished or arrived at completion; "certain to make history before
+	| he's done"; "it's a done deed"; "after the treatment, the patient is through except for
+	| follow-up"; "almost through with his studies"  
+the forest 
+	| forest#n#1 - the trees and other plants in a large densely wooded area  
+by the ?Fiana?. 
+
+If he were overtaken or if a braid of his hair were disturbed or if a dry stick cracked under his foot he was not accepted
+
+He must be able to leap over a lath level with his brow and to run at full speed under one level with his knee and he must be able while running to draw out a thorn from his foot and never slacken speed
+
+He 
+	| He#n#1 - a very light colorless element that is one of the six inert gasses; the most
+	| difficult gas to liquefy; occurs in economically extractable amounts in certain natural
+	| gases (as those found in Texas and Kansas)  
+must 
+	| must#n#3 - the quality of smelling or tasting old or stale or mouldy	
+take 
+	| take#v#10 - pick out, select, or choose from a number of alternatives; "Take any one of
+	| these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes
+	| from among the dozen the salesgirl had shown her"  
+no dowry 
+	| dowry#n#1 - money or property brought by a woman to her husband at marriage  
+with a wife. 
+	| wife#n#1 - a married woman; a man's partner in marriage  
+
+
+Keelta and St. Patrick 
+
+It was said that one of the Fians namely Keelta lived on to a great age and saw St Patrick by whom he was baptized into the faith of the Christ and to whom he told many tales of Finn and his men which Patrick s scribe wrote down
+
+And once Patrick asked him how it was that the Fianna became so mighty and so glorious that all Ireland sang of their deeds as Ireland has done ever since
+
+Keelta answered: "
+	| answer#v#1 - reply or respond to; "She didn't want to answer"; "answer the question"; "We
+	| answered that we would accept the invitation"  
+Truth 
+	| Truth#n#4 - the quality of nearness to the truth or the true value; "he was beginning to
+	| doubt the accuracy of his compass"; "the lawyer questioned the truth of my account"  
+was in our hearts 
+	| heart#n#4 - an area that is approximately central within some larger region; "it is in
+	| the center of town"; "they ran forward into the heart of the struggle"; "they were in the
+	| eye of the storm"  
+and strength 
+	| strength#n#1 - the property of being physically or mentally strong; "fatigue sapped his
+	| strength"  
+in our arms, 
+	| arm#n#1 - a human limb; technically the part of the superior limb between the shoulder
+	| and the elbow but commonly used to refer to the whole superior limb  
+and ?what? we said, that we fulfilled." 
+	| fulfil#v#1 - put in effect; "carry out a task"; "execute the decision of the people"; "He
+	| actioned the operation"  
+
+
+This was also told 
+	| tell#v#1 - express in words; "He said that he wanted to marry her"; "tell me what is
+	| bothering you"; "state your opinion"; "state your name"  
+of Keelta after 
+	| after#r#1 - happening at a time subsequent to a reference time; "he apologized
+	| subsequently"; "he's going to the store but he'll be back here later"; "it didn't happen
+	| until afterward"; "two hours after that"  
+he had seen 
+	| see#v#5 - deem to be; "She views this quite differently from me"; "I consider her to be
+	| shallow"; "I don't see the situation quite as negatively as you do"  
+St. Patrick and received 
+	| received#a#1 - conforming to the established language usage of educated native speakers;
+	| "standard English" (American); "received standard English is sometimes called the King's
+	| English" (British)  
+the Faith. 
+	| Faith#n#1 - a strong belief in a supernatural power or powers that control human destiny;
+	| "he lost his faith but not his morality"  
+
+
+He chanced to be one day by Leyney in Connacht where the Fairy Folk of the Mound of Duma were wont to be sorely harassed and spoiled every year by pirates from oversea
+
+They called Keelta to their aid and by his counsel and valour the invaders were overcome and driven home but Keelta was sorely wounded
+
+Then Keelta asked that Owen the seer of the Fairy Folk might foretell him how long he had to live for he was already a very aged man Owen said It will be seventeen years O Keelta of fair fame till thou fall by the pool of Tara and grievous that will be to all the king s household
+
+Even 
+	| Even#v#1 - make level or straight; "level the ground"  
+so did 
+	| do#v#7 - be sufficient; be adequate, either in quality or quantity; "A few words would
+	| answer"; "This car suits my purpose well"; "Will $100 do?"; "A 'B' grade doesn't suffice
+	| to get me into medical school"; "Nothing else will serve"  
+?my? chief and lord, 
+	| lord#n#2 - a person who has general authority over others  
+my guardian 
+	| guardian#n#1 - a person who cares for persons or property  
+and loving 
+	| loving#a#1 - feeling or showing love and affection; "loving parents"; "loving glances"  
+protector, 
+	| protector#n#1 - a person who cares for persons or property  
+Finn, foretell 
+	| foretell#v#2 - make a prediction about; tell in advance; "Call the outcome of an
+	| election"  
+to me," 
+	| me#n#1 - a state in New England  
+said Keelta. 
+
+And now what fee will ye give me for my rescue of you from the worst affliction that ever befell you A great reward said the Fairy Folk even youth for by our art we shall change you into a young man again with all the strength and activity of your prime
+
+Nay God forbid said Keelta that I should take upon me a shape of sorcery or any other than that which my Maker the true and glorious God hath bestowed upon me And the Fairy Folk said It is the word of a true warrior and hero and the thing that thou sayest is good
+
+So they healed his wounds and every bodily evil that he had and he wished them blessing and victory and went his way
+
+The Birth 
+	| Birth#v#1 - give birth (to a newborn); "My wife had twins yesterday!"  
+of Oisin 
+
+One day as Finn and his companions and dogs were returning from the chase to their dun on the Hill of Allen a beautiful fawn started up on their path and the chase swept after her she taking the way which led to their home
+
+Soon 
+	| Soon#r#1 - in the near future; "the doctor will soon be here"; "the book will appear
+	| shortly"; "she will arrive presently"; "we should have news before long"  
+all 
+	| all#r#1 - to a complete degree or to the full or entire extent (`whole' is often used
+	| informally for `wholly'); "he was wholly convinced"; "entirely satisfied with the meal";
+	| "it was completely different from what we expected"; "was completely at fault"; "a
+	| totally new situation"; "the directions were all wrong"; "it was not altogether her
+	| fault"; "an altogether new approach"; "a whole new idea"  
+the pursuers 
+	| pursuer#n#1 - a person who is pursuing and trying to overtake or capture; "always before
+	| he had been able to outwit his pursuers"  
+were left 
+	| leave#v#5 - move out of or depart from; "leave the room"; "the fugitive has left the
+	| country"  
+far 
+	| far#a#3 - being the animal or vehicle on the right or being on the right side of an
+	| animal or vehicle; "the horse on the right is the far horse"; "the right side is the far
+	| side of the horse"  
+behind 
+	| behind#n#1 - the fleshy part of the human body that you sit on; "he deserves a good kick
+	| in the butt"; "are you going to sit on your fanny and do nothing?"  
+save 
+	| save#n#1 - (sports) the act of preventing the opposition from scoring; "the goalie made a
+	| brilliant save"; "the relief pitcher got credit for a save"  
+only 
+	| only#a#1 - being the only one; single and isolated from others; "the lone doctor in the
+	| entire county"; "a lonesome pine"; "an only child"; "the sole heir"; "the sole example";
+	| "a solitary instance of cowardice"; "a solitary speck in the sky"  
+Finn himself and his two 
+	| two#n#1 - the cardinal number that is the sum of one and one or a numeral representing
+	| this number  
+hounds 
+	| hound#n#1 - any of several breeds of dog used for hunting typically having large drooping
+	| ears	
+Bran 
+	| Bran#n#1 - broken husks of the seeds of cereal grains that are separated from the flour
+	| by sifting  
+and ?Skolawn?. 
+
+Now these hounds were of strange breed for Tyren sister to Murna the mother of Finn had been changed into a hound by the enchantment of a woman of the Fairy Folk who loved Tyren s husband Ullan and the two hounds of Finn were the children of Tyren born to her in that shape
+
+Of all hounds in Ireland they were the best and Finn loved them much so that it was said he wept but twice in his life and once was for the death of Bran
+
+At last as the chase went on down a valley side Finn saw the fawn stop and lie down while the two hounds began to play
+
+round 
+	| round#a#1 - having a circular shape  
+?her?, and to lick 
+	| lick#v#3 - find the solution to (a problem or question) or understand the meaning of;
+	| "did you solve the problem?"; "Work out your problems with the boss"; "this unpleasant
+	| situation isn't going to work itself out"; "did you get it?"; "Did you get my meaning?";
+	| "He could not work the math problem"	
+her face 
+	| face#n#1 - the front of the human head from the forehead to the chin and ear to ear; "he
+	| washed his face"; "I wish I had seen the look on his face when he got the news"  
+and limbs. 
+	| limb#n#1 - one of the jointed appendages of an animal used for locomotion or grasping:
+	| arm; leg; wing; flipper  
+
+
+So he gave commandment that none should hurt her and she followed them to the Dun of Allen playing with the hounds as she went
+
+The same 
+	| same#a#1 - same in identity; "the same man I saw yesterday"; "never wore the same dress
+	| twice"; "this road is the same one we were on yesterday"; "on the same side of the
+	| street"  
+night 
+	| night#n#1 - the time after sunset and before sunrise while it is dark outside  
+Finn awoke 
+	| awake#v#1 - stop sleeping; "She woke up to the sound of the alarm clock"  
+and saw 
+	| see#v#10 - be careful or certain to do something; make certain of something; "He verified
+	| that the valves were closed"; "See that the curtains are closed"; "control the quality of
+	| the product"	
+standing 
+	| standing#n#1 - social or financial or professional status or reputation; "of equal
+	| standing"; "a member in good standing"  
+by 
+	| by#r#2 - in reserve; not for immediate use; "started setting aside money to buy a car";
+	| "put something by for her old age"; "has a nestegg tucked away for a rainy day"  
+his bed 
+	| bed#n#1 - a piece of furniture that provides a place to sleep; "he sat on the edge of the
+	| bed"; "the room had only a bed and chair"  
+the fairest 
+	| fair#a#1 - free from favoritism or self-interest or bias or deception; or conforming with
+	| established standards or rules; "a fair referee"; "fair deal"; "on a fair footing"; "a
+	| fair fight"; "by fair means or foul"	
+woman 
+	| woman#n#1 - an adult female person (as opposed to a man); "the woman kept house while the
+	| man hunted"  
+his eyes 
+	| eye#n#1 - the organ of sight	
+had 
+	| have#v#6 - serve oneself to, or consume regularly; "Have another bowl of chicken soup!";
+	| "I don't take sugar in my coffee"  
+ever 
+	| ever#r#2 - at all times; all the time and on every occasion; "I will always be there to
+	| help you"; "always arrives on time"; "there is always some pollution in the air"; "ever
+	| hoping to strike it rich"; "ever busy"  
+beheld. 
+	| behold#v#1 - see with attention; "behold Christ!"  
+
+
+I 
+	| I#a#1 - used of a single unit or thing; not two or more; "`ane' is Scottish"	
+am Saba, 
+	| Saba#n#1 - a island in the Netherlands Antilles that is the top of an extinct volcano  
+O Finn," ?she? said, "and I was the fawn 
+	| fawn#v#3 - have fawns; "deer fawn"  
+?ye? chased to-day. 
+	| day#n#3 - the time after sunrise and before sunset while it is light outside; "the dawn
+	| turned night into day"; "it is easier to make the repairs in the daytime"  
+
+
+Because I would not give my love to the Druid of the Fairy Folk who is named the Dark he put that shape upon me by his sorceries and I have borne it these three years
+
+But a slave of his pitying me once revealed to me that if I could win to thy great Dun of Allen O Finn I should be safe from all enchantments and my natural shape would come to me again
+
+But I feared to be torn in pieces by thy dogs or wounded by thy hunters till at last I let myself be overtaken by thee alone and by Bran and Skolawn who have the nature of man and would do me no hurt
+
+Have no fear maiden said Finn we the Fianna are free and our guest friends are free there is none who shall put compulsion on you here
+
+So Saba dwelt with Finn and he made her his wife and so deep was his love for her that neither the battle nor the chase had any delight for him and for months he never left her side
+
+She also loved him as deeply and their joy in each other was like that of the Immortals in the Land of Youth
+
+But at last word came to Finn that the warships of the Northmen were in the Bay of Dublin and he summoned his heroes to the fight For said he to Saba the men of Erin give us tribute and hospitality to defend them from the foreigner and it were shame to take it from them and not to give that to which we on our side are pledged
+
+And he called to mind that great saying of Goll mac Morna when they were once sore bestead by a mighty host A man said Goll lives after his life but not after his honour
+
+Seven 
+	| Seven#a#1 - being one more than six  
+days 
+	| day#n#1 - time for Earth to make a complete rotation on its axis; "two days later they
+	| left"; "they put on two performances every day"; "there are 30,000 passengers per day"  
+was Finn absent, 
+	| absent#a#1 - not in a specified place physically or mentally	
+and he drove 
+	| drive#v#3 - cause someone or something to move by driving; "She drove me to school every
+	| day"; "We drove the car to the garage"  
+?tbe? Northmen 
+	| Northman#n#1 - an inhabitant of Scandinavia  
+men from the shores 
+	| shore#n#1 - the land along the edge of a body of water  
+of Erin. 
+
+But on the eighth day he returned and when he entered his dun he saw trouble in the eyes of his men and of their fair womenfolk and Saba was not on the rampart expecting his return
+
+So he bade them tell him what had chanced and they said Whilst thou our father and lord wert afar oft smiting the foreigner and Saba looking ever down the pass for thy return we saw one day as it were the likeness of thee approaching and Bran and Skolawn at thy heels
+
+And we seemed 
+	| seem#v#1 - give a certain impression or have a certain outward aspect; "She seems to be
+	| sleeping"; "This appears to be a very difficult problem"; "This project looks fishy";
+	| "They appeared like people who had not eaten or slept for a long time"  
+also to hear 
+	| hear#v#3 - examine or hear (evidence or a case) by judicial process; "The jury had heard
+	| all the evidence"; "The case will be tried in California"  
+the notes 
+	| note#n#6 - a comment or instruction (usually added); "his notes were appended at the end
+	| of the article"; "he added a short notation to the address on the envelope"  
+of the ?Fian? hunting-
+	| hunting#n#1 - the pursuit and killing or capture of wild animals regarded as a sport	
+call 
+	| call#v#4 - order, request, or command to come; "She was called into the director's
+	| office"; "Call the police!"  
+blown 
+	| blow#v#4 - be in motion due to some air or water current; "The leaves were blowing in the
+	| wind"; "the boat drifted on the lake"; "The sailboat was adrift on the open sea"; "the
+	| shipwrecked boat drifted away from the shore"  
+on 
+	| on#a#1 - in operation or operational; "left the oven on"; "the switch is in the on
+	| position"  
+the wind. 
+	| wind#n#1 - air moving (sometimes with considerable force) from an area of high pressure
+	| to an area of low pressure; "trees bent under the fierce winds"; "when there is no wind,
+	| row"; "the radioactivity was being swept upwards by the air current and out into the
+	| atmosphere"  
+
+
+Then Saba hastened to the great gate and we could not stay her so eager was she to rush to the phantom
+
+But when she came near she halted and gave a loud and bitter cry and the shape of thee smote her with a hazel wand and lo there was no woman there any more but a deer
+
+Then those hounds chased it and ever as it strove to reach again the gate of the dun they turned back
+
+We all now seized what arms we could and ran out to drive away the enchanter but when we reached the place there was nothing to be seen only still we heard the rushing of flying feet and the baying of dogs and one thought it came from here and another from there till at last the uproar died away and all was still
+
+What we ?could? do, 
+	| do#v#1 - engage in; "make love, not war"; "make an effort"; "do research"; "do nothing";
+	| "make revolution"  
+O Finn, we did; Saba is gone." 
+	| go#v#7 - stretch out over a distance, space, time, or scope; run or extend between two
+	| points or beyond a certain point; "Service runs all the way to Cranbury"; "His knowledge
+	| doesn't go very far"; "My memory extends back to my fourth year of life"; "The facts
+	| extend beyond a consideration of her personal assets"  
+
+
+Finn then struck 
+	| strike#v#2 - deliver a sharp blow, as with the hand, fist, or weapon; "The teacher struck
+	| the child"; "the opponent refused to strike"; "The boxer struck the attacker dead"  
+his hand 
+	| hand#n#1 - the (prehensile) extremity of the superior limb; "he had the hands of a
+	| surgeon"; "he extended his mitt"  
+on 
+	| on#r#3 - in a state required for something to function or be effective; "turn the lights
+	| on"; "get a load on"	
+his breast, 
+	| breast#n#1 - the front part of the trunk from the neck to the abdomen; "he beat his
+	| breast in anger"  
+but spoke 
+	| spoke#n#1 - support consisting of a radial member of a wheel joining the hub to the rim  
+no word, 
+	| word#n#1 - a unit of language that native speakers can identify; "words are the blocks
+	| from which sentences are made"; "he hardly said ten words all morning"  
+and he went to his own 
+	| own#a#1 - belonging to or on behalf of a specified person (especially yourself); preceded
+	| by a possessive; "for your own use"; "do your own thing"; "she makes her own clothes";
+	| "`ain' is Scottish"  
+chamber. 
+	| chamber#n#1 - a natural or artificial enclosed space	
+
+
+No 
+	| No#n#1 - a negative; "his no was loud and clear"  
+man saw him for the rest 
+	| rest#v#6 - stay the same; remain in a certain state; "The dress remained wet after
+	| repeated attempts to dry it"; "rest assured"; "stay alone"; "He remained unmoved by her
+	| tears"; "The bad weather continued for another week"	
+of that day, nor for the day 
+	| day#n#4 - a day assigned to a particular purpose or observance; "Mother's Day"  
+after. 
+
+Then he came forth and ordered the matters of the Fianna as of old but for seven years thereafter he went searching for Saba through every remote glen and dark forest and cavern of Ireland and he would take no hounds with him save Bran and Skolawn
+
+But at last he renounced 
+	| renounce#v#2 - leave (a job, post, post, or position) voluntarily; "She vacated the
+	| position when she got pregnant"; "The chairman resigned when he was found to have
+	| misappropriated funds"  
+all hope 
+	| hope#n#6 - one of the three Christian virtues  
+of finding 
+	| finding#n#1 - the act of determining the properties of something  
+her again, 
+	| again#r#1 - anew; "she tried again"; "they rehearsed the scene again"  
+and went 
+	| go#v#17 - pass from physical life and lose all all bodily attributes and functions
+	| necessary to sustain life; "She died from cancer"; "They children perished in the fire";
+	| "The patient went peacefully"  
+hunting 
+	| hunting#n#2 - the activity of looking thoroughly in order to find something or someone  
+as of old. 
+	| old#a#1 - (used especially of persons) having lived for a relatively long time or
+	| attained a specific age; especially not young; often used as a combining form to indicate
+	| an age as specified as in `a week-old baby'; "an old man's eagle mind"--William Butler
+	| Yeats; "his mother is very old"; "a ripe old age"; "how old are you?"  
+
+
+One day as he was following the chase on Ben Bulban in Sligo he heard the musical bay of the dogs change of a sudden to a fierce growling and yelping as though they were in combat with some beast and running hastily up he and his men beheld under a great tree a naked boy with long hair and around him the hounds struggling to seize him but Bran and Skolawn fighting with them and keeping them off
+
+And the lad was tall and shapely and as the heroes gathered round he gazed undauntedly on them never heeding the rout of dogs at his feet
+
+The Fians beat off the dogs and brought the lad home with them and Finn was very silent and continually searched the lad s countenance with his eyes
+
+In time the use of speech came to him and the story that he told was this He had known no father and no mother save a gentle hind with whom he lived in a most green and pleasant valley shut in on every side by towering cliffs that could not be scaled or by deep chasms in the earth
+
+In the summer he lived on fruits and suchlike and in the winter store of provisions was laid for him in a cave
+
+And there came to them sometimes a tall dark visaged man who spoke to his mother now tenderly and now in loud menace but she always shrank away in fear and the man departed in anger
+
+At last there came a day when the dark man spoke very long with his mother in all tones of entreaty and of tenderness and of rage but she would still keep aloof and give no sign save of fear and abhorrence
+
+Then at length the dark man drew near and smote her with a hazel wand and with that he turned and went his way but she this time followed him still looking back at her son and piteously complaining
+
+And he when he strove to follow found him self unable to move a limb and crying out with rage and desolation he fell to the earth and his senses left him
+
+When he came to himself he was on the mountain side on Ben Bulban where he remained some days searching for that green and hidden valley which he never found again
+
+And after a while the dogs found him but of the hind his mother and of the Dark Druid there is no man knows the end
+
+Finn called his name Oisin Little Fawn and he became a warrior of fame but far more famous for the songs and tales that he made so that of all things to this day that are told of the Fianna of Erin men are wont to say Thus sang the bard Oisin son of Finn
+
+Oisin and ?Niam? 
+
+It happened that on a misty summer morning as Finn and Oisin with many companions were hunting on the shores of Loch Lena they saw coming towards them a maiden beautiful exceedingly riding on a snow white steed
+
+She wore the garb of a queen a crown of gold was on her head and a dark brown mantle of silk set with stars of red gold fell around her and trailed on the ground
+
+interrupt

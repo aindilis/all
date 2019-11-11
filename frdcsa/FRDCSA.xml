@@ -1,0 +1,67 @@
+<system>
+  <title>
+    ALL
+  </title>
+  <acronym-expansion>
+    ALL Language Learning
+  </acronym-expansion>
+  <short-description>
+    Language Acquisition ITS
+  </short-description>
+  <medium-description>
+    ALL is  a system  that supports many  tasks of  language learning.
+    Knowledge of  other languages is deemed essential  to education of
+    the mind and, when combined  with CLEAR, opens the door to immense
+    quantities of knowledge.  ALL  supports this task for both written
+    and  spoken  language (a  necessity).   It  interfaces with  Bard,
+    CLEAR, and PICForm.
+  </medium-description>
+  <long-description>
+    <p>
+      First of all, there is an immense amount of knowledge that has
+      been written.  To expand our minds we ought to learn foreign
+      languages.  We choose to learn various languages based on their
+      strengths and weaknesses.  Chinese will be useful for PICForm.
+      Sanskrit is a formal language with a 5000 year history, some of
+      which was oral.  Gaelic was oral as well.  Hebrew is useful for
+      certain reasons, etc,etc,etc.
+    </p>
+    <p>
+      In order to facilitate language learning we have several
+      features.  The first is our system models the various languages
+      that we are to learn.  It knows our vocabulary and is able to
+      see patterns in the languages and teach us through analogical
+      reasoning and custom Mnemonics.  For each language a grammar is
+      used, as well as for spoken languages a pronunciation system
+      (TTS).  The user is taught the basic 1400 or so words in each
+      important language and continually refreshed upon them, and
+      advanced vocabulary is developed wherever possible.  They are
+      incorporated in communication with the user to preserve use.
+      Ancient and modern texts in the appropriate language are often
+      read by CLEAR to the user.  Interesting artifacts in each
+      language are documented and exposed (e.g. in Sanskrit there are
+      poems that read forward as well as backwards, in Chinese there
+      is a poem composed entirely of "Shi", etc.)
+    </p>
+    <p>
+      Spoken models are contrasted with the TTS and corrective
+      feedback is given.  By knowing what the user knows about the
+      language, custom dictionary entries are generated based on the
+      vocabulary the user already possesses.  Furthermore, their
+      language acquisition helps us to formalize the semantics of all
+      the different languages.  A model of common myths for each
+      language is created to help expedite learning for large groups.
+    </p>
+    <p>
+      Incorporate Justin's writing on this topic when we have internet
+      access.   One   subsystem  of  ALL  is  Termios   which  is  the
+      terminology  management server.  It  is responsible  for knowing
+      all the word  definitions.  Naturally it makes use  of many data
+      sources: WordNet, OpenCyc,  Sensus, EuroWordNet, OMCSNet, dictd,
+      etc., as well as  many programs: Verber, Peterson's WSD, FLogic,
+      Gate.  The basic goal is to provide some level of meaning for as
+      much  terminology as  possible,  as well  as construct  thematic
+      mappings.
+    </p>
+  </long-description>
+</system>
